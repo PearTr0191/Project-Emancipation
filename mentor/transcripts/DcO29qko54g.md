@@ -1,0 +1,200 @@
+---
+code: DcO29qko54g
+date: 2026-08-19
+themes: 
+---
+
+## Caption
+
+Each supplemental prompt should reveal a different facet of yourself…
+
+Save & follow @ultimateivyleagueguide to join the Top 1% of students 🧠 
+
+#ultimateivyleagueguide #UILG #ultimatementor
+
+## Slides (OCR)
+
+Revealing the essays that got me into
+Stanford
+
+---
+
+10f9
+Share an essay on any topic of
+your choice.(650word limit)
+Mymostvaluablepossessionismypileofpaperscraps.No,notscrapsmadefromfancyfloralcardstock,
+butscrapsrippedfromsimpleblankpiecesofcopypaper.Productsofquixoticbrainstormsandtreasuresof
+endlesspeninkenclosedinnothingmorethanaflimsyWholeFoodspaperbagsitingundermywhiteboardof
+messydoodlesandchemistryequations.Utilizingtheboundlesspotentialoftheirblankspace,Iwouldscribble
+mymind,whichwasconstantlypuncturedbyendlessstreamsofideasIknewwouldescapeifnotwritten
+down.Althoughseeminglyuselessatfirstglance,thesescrapsservedasmyinfinitesupplyofpreciousnotes,
+eventuallytransformingintofragmentsthat,whilefascinatingontheir
+intriguing;infact,theyweretheresultofapermanentfracturethatleftthemruthlesslyscattered.
+becamefamiliarwithmyfather'sfrequentmidnighttravelsandwakinguptoyetanotherbottleofalcoholand
+Cancer:definedbyOxfordDictionaryasanuncontrolleddivisionofabnormalcells."ButIfinallyunderstood
+itstruemeaning throughsleeplessnightsofwipingmysister'smuffledtearsasshesatoutsideDad’s
+bedroom,waitingforadoortoopenthatneverwould.WithMomgoneandDadwithdrawnfromfamilyaffairs,
+mysisterdesperatelylackedaparent.Toensureshedevelopedintoaninquisitivechild,Ideliberatelyadopted
+gratitudeforlittlethingslikesunlight.Afterthreeyearsofmaintainingoptimism,Inotonlylearnedhowtomend
+Throughsingle-handedlyraisingmysister,Irealizedthataperfectlifedoesnotexist:Ihavethe
+responsibilitytofindhopewithinmyscars.Andso,asIbegantonavigatetheworld,Icraftedmyownpaper,
+searchingforthebeautywithinmyscrapsdespitetheirexternaldeformities.Somehosteddoodlesand
+soakedpistachioshellswasn't going towinaNobel prizeanytimesoon).MyopinionsonUnitedNations
+policies,tipsonpracticingmindfulBuddhism,andshoppingliststoreplicateMasterchefdishesfoundtheir
+notebooksofaspirationwhendreamsoflandscapestodraworstrategiesfortestingtheanticancereffectsof
+Erigeronphiladelphicusstirredmefrommysleep.Aseachblankremnanttransformedintoanarrayofwords
+andpigments,theyslowlyfittogether,shrinkingthespaceofparentalabsenceandcreatingmypersonalized
+masterpiece
+Imaynotbetheperfectpaper,butIwillmendmytearsandfindvalueineachuniquefragment.Myfather's
+scrapsandhelpotherslikemysisterdothesame,andIwillnotletmylossofchildhoodhindermydesireto
+explore,learn,andcreate.Astheirbaresurfacestransformintovibrantgalleriesofbrainstorms,Iamreminded
+thattruestrengthdoesnotcomefromhavingaperfectpaperbutrathertheabilitytoseethefuturepossibilities
+thateachscrapholds.
+
+---
+
+20f9
+What is the mostsignificant
+challenge thatsocietyfaces
+today?(50word limit)
+Peopleholdontoangerlikegraspinghotcoaltothrowat
+someoneelse,butnotrealizingthey'retheonethatgets
+burned. I often see my peers speak without compassion, but
+forgivenessisn'tasignofsubmissionbutratherutmost
+strength.Through practicing selfless service,“we”can
+replace“me".
+
+---
+
+30f9
+How did you spend your last two
+summers?（50wordlimit
+Frominvestigatinghowtoovercomeantimicrobialresistance
+through culturing E.Coli in myparent'sbathtub andvisiting
+museumsinNewYorktoearlymorningsoffacetiming
+Grandma,packaging art donations,and teachingBuddhist
+lessonstochildrenoverZoom,mysummersrepresented an
+intersectionofscience,sightseeing,service,and
+self-reconnection.
+
+---
+
+40f9
+What historical moment or event
+do you wish you could have
+witnessed?（50 word limit)
+I'd like to witness my father's boat escape in 1975, as he
+watchestheVietnamcoastlinedisappearintothehorizon,
+leaving behind his family's 20 square foot grass hut for a
+future of freedom — bringing nothing but stories of
+Grandpa's fishing market and building cricket traps to catch
+dinner.
+8881
+
+---
+
+50f9
+Briefly elaborate on one ofyourextracurricular
+activities,a jobyouhold,orresponsibilitiesyou
+have foryour family.(50 word limit)
+Hereyeswiden-blissgleamsoverhermemoriesof
+brokenpencils andworn-downpaper.Hereyesweresomber
+whenIvisitedtheDominicanRepubliclastsummer.
+InspireWithColorschangedthem.“I'vealwayswanted to
+become anartist,”shewhispers.I smile,placing anartkit in
+herpalms."Here'syourchance".
+
+---
+
+60f9
+Name one thing you are looking
+forward toexperiencingat
+Stanford.(5oword limit
+Myheartlivesaduality-pulledbytheanalyticsofscience
+yetentranced by thefreedom of art.Stanford harmonizes
+bothinvestigationandcreativitywiththeSeniorReflectionfor
+Biology.Untilthen,IllbecraftywithSecretSnowflakedares
+orbondwithfellowscientiststhroughtheMidnightScream
+during finals!
+ARTHETREE
+HERE
+Stanford
+HERE
+Stanford
+nforo
+nfond Cardind
+NOILVNO
+Stanford
+格NERDNATION
+FORD
+
+---
+
+70f9
+The Stanford community is deeply curious and
+driven to learn in and outofthe classroom.Reflect
+on an idea or experience that makesyou genuinely
+excited aboutlearning.（100 to250words）
+Interestinglyenough,Ihavethislongchecklistofrandom
+questionsI'llwritedownthatemerge inmyconsciousness,
+andI'llprogressivelycheckoffthequestionsthatI'vefound
+answersto.Iwrotethefirstquestiononthelistin9thgrade:
+"Whycan'tIticklemyself?"I checkedthatquestionoff the
+followingsummerafteraskingittoaneuroscientistwho
+presentedataresearchworkshopIattended.Apparently,my
+cerebellumisabletodistinguishexpectedactions,sothe
+sensation of uncontrollablelaughterisn't triggered.Isn't the
+brainfascinating?
+Mycuriosityhassinceskyrocketed,andmyquestions
+continue toflow.InBiology(myfavoriteclass),I get to
+investigatethemolecularsystemsthatallowmetofunction.
+“WhydoIhavetoeat?"Afteralectureaboutcellular
+respiration,Irealizedthatmymitochondrianeedsglucoseto
+formtriosephosphatesandreduceelectroncarrierssoIcan
+continuetothink!Inadditiontoseekingexplicitknowledge,1
+alsoenjoyaskingtacitquestions.“fIamlimitedto
+experiencinglifethroughonlymyfivesenses,whatofreality
+amInotexperiencing?"IeventuallyfoundoutinChemistry
+thatsomebirdshavemagnetoreception,whichallowsthem
+tosenseelectromagneticfields.Istheirexperienceof life
+closertorealitythanmine?
+Whetherthroughquestioning theunderlyingmechanicsof
+thephysical worldorreflectingonmysenseofperception,
+mynaturally-driveninquirywill neverfailtoenlightenme-
+servingasthecatalysttomyever-expandingdrivetolearn
+somethingneweveryday.
+
+---
+
+8of9
+Virtually all of Stanford's undergraduates live on campus.
+Writea notetoyour future roommate thatreveals
+something about you orthatwill help your roommate
+and us - get to know you better. (1o0 to 250 words
+Heyyyyyyy:)))
+Iput7“y"sand7parenthesesfordoublegoodluck.1
+religiouslybelieveinthepowerofthenumber7,soifyousee
+mestopthemicrowaveat7secondsorsetmyalarmat
+6:17A.M(the6and1addupto7),justknowI'mmanifesting
+lotsofgoodluckforus!!!!!!
+Anyways,mynameisElise.Idsayyoucanremembermy
+namebythinkingofBeethoven's“FurElise”,butthat
+introductionisusuallyfollowedbyanawkwardsilence
+interrupted by mequietly giggling at my own(not-so-funny)
+humor.SpeakingofBeethoven,haveyouplayedpiano
+before?I'vebeenplayingsinceIwas-youguessed it-7
+06
+yearsold!!!!!
+47
+Pianoisoneofmyfavoriteformsofself-therapy,butIalso
+liketojournaldownmythoughtsanddecoratemywordswith
+vibrantpigmentsanddoodles.Soifyoueverfeelcaughtup
+inthechaosoflife,Iwouldbemorethanhappytolendyoua
+journalandpartofmy500-piececollectionofcoloredpencils
+andteachyouhowtode-stress.Ipromiseyou,Ineverget
+angryandI'mextremelyempathetic.
+Aroommateandtherapistinone?Whatadeal,right?If
+you'restressed,Ihaveyourback.Iwon'trepeatyourname7
+times,butIcandefinitelyteachyouBeethovenorhelpturn
+youranxietyintoart.
+See ya soon!I can't wait to join your college“Pham"ily!!

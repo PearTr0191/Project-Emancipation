@@ -1,0 +1,1880 @@
+{
+ "generated": "2026-08-25T09:37:29.020330+00:00",
+ "window_start": "2025-09-01",
+ "pool_in_window": 516,
+ "selected": 135,
+ "breakdown": {
+  "image_posts": 60,
+  "novelty_reels": 40,
+  "core_reels": 25,
+  "other_reels": 10
+ },
+ "items": [
+  {
+   "code": "Dcbx7Lsj-HL",
+   "taken_at": 1787598568,
+   "date": "2026-08-24",
+   "product_type": "carousel_container",
+   "like_count": 1801,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "Here’s what I wish I knew in high school… |  | Doing these would‘ve saved me SO much time.  |  | Learn from my trial and errors! ✅⏰ |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.712
+  },
+  {
+   "code": "DcbHs7gSf-U",
+   "taken_at": 1787576411,
+   "date": "2026-08-24",
+   "product_type": "clips",
+   "like_count": 1704,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "recommendation"
+   ],
+   "caption_preview": "“How do I get a strong letter of recommendation?” 👩‍🏫✍️ |  | #UltimateIvyLeagueGuide #UltimateMentor #UILG",
+   "_score": 0.212
+  },
+  {
+   "code": "DcZ5OxCgqWk",
+   "taken_at": 1787535320,
+   "date": "2026-08-24",
+   "product_type": "clips",
+   "like_count": 530,
+   "tier": 4,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "Copy these email templates! 🔍🧬 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": -0.288
+  },
+  {
+   "code": "DcZMqAsowyq",
+   "taken_at": 1787511920,
+   "date": "2026-08-23",
+   "product_type": "carousel_container",
+   "like_count": 5881,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "activity"
+   ],
+   "caption_preview": "Extracurriculars for your major! 🧠🔬 |  | Comment ACTIVITY for my full extracurricular guide! ✅ |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 5.212
+  },
+  {
+   "code": "DcYi7kmBmhO",
+   "taken_at": 1787490005,
+   "date": "2026-08-23",
+   "product_type": "clips",
+   "like_count": 1082,
+   "tier": 4,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "Most students pour everything into one layer and forget the other five 🧱 |  | The strongest applications are built on all six! |  | #UltimateIvyLeagueGuide #UltimateMentor #UILG",
+   "_score": -0.287
+  },
+  {
+   "code": "DcXZMQ4RteN",
+   "taken_at": 1787451483,
+   "date": "2026-08-23",
+   "product_type": "clips",
+   "like_count": 944,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "If you’ve been staring at a blank document titled “personal statement,” here’s what you need to know 👇 |  | Most students freeze on this essay because nobody ever taught them what the structure is suppose",
+   "_score": 0.213
+  },
+  {
+   "code": "DcWnVG1GLGI",
+   "taken_at": 1787425202,
+   "date": "2026-08-22",
+   "product_type": "carousel_container",
+   "like_count": 2090,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "Do you feel this way about college apps? 😅 |  | Don’t worry, @ultimateivyleagueguide is here to help ✅ |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.713
+  },
+  {
+   "code": "DcV-H9HBnii",
+   "taken_at": 1787403607,
+   "date": "2026-08-22",
+   "product_type": "clips",
+   "like_count": 1142,
+   "tier": 4,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "What you think an accepted applicant looks like may be wrong… |  | Let’s address the myths ✅😬 |  | #UltimateIvyLeagueGuide #UltimateMentor #UILG",
+   "_score": -0.287
+  },
+  {
+   "code": "DcUvX0PgyCb",
+   "taken_at": 1787362392,
+   "date": "2026-08-22",
+   "product_type": "clips",
+   "like_count": 3564,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "interview"
+   ],
+   "caption_preview": "The difference between a strong and weak interview answer is specificity ⬇️ |  | ❌ Why the Rejected Answer Doesn’t Work: “Prestige” and “dream school” describe nothing Yale can picture. There’s no reason ",
+   "_score": 0.213
+  },
+  {
+   "code": "DcUFRSko7IL",
+   "taken_at": 1787340276,
+   "date": "2026-08-21",
+   "product_type": "carousel_container",
+   "like_count": 5141,
+   "tier": 1,
+   "novelty": [
+    "change"
+   ],
+   "core": [],
+   "caption_preview": "At 15 Lana was unsure how to stand out. |  | At 17 she got into her dream college, Rice University.  |  | This wasn’t a mistake… |  | She made one decision in 9th grade that changed her life. |  | Here’s her story an",
+   "_score": 6.213
+  },
+  {
+   "code": "DbvWI_-hlG6",
+   "taken_at": 1787317200,
+   "date": "2026-08-21",
+   "product_type": "clips",
+   "like_count": 150,
+   "tier": 4,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "I filmed this almost 3 months ago and it just sat in my camera roll... |  | I think I needed the distance to actually be okay with people knowing this about me. |  | Filming something and posting it are two d",
+   "_score": -0.611
+  },
+  {
+   "code": "DcSXFhkggSr",
+   "taken_at": 1787282537,
+   "date": "2026-08-21",
+   "product_type": "clips",
+   "like_count": 1051,
+   "tier": 4,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "These 6 free tools are an advantage for school and college apps! 🧠✅ |  | 🌟Comment TOOLS and I’ll send you my full list of learning tools I use to maintain a 4.0! |  | #UltimateIvyLeagueGuide #UltimateMentor #",
+   "_score": -0.287
+  },
+  {
+   "code": "DcRdrxWmLAM",
+   "taken_at": 1787252402,
+   "date": "2026-08-20",
+   "product_type": "carousel_container",
+   "like_count": 5577,
+   "tier": 1,
+   "novelty": [
+    "change",
+    "2026"
+   ],
+   "core": [],
+   "caption_preview": "In late July 2026, the MERIT Act was reintroduced in the Senate 👇 |  | It would stop accredited colleges from giving preference to applicants with alumni or donor connections. |  | Most students assume that m",
+   "_score": 7.713
+  },
+  {
+   "code": "DcQ0eRfBICZ",
+   "taken_at": 1787230808,
+   "date": "2026-08-20",
+   "product_type": "clips",
+   "like_count": 1986,
+   "tier": 4,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "Can you guess the correct rank for these awards? 😳🏆 |  | #UltimateIvyLeagueGuide #UltimateMentor #UILG",
+   "_score": -0.287
+  },
+  {
+   "code": "DcPo0YbR3nf",
+   "taken_at": 1787191206,
+   "date": "2026-08-20",
+   "product_type": "clips",
+   "like_count": 783,
+   "tier": 4,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "True or False: College Admissions myths! |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": -0.287
+  },
+  {
+   "code": "DcO29qko54g",
+   "taken_at": 1787165003,
+   "date": "2026-08-19",
+   "product_type": "carousel_container",
+   "like_count": 13123,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "Each supplemental prompt should reveal a different facet of yourself… |  | Save & follow @ultimateivyleagueguide to join the Top 1% of students 🧠  |  | #ultimateivyleagueguide #UILG #ultimatementor",
+   "_score": 4.713
+  },
+  {
+   "code": "DcOPrIxB0wg",
+   "taken_at": 1787144407,
+   "date": "2026-08-19",
+   "product_type": "clips",
+   "like_count": 4056,
+   "tier": 4,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "A 1600 and a 4.0 are not going to lose you a spot, but they are not going to win you one either! 📑 |  | At the schools you are stressed about, everyone in the pile already has them. Save this so you know ",
+   "_score": -0.287
+  },
+  {
+   "code": "DcNG_wfAMX5",
+   "taken_at": 1787106362,
+   "date": "2026-08-19",
+   "product_type": "clips",
+   "like_count": 1677,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "Which essay got in? 🤔 |  | #ultimateivyleagueguide #ultimatementor #uilg",
+   "_score": 0.213
+  },
+  {
+   "code": "DcMYbFxI64g",
+   "taken_at": 1787081882,
+   "date": "2026-08-18",
+   "product_type": "carousel_container",
+   "like_count": 6488,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "checklist"
+   ],
+   "caption_preview": "How to survive 10th Grade after summer break! ☀️ |  | Comment SOPHOMORE for my full sophomore year checklist! ✅ |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 5.213
+  },
+  {
+   "code": "DcLq5y0yRbH",
+   "taken_at": 1787058007,
+   "date": "2026-08-18",
+   "product_type": "clips",
+   "like_count": 2197,
+   "tier": 4,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "The middle school playbook you need to know ✅🏆 |  | #UltimateIvyLeagueGuide #UltimateMentor #UILG",
+   "_score": -0.287
+  },
+  {
+   "code": "DcKe6ptgWXu",
+   "taken_at": 1787018226,
+   "date": "2026-08-18",
+   "product_type": "clips",
+   "like_count": 1570,
+   "tier": 4,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "In high school, I thought getting into a top college meant doing more. |  | More clubs. | More competitions. | More volunteer hours. | More leadership titles. |  | But the students who get accepted?  |  | Instead of tr",
+   "_score": -0.287
+  },
+  {
+   "code": "DcJvWPcmAS2",
+   "taken_at": 1786993202,
+   "date": "2026-08-17",
+   "product_type": "carousel_container",
+   "like_count": 5134,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "US high school graduates peaked in 2025. |  | WICHE projects a 13% decline from that peak through 2041 |  | Colleges are recruiting from a pool that shrinks every year, and institutional aid is how they compe",
+   "_score": 4.713
+  },
+  {
+   "code": "DcHMZh8I1pA",
+   "taken_at": 1786907805,
+   "date": "2026-08-16",
+   "product_type": "carousel_container",
+   "like_count": 15136,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "junior",
+    "checklist"
+   ],
+   "caption_preview": "How to survive 11th Grade after summer break! ☀️ |  | Comment JUNIOR for my full junior year checklist! ✅ |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 5.713
+  },
+  {
+   "code": "Db_cHyKlLmJ",
+   "taken_at": 1786820401,
+   "date": "2026-08-15",
+   "product_type": "carousel_container",
+   "like_count": 2074,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "People think I care about school. I care about a promise I made when I was nine. |  | My mom never asked me for a prestigious degree but rather a life that didn’t stop where hers did. |  | I built @ultimateiv",
+   "_score": 5.213
+  },
+  {
+   "code": "DcCC_T1I8pF",
+   "taken_at": 1786735100,
+   "date": "2026-08-14",
+   "product_type": "carousel_container",
+   "like_count": 1808,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "12 College App terms explained like you’re 12! 🧠🥇 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.713
+  },
+  {
+   "code": "DcBXvfVyHjY",
+   "taken_at": 1786712406,
+   "date": "2026-08-14",
+   "product_type": "clips",
+   "like_count": 995,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "senior"
+   ],
+   "caption_preview": "Going into senior year, a big part of what separates a standout application is mindset 🎓  |  | Comment SENIOR and I’ll send you my senior year college admissions guide! |  | #UltimateIvyLeagueGuide #UltimateM",
+   "_score": 0.213
+  },
+  {
+   "code": "DcAMlX_gaZc",
+   "taken_at": 1786673075,
+   "date": "2026-08-14",
+   "product_type": "clips",
+   "like_count": 411,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "Avoid these essay mistakes! 🙅‍♀️ |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 0.213
+  },
+  {
+   "code": "Db_cKmDmxTS",
+   "taken_at": 1786647601,
+   "date": "2026-08-13",
+   "product_type": "carousel_container",
+   "like_count": 2884,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "Getting into your dream school can be easy… |  | Just don’t waste your time doing the wrong things.  |  | Once you build the right foundation, everything else follows ✅🏆  |  | #ultimateivyleagueguide #uilg #ultim",
+   "_score": 4.713
+  },
+  {
+   "code": "Db8xrcnEcox",
+   "taken_at": 1786558252,
+   "date": "2026-08-12",
+   "product_type": "carousel_container",
+   "like_count": 2683,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "7 websites that will make studying 10x easier! |  | Comment TOOLS for my guide to the most effective learning tools! 🛠️ 🧠  |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.713
+  },
+  {
+   "code": "Db69mp9APhY",
+   "taken_at": 1786497445,
+   "date": "2026-08-12",
+   "product_type": "clips",
+   "like_count": 3208,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "”How should I write my Why Us essay?“ 🤔 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 0.214
+  },
+  {
+   "code": "Db3El7Gh5ak",
+   "taken_at": 1786366807,
+   "date": "2026-08-10",
+   "product_type": "clips",
+   "like_count": 1853,
+   "tier": 2,
+   "novelty": [
+    "change"
+   ],
+   "core": [
+    "activity",
+    "senior",
+    "timeline"
+   ],
+   "caption_preview": "All three students started the exact same robotics nonprofit…but only one got into MIT 😬👇 |  | The only thing that changed was when they started, and how much real impact they could actually point to by s",
+   "_score": 2.714
+  },
+  {
+   "code": "Db156qsA-BG",
+   "taken_at": 1786327727,
+   "date": "2026-08-10",
+   "product_type": "clips",
+   "like_count": 2063,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "10 college essay hook examples! 📝✍️ |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 0.214
+  },
+  {
+   "code": "Db1I_BwlOCi",
+   "taken_at": 1786302002,
+   "date": "2026-08-09",
+   "product_type": "carousel_container",
+   "like_count": 12467,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "Your college list is either your biggest advantage…or your biggest mistake.  |  | And most students don’t even realize how important it is… |  | Follow @ultimateivyleagueguide to get into your dream school 📚 | ",
+   "_score": 4.714
+  },
+  {
+   "code": "DbyjDlMkd1Q",
+   "taken_at": 1786215001,
+   "date": "2026-08-08",
+   "product_type": "carousel_container",
+   "like_count": 3283,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "senior"
+   ],
+   "caption_preview": "If you’re a high school senior, here’s what you need to do before the school year starts! 🧠📝 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 5.214
+  },
+  {
+   "code": "Db8OKoqBxzv",
+   "taken_at": 1786197189,
+   "date": "2026-08-08",
+   "product_type": "clips",
+   "like_count": 15545,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "How to write a WINNING college essay👩‍💻🏆 |  | #UltimateIvyLeagueGuide #UILG #UltimateMentor",
+   "_score": 0.214
+  },
+  {
+   "code": "DbwDWOPI_Xk",
+   "taken_at": 1786131308,
+   "date": "2026-08-07",
+   "product_type": "carousel_container",
+   "like_count": 16211,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "Essay hooks that get you Accepted vs. Rejected part 2! 📝 |  | Comment COACH for more help with your college applications! 🧠  |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 5.214
+  },
+  {
+   "code": "DbtamwMlJlq",
+   "taken_at": 1786042802,
+   "date": "2026-08-06",
+   "product_type": "carousel_container",
+   "like_count": 26360,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "The part nobody warns you about is what happens after you get in. |  | Nobody in my family ever told me I had to pick one thing…I decided that on my own. |  | I’m still premed, but I also run @ultimateivyleag",
+   "_score": 4.714
+  },
+  {
+   "code": "Db0fupEht3L",
+   "taken_at": 1786021203,
+   "date": "2026-08-06",
+   "product_type": "clips",
+   "like_count": 3471,
+   "tier": 2,
+   "novelty": [
+    "chatgpt"
+   ],
+   "core": [],
+   "caption_preview": "Team ChatGPT or Team Claude? 😭🤖 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 1.214
+  },
+  {
+   "code": "Dbq2iLjlJFM",
+   "taken_at": 1785956818,
+   "date": "2026-08-05",
+   "product_type": "carousel_container",
+   "like_count": 3401,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "5 last minute awards to apply to! 🥇 |  | Comment AWARDS for my full guide to college application awards! 🧠✅ |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.714
+  },
+  {
+   "code": "DboP2zukVky",
+   "taken_at": 1785869401,
+   "date": "2026-08-04",
+   "product_type": "carousel_container",
+   "like_count": 2478,
+   "tier": 1,
+   "novelty": [
+    "dsat"
+   ],
+   "core": [],
+   "caption_preview": "How to ace your SAT! 🥇🧠 |  | Comment DSAT for my full DSAT guide! ✅✍️ |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 6.214
+  },
+  {
+   "code": "Dblr57nFLdN",
+   "taken_at": 1785783473,
+   "date": "2026-08-03",
+   "product_type": "carousel_container",
+   "like_count": 5588,
+   "tier": 1,
+   "novelty": [
+    "financial aid"
+   ],
+   "core": [],
+   "caption_preview": "7 full ride scholarships to apply to! |  | Comment MONEY for my full guide to financial aid & how to pay for college! 💰 ⭐️  |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 6.214
+  },
+  {
+   "code": "Dbj1NcLhYH8",
+   "taken_at": 1785721207,
+   "date": "2026-08-03",
+   "product_type": "clips",
+   "like_count": 7523,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "essay",
+    "waitlist"
+   ],
+   "caption_preview": "Every one of these three students would tell you their “Why Harvard” essay was good 😬 |  | Two of them were wrong. |  | The gap between the waitlisted answer and the accepted answer is way smaller on the page",
+   "_score": 0.714
+  },
+  {
+   "code": "DbjEMOSka6C",
+   "taken_at": 1785695543,
+   "date": "2026-08-02",
+   "product_type": "carousel_container",
+   "like_count": 5310,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "Make sure not to miss these deadlines! |  | Comment COACH for more help with your college applications! 🧠🥇 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.714
+  },
+  {
+   "code": "DbieQd7hcMY",
+   "taken_at": 1785675606,
+   "date": "2026-08-02",
+   "product_type": "clips",
+   "like_count": 2418,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "senior"
+   ],
+   "caption_preview": "10 high school competitions tiered by what admissions actually weighs! 🤓 |  | If you’re picking what to focus on between now and senior fall, S and A tier are where your time should go! 💯 |   | #UltimateIvyLe",
+   "_score": 0.214
+  },
+  {
+   "code": "DbgiivukWVE",
+   "taken_at": 1785610792,
+   "date": "2026-08-01",
+   "product_type": "carousel_container",
+   "like_count": 16270,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "7 free certifications for High School students! |  | Comment AWARDS for my full guide to college admissions awards! ✅🥇 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.714
+  },
+  {
+   "code": "Dbd-hU7FDXb",
+   "taken_at": 1785524798,
+   "date": "2026-07-31",
+   "product_type": "carousel_container",
+   "like_count": 3842,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "senior",
+    "checklist"
+   ],
+   "caption_preview": "August college application checklist for rising seniors! |  | Comment SENIOR for my full senior year application guide! ✅🔎 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 5.714
+  },
+  {
+   "code": "DbcJYRKANtr",
+   "taken_at": 1785463416,
+   "date": "2026-07-31",
+   "product_type": "clips",
+   "like_count": 1163,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "Make sure you know all about supplemental essays! 📝 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 0.215
+  },
+  {
+   "code": "DbZmPq_AdI9",
+   "taken_at": 1785377951,
+   "date": "2026-07-30",
+   "product_type": "clips",
+   "like_count": 3036,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "Which Personal Statement tier is your essay in? 🤔✍️ |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 0.215
+  },
+  {
+   "code": "DbY1f9mlJKR",
+   "taken_at": 1785352296,
+   "date": "2026-07-29",
+   "product_type": "carousel_container",
+   "like_count": 4459,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "activity"
+   ],
+   "caption_preview": "7 STEM competitions open for High School students! |  | Comment ACTIVITY for my full guide to choosing the right extracurriculars! 🔬 🧠  |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 5.215
+  },
+  {
+   "code": "DbWS45zgaC7",
+   "taken_at": 1785267002,
+   "date": "2026-07-28",
+   "product_type": "carousel_container",
+   "like_count": 5621,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "I know you’re probably thinking, “That’s easy for you to say Elise.” |  | Yes, I got into Harvard, built a collective following of 2M+, was featured on Forbes, and invited to speak at multiple Harvard con",
+   "_score": 4.715
+  },
+  {
+   "code": "DbTqCftEbJV",
+   "taken_at": 1785178501,
+   "date": "2026-07-27",
+   "product_type": "carousel_container",
+   "like_count": 2311,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "7 college application green flags! ✅ |  | Comment COACH for more help with your college applications! |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.715
+  },
+  {
+   "code": "DbTBdWmBBoC",
+   "taken_at": 1785157205,
+   "date": "2026-07-27",
+   "product_type": "clips",
+   "like_count": 1039,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "senior"
+   ],
+   "caption_preview": "If you’re a rising senior, here’s what actually decides where you get in 👇 |  | Two students with the same GPA, the same scores, and the same activities can get completely opposite decisions. |  | And it usua",
+   "_score": 0.215
+  },
+  {
+   "code": "DbRER8CkU1s",
+   "taken_at": 1785091610,
+   "date": "2026-07-26",
+   "product_type": "carousel_container",
+   "like_count": 1947,
+   "tier": 1,
+   "novelty": [
+    "dsat",
+    "digital sat"
+   ],
+   "core": [],
+   "caption_preview": "Steal these tips before the August SAT! |  | Comment DSAT for my full Digital SAT guide! 🖥️📝 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 7.715
+  },
+  {
+   "code": "DbOiopzlI20",
+   "taken_at": 1785006861,
+   "date": "2026-07-25",
+   "product_type": "carousel_container",
+   "like_count": 2355,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "Don’t apply to UCLA before you pass these 5 tests! 🙅‍♀️  |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.715
+  },
+  {
+   "code": "DbN330BBsOM",
+   "taken_at": 1784984406,
+   "date": "2026-07-25",
+   "product_type": "clips",
+   "like_count": 2100,
+   "tier": 2,
+   "novelty": [
+    "ai "
+   ],
+   "core": [
+    "essay",
+    "waitlist"
+   ],
+   "caption_preview": "Most students think a “Why This Major?” essay is about how much you love the subject 😬 |  | The thing that actually separates a rejected, waitlisted, and accepted answer is your trajectory. |  | Here’s why ea",
+   "_score": 2.215
+  },
+  {
+   "code": "DbMpagMhXGZ",
+   "taken_at": 1784943306,
+   "date": "2026-07-25",
+   "product_type": "clips",
+   "like_count": 4250,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "All four of these students volunteered at the same hospital 😬📝 |  | One of them got in. |  | If your essay describes what you did instead of what you noticed, you’re sitting in one of the three piles that did",
+   "_score": 0.215
+  },
+  {
+   "code": "DbL-kSFFLt5",
+   "taken_at": 1784920842,
+   "date": "2026-07-24",
+   "product_type": "carousel_container",
+   "like_count": 7125,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "5 High School Essay Competitions open right now! |  | Comment DOC for my full guide going over five essential strategies for academic success! 📝🧠 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 5.215
+  },
+  {
+   "code": "DbLSE0wxiPl",
+   "taken_at": 1784897591,
+   "date": "2026-07-24",
+   "product_type": "clips",
+   "like_count": 6764,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "Does your essay intro have a good hook, topic, AND structure? 🤔✍️ |  | #UltimateIvyLeagueGuide #UltimateMentor #UILG",
+   "_score": 0.215
+  },
+  {
+   "code": "DbKEFXdB6oF",
+   "taken_at": 1784856605,
+   "date": "2026-07-24",
+   "product_type": "clips",
+   "like_count": 1300,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "If you’re planning to spend your whole summer perfecting your college essay, here’s what you need to know 👇 |  | Most students put their essay at the center of their application strategy… |  | But that’s not ",
+   "_score": 0.215
+  },
+  {
+   "code": "DbJWVOKhu5-",
+   "taken_at": 1784832604,
+   "date": "2026-07-23",
+   "product_type": "clips",
+   "like_count": 24484,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "waitlist"
+   ],
+   "caption_preview": "There’s a reason why these answers have different outcomes…and it all comes down to institutional priorities and fit: |  | ✅ACCEPTED: This student started with something they already did, then shows how a",
+   "_score": 0.215
+  },
+  {
+   "code": "DbIuPSbBZlU",
+   "taken_at": 1784811605,
+   "date": "2026-07-23",
+   "product_type": "clips",
+   "like_count": 1082,
+   "tier": 2,
+   "novelty": [
+    "ai "
+   ],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "AI can help you get a 4.0 GPA and NOT by cheating ⬇️ |  | Most people hear “AI in school” and think writing essays or finishing problem sets for you. |  | But there’s a way to use it where you actually learn ",
+   "_score": 1.715
+  },
+  {
+   "code": "DbHf5KBhg8m",
+   "taken_at": 1784770506,
+   "date": "2026-07-23",
+   "product_type": "clips",
+   "like_count": 3036,
+   "tier": 2,
+   "novelty": [
+    "this year"
+   ],
+   "core": [
+    "junior"
+   ],
+   "caption_preview": "If you’re choosing between retaking the SAT and protecting your GPA this year, here’s what you need to know 👇 |  | Most students answer this question by comparing the two numbers… |  | But admissions officers",
+   "_score": 1.715
+  },
+  {
+   "code": "DbG07_mFPrC",
+   "taken_at": 1784748021,
+   "date": "2026-07-22",
+   "product_type": "carousel_container",
+   "like_count": 4206,
+   "tier": 1,
+   "novelty": [
+    "ai "
+   ],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "Can you spot the difference? 😳🔎 |  | After reading thousands of successful college app essays, the ones that stand out reflect the student’s unique voice.  |  | The quickest way to get rejected from your drea",
+   "_score": 6.715
+  },
+  {
+   "code": "DbDkp4phJyl",
+   "taken_at": 1784638808,
+   "date": "2026-07-21",
+   "product_type": "clips",
+   "like_count": 4213,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "checklist"
+   ],
+   "caption_preview": "If you want to save your time, STOP doing these…🛑✋ |  | Here’s a checklist of what to do instead ✅  |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 0.215
+  },
+  {
+   "code": "DbBn4AuAPhR",
+   "taken_at": 1784573401,
+   "date": "2026-07-20",
+   "product_type": "carousel_container",
+   "like_count": 1245,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "5 signs your summer is building an Ivy League level application! ☀️  |  | Comment COACH for more help with your college applications! 🎓📝 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.715
+  },
+  {
+   "code": "Da_DpzoEdqQ",
+   "taken_at": 1784487302,
+   "date": "2026-07-19",
+   "product_type": "carousel_container",
+   "like_count": 6275,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "High school opportunities with August deadlines! |  | Comment AWARDS for my full guide to awards and competitions in high school! 🥇✅ |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.716
+  },
+  {
+   "code": "Da8eStcEQON",
+   "taken_at": 1784400601,
+   "date": "2026-07-18",
+   "product_type": "carousel_container",
+   "like_count": 3239,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "4 college application essays I’d love to read for the first time! 📝 |  | Comment ESSAY for my full guide on how to write strong college application essays! ✅🎓 |  | #ultimateivyleagueguide #uilg #ultimatemento",
+   "_score": 5.216
+  },
+  {
+   "code": "Da6XiCyEncW",
+   "taken_at": 1784329951,
+   "date": "2026-07-17",
+   "product_type": "carousel_container",
+   "like_count": 28127,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "I used to think success meant prestige and wealth. That’s wrong… |  | Success to me means being able to give more than I take. |  | My name is Elise, and that’s the same reason I started @ultimateivyleaguegui",
+   "_score": 4.716
+  },
+  {
+   "code": "Da54VpNxR9Y",
+   "taken_at": 1784314182,
+   "date": "2026-07-17",
+   "product_type": "clips",
+   "like_count": 2965,
+   "tier": 2,
+   "novelty": [
+    "change"
+   ],
+   "core": [],
+   "caption_preview": "Getting into the Ivy League isn’t luck. | It’s strategy. |  | But most students are guessing. | Wasting hours on the wrong things. | Stressing over “perfect stats” while missing what actually matters. |  | Elite ad",
+   "_score": 1.216
+  },
+  {
+   "code": "Da5ReCKhD2C",
+   "taken_at": 1784293208,
+   "date": "2026-07-17",
+   "product_type": "clips",
+   "like_count": 510,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "The personal statement is where your voice takes over ✍️ |  | Make sure to know how to structure your essay properly! ✅ |  | #UltimateIvyLeagueGuide #UltimateMentor #UILG",
+   "_score": 0.216
+  },
+  {
+   "code": "Da3XCA2FHX-",
+   "taken_at": 1784229025,
+   "date": "2026-07-16",
+   "product_type": "carousel_container",
+   "like_count": 2518,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "Upcoming paid opportunities for high school students! 💸 |  | Comment SUMMER for my full guide going over how to maximize your summer for college applications! 📝🎓 |  | #ultimateivyleagueguide #uilg #ultimateme",
+   "_score": 4.716
+  },
+  {
+   "code": "Da0xzg3FJ96",
+   "taken_at": 1784142399,
+   "date": "2026-07-15",
+   "product_type": "carousel_container",
+   "like_count": 16661,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "My name is Elise, and I remember feeling sooo lost in high school…but now I’ve graduated at my dream school Harvard 🥹❤️ |  | Since then, I’ve made it my mission to help students like you get into your dre",
+   "_score": 4.716
+  },
+  {
+   "code": "Da0H7prSXxl",
+   "taken_at": 1784120408,
+   "date": "2026-07-15",
+   "product_type": "clips",
+   "like_count": 1798,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "Have you brainstormed topics for these 5 core essays yet? 🧠📝 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 0.216
+  },
+  {
+   "code": "DavmYHdEW1E",
+   "taken_at": 1783968602,
+   "date": "2026-07-13",
+   "product_type": "carousel_container",
+   "like_count": 3313,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "If I could give advice to my 17 year old self, here’s what I’d say 🎓📝 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.716
+  },
+  {
+   "code": "DatMjYOge0c",
+   "taken_at": 1783887987,
+   "date": "2026-07-12",
+   "product_type": "carousel_container",
+   "like_count": 10499,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "activity"
+   ],
+   "caption_preview": "Extracurricular ideas for each major! |  | Comment ACTIVITY for my full guide to choosing the right extracurriculars! 🎓🔬 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 5.216
+  },
+  {
+   "code": "Dan5qq5lEW3",
+   "taken_at": 1783710313,
+   "date": "2026-07-10",
+   "product_type": "carousel_container",
+   "like_count": 7309,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "25 easy passion project ideas!  |  | Comment PASSION for my full passion project guide! 📽️📚 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.716
+  },
+  {
+   "code": "DalSnNHhvAU",
+   "taken_at": 1783622713,
+   "date": "2026-07-09",
+   "product_type": "clips",
+   "like_count": 3511,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "HOW I WROTE A SUCCESSFUL HARVARD ESSAY IN ONE HOUR⬇️ |  | Hi! I’m Elise, a current Harvard student and a Forbes-recognized college admissions counselor 👩🏻‍🎓 |  | 🔑 If you want an essay that’s streamlined and ",
+   "_score": 0.216
+  },
+  {
+   "code": "DakrEzFhK_S",
+   "taken_at": 1783602009,
+   "date": "2026-07-09",
+   "product_type": "clips",
+   "like_count": 3533,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "essay",
+    "senior"
+   ],
+   "caption_preview": "Rising seniors, start your college essays this month while it’s still July…here’s why 👇 |  | I know summer feels too early for this.  |  | But the students who get into their dream schools are the ones who st",
+   "_score": 0.716
+  },
+  {
+   "code": "DaiwsSjlLcb",
+   "taken_at": 1783537836,
+   "date": "2026-07-08",
+   "product_type": "carousel_container",
+   "like_count": 3475,
+   "tier": 1,
+   "novelty": [
+    "2026"
+   ],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "18 college traditions you can write about in your essays! ✍️ |  | Comment ADMISSIONS for my full guide to college admissions in 2026! ✅🧠 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 6.716
+  },
+  {
+   "code": "DaiGVawBu4i",
+   "taken_at": 1783515611,
+   "date": "2026-07-08",
+   "product_type": "clips",
+   "like_count": 5143,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "essay",
+    "waitlist"
+   ],
+   "caption_preview": "Most students think a “community” essay is about naming a group and listing what it taught them 😬 |  | In reality, the answer that gets in is built on a specific role you actually play, and what it taught",
+   "_score": 0.716
+  },
+  {
+   "code": "DagKRpJFO63",
+   "taken_at": 1783450586,
+   "date": "2026-07-07",
+   "product_type": "carousel_container",
+   "like_count": 3965,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "20 college essay hook examples! |  | Comment ESSAY for my full guide to writing your personal statement & key supplemental essays! ✍️🧠 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 5.217
+  },
+  {
+   "code": "Dadk2erBUvr",
+   "taken_at": 1783363812,
+   "date": "2026-07-06",
+   "product_type": "clips",
+   "like_count": 2808,
+   "tier": 3,
+   "novelty": [],
+   "core": [
+    "essay",
+    "junior"
+   ],
+   "caption_preview": "I know what you’re thinking… |  | “7th grade? Isn’t that WAY too early to think about college?” |  | The thing is, almost everyone thinks that way... |  | So everyone starts to prepare for college admissions in t",
+   "_score": 0.717
+  },
+  {
+   "code": "Daa_9cdgSiR",
+   "taken_at": 1783277402,
+   "date": "2026-07-05",
+   "product_type": "carousel_container",
+   "like_count": 1723,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "Make sure to read this guide before starting your college applications! 🎓✍️ |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.717
+  },
+  {
+   "code": "DaV3PwwlFSt",
+   "taken_at": 1783105065,
+   "date": "2026-07-03",
+   "product_type": "carousel_container",
+   "like_count": 6049,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "5 upcoming writing competitions you can apply to! ✍️📝 |  | Comment ESSAY for my full guide to writing standout essays for your college applications! 🧠📚 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 5.217
+  },
+  {
+   "code": "DaTRUaPEcOZ",
+   "taken_at": 1783018071,
+   "date": "2026-07-02",
+   "product_type": "carousel_container",
+   "like_count": 6032,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "essay",
+    "recommendation"
+   ],
+   "caption_preview": "Every year, tens of thousands of students apply to the same schools you’re applying to… |  | Many of them will have perfect GPAs, high test scores, impressive extracurriculars, and glowing recommendation ",
+   "_score": 5.717
+  },
+  {
+   "code": "DaS_Y4MFH6g",
+   "taken_at": 1783008670,
+   "date": "2026-07-02",
+   "product_type": "carousel_container",
+   "like_count": 7951,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "essay",
+    "senior"
+   ],
+   "caption_preview": "Last year Diana came to me feeling lost 👇 |  | She was a first generation, low income student who worked extremely hard but didn’t know how to make herself stand out to top colleges.  |  | Together, we built ",
+   "_score": 5.717
+  },
+  {
+   "code": "DaOIHXJus5o",
+   "taken_at": 1782845499,
+   "date": "2026-06-30",
+   "product_type": "clips",
+   "like_count": 7576,
+   "tier": 2,
+   "novelty": [
+    "change"
+   ],
+   "core": [
+    "essay",
+    "waitlist"
+   ],
+   "caption_preview": "How you answer “Why do you want to attend XYZ school?” can make the difference between an acceptance, waitlist, or rejection ⬇️ |  | Here’s how each answer differs: |  | ❌ Rejected: This answer could literall",
+   "_score": 2.217
+  },
+  {
+   "code": "DaLjP9eAOk1",
+   "taken_at": 1782759002,
+   "date": "2026-06-29",
+   "product_type": "carousel_container",
+   "like_count": 2756,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "Starting your own passion project can be one of the best ways to stand out in college admissions! |  | Here’s how to start your own in 30 days ✅📝 |  | Comment PASSION for my full passion project guide! 📚🎓 |  | #u",
+   "_score": 4.717
+  },
+  {
+   "code": "DaK7Os_h1um",
+   "taken_at": 1782738013,
+   "date": "2026-06-29",
+   "product_type": "clips",
+   "like_count": 1890,
+   "tier": 2,
+   "novelty": [
+    "ai "
+   ],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "AI can help you get a 4.0 GPA and NOT by cheating ⬇️ |  | Most people hear “AI in school” and think writing essays or finishing problem sets for you. |  | But there’s a way to use it where you actually learn ",
+   "_score": 1.717
+  },
+  {
+   "code": "DaI-eS8gThH",
+   "taken_at": 1782672602,
+   "date": "2026-06-28",
+   "product_type": "carousel_container",
+   "like_count": 3871,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "Use these 6 tools to help you prepare for the SAT! |  | Comment TOOLS for my full guide going over the top learning tools I use to maintain a 4.0 GPA! |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.717
+  },
+  {
+   "code": "DaD2qGCEUBU",
+   "taken_at": 1782500776,
+   "date": "2026-06-26",
+   "product_type": "carousel_container",
+   "like_count": 6141,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "If I had to redo 11th Grade, here’s what I’d do to get into the Ivy League 🧠🎓 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.717
+  },
+  {
+   "code": "DaBQB5OkS0T",
+   "taken_at": 1782413402,
+   "date": "2026-06-25",
+   "product_type": "carousel_container",
+   "like_count": 5522,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "Spend this summer building your own passion project! 🛠️🔬 |  | Comment PASSION for my full passion project guide! ✅💯 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.718
+  },
+  {
+   "code": "DZ-u3guuogA",
+   "taken_at": 1782328970,
+   "date": "2026-06-24",
+   "product_type": "clips",
+   "like_count": 58477,
+   "tier": 2,
+   "novelty": [
+    "fafsa"
+   ],
+   "core": [],
+   "caption_preview": "“How do I hack FAFSA and get THOUSANDS in free money?” 💵 |  | Day 13 of 14 of Preparing for College Applications with Elise 🎓 |  | Follow @ultimateivyleagueguide on Instagram to get into your dream school ✅ |  | ",
+   "_score": 1.218
+  },
+  {
+   "code": "DZ8JavilMV_",
+   "taken_at": 1782242176,
+   "date": "2026-06-23",
+   "product_type": "carousel_container",
+   "like_count": 16038,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "Essay hooks that get you accepted vs. rejected! 🙅‍♀️✅ |  | Comment COACH for more help with your college applications! 📝💯 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 5.218
+  },
+  {
+   "code": "DZ5hr3UkYvj",
+   "taken_at": 1782154202,
+   "date": "2026-06-22",
+   "product_type": "carousel_container",
+   "like_count": 1534,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "How to find your first research internship! 🧬🔬 |  | Comment COACH for more help on your college applications! 🧠✅ |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.718
+  },
+  {
+   "code": "DZ0WPZbEawL",
+   "taken_at": 1781982006,
+   "date": "2026-06-20",
+   "product_type": "feed",
+   "like_count": 2092,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "Make sure to know all about the personal statement! ✅📚 |  | Comment COACH for more help with your college applications! 💭📝 |  | #ultimateivyleagueguide #ultimatementor #uilg",
+   "_score": 4.718
+  },
+  {
+   "code": "DZx1vJ_FMED",
+   "taken_at": 1781896314,
+   "date": "2026-06-19",
+   "product_type": "carousel_container",
+   "like_count": 2910,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "4 passion project ideas to inspire yours! 📽️ |  | Comment IDEAS for my full list of ideas!💡  |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.718
+  },
+  {
+   "code": "DZssb57FPZl",
+   "taken_at": 1781723665,
+   "date": "2026-06-17",
+   "product_type": "carousel_container",
+   "like_count": 1925,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "Make sure you know all about the personal statement before writing! ✍️📚 |  | Comment STATEMENT for my full guide going over how to write your personal statement & key supplemental essays! 🧠📝 |  | #ultimateivy",
+   "_score": 5.218
+  },
+  {
+   "code": "DZqGIuKEUi6",
+   "taken_at": 1781636476,
+   "date": "2026-06-16",
+   "product_type": "carousel_container",
+   "like_count": 2225,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "Make sure you know everything about awards before starting your college applications! 🏆💯 |  | Comment AWARDS for my full guide of awards/honors in high school! 📚✍️ |  | #ultimateivyleagueguide #ultimatementor",
+   "_score": 4.718
+  },
+  {
+   "code": "DZlDQSdARdq",
+   "taken_at": 1781467193,
+   "date": "2026-06-14",
+   "product_type": "carousel_container",
+   "like_count": 2529,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "senior"
+   ],
+   "caption_preview": "How to prep your college applications in 3 months! ✅🧠 |  | Comment SENIOR for my full senior year guide! ✍️👩‍💻 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 5.219
+  },
+  {
+   "code": "DZhuaYohTYX",
+   "taken_at": 1781355612,
+   "date": "2026-06-13",
+   "product_type": "clips",
+   "like_count": 1943,
+   "tier": 2,
+   "novelty": [
+    "change"
+   ],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "If you’ve ever wondered what admissions officers actually say to each other about your application… this is it 👇 |  | They’ve basically got their own vocabulary… |  | And nobody really teaches it to you. |  | Whi",
+   "_score": 1.719
+  },
+  {
+   "code": "DZgQ1N3AOUC",
+   "taken_at": 1781306539,
+   "date": "2026-06-12",
+   "product_type": "carousel_container",
+   "like_count": 7021,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "5 High School opportunities with July deadlines! ✅🏆 |  | Comment SUMMER for my full guide going over how to use the rest of your summer effectively! 📚🎓 |  | #ultimateivyleagueguide #ultimatementor #uilg",
+   "_score": 4.719
+  },
+  {
+   "code": "DZdM4VZD2IX",
+   "taken_at": 1781203804,
+   "date": "2026-06-11",
+   "product_type": "carousel_container",
+   "like_count": 18945,
+   "tier": 1,
+   "novelty": [],
+   "core": [],
+   "caption_preview": "What I believed in high school vs. the true reality… |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 4.719
+  },
+  {
+   "code": "DZck7Fkhggm",
+   "taken_at": 1781182812,
+   "date": "2026-06-11",
+   "product_type": "clips",
+   "like_count": 2056,
+   "tier": 2,
+   "novelty": [
+    "early decision"
+   ],
+   "core": [],
+   "caption_preview": "What’s Better: Early Action or Early Decision? 🤔📝 |  | #UltimateIvyLeagueGuide #UILG #UltimateMentor",
+   "_score": 1.219
+  },
+  {
+   "code": "DZaqRupEQI3",
+   "taken_at": 1781118553,
+   "date": "2026-06-10",
+   "product_type": "carousel_container",
+   "like_count": 4533,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "The hook is one of the most important parts of your college essays… |  | Make sure to know how to write them properly! 📝🧠 |  | Comment ESSAY for my full guide to writing college essays ✅🎓 |  | #ultimateivyleagueg",
+   "_score": 5.219
+  },
+  {
+   "code": "DZVfkDvlPth",
+   "taken_at": 1780945164,
+   "date": "2026-06-08",
+   "product_type": "carousel_container",
+   "like_count": 4123,
+   "tier": 1,
+   "novelty": [],
+   "core": [
+    "activity"
+   ],
+   "caption_preview": "Make sure you know everything about extracurricular activities before starting your college applications! 💭🏆 |  | Comment ACTIVITY for my full guide going over how to choose the right extracurriculars in ",
+   "_score": 5.219
+  },
+  {
+   "code": "DZLWOCxynNi",
+   "taken_at": 1780604744,
+   "date": "2026-06-04",
+   "product_type": "clips",
+   "like_count": 929,
+   "tier": 2,
+   "novelty": [
+    "2026"
+   ],
+   "core": [],
+   "caption_preview": "The Center for World University Rankings dropped their 2026 list on June 1st and the top 10 looks familiar with three shifts worth noting 👇 |  | - Penn moved up to 7 from last edition’s 8. | - Columbia got ",
+   "_score": 1.219
+  },
+  {
+   "code": "DZFeGsDN-yZ",
+   "taken_at": 1780407668,
+   "date": "2026-06-02",
+   "product_type": "clips",
+   "like_count": 64730,
+   "tier": 2,
+   "novelty": [
+    "2026",
+    "this year"
+   ],
+   "core": [],
+   "caption_preview": "This year I had the honor of being selected as the 2026 Undergraduate Student Speaker for Harvard’s Pan-Asian AAPI Graduation Ceremony. |  | I decided to surprise my dad, who had no idea I was giving this",
+   "_score": 2.72
+  },
+  {
+   "code": "DY5Krn0R0vh",
+   "taken_at": 1779994720,
+   "date": "2026-05-28",
+   "product_type": "clips",
+   "like_count": 9970,
+   "tier": 2,
+   "novelty": [
+    "2026"
+   ],
+   "core": [],
+   "caption_preview": "Harvard Graduation 2026 ❤️👩‍🎓",
+   "_score": 1.22
+  },
+  {
+   "code": "DYuUxq5xzQo",
+   "taken_at": 1779630923,
+   "date": "2026-05-24",
+   "product_type": "clips",
+   "like_count": 7441,
+   "tier": 2,
+   "novelty": [
+    "policy"
+   ],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "Students who get into Harvard and students who don’t aren’t always separated by GPA… |  | After reading thousands of applications, I found that they’re usually separated by whether they used the Spike Str",
+   "_score": 1.72
+  },
+  {
+   "code": "DYptnbDxQCM",
+   "taken_at": 1779476258,
+   "date": "2026-05-22",
+   "product_type": "clips",
+   "like_count": 1642,
+   "tier": 2,
+   "novelty": [
+    "dsat",
+    "test-optional"
+   ],
+   "core": [],
+   "caption_preview": "Read ONLY IF you want to get a 1580+ SAT score ⬇️ |  | ⭐️The truth is, a high SAT score will help you get into your dream university—even if that college says that it is “test-optional.” |  | So here are 3 st",
+   "_score": 2.721
+  },
+  {
+   "code": "DYZqEJ4gOWV",
+   "taken_at": 1778937462,
+   "date": "2026-05-16",
+   "product_type": "clips",
+   "like_count": 976,
+   "tier": 2,
+   "novelty": [
+    "change"
+   ],
+   "core": [
+    "junior"
+   ],
+   "caption_preview": "Applying as “just another pre-med” or “just another CS major” is one of the fastest ways to get rejected this cycle 😬 |  | The way top schools are reading applications has shifted, and most students are s",
+   "_score": 1.721
+  },
+  {
+   "code": "DYVH2ySBzxw",
+   "taken_at": 1778785200,
+   "date": "2026-05-14",
+   "product_type": "clips",
+   "like_count": 1621,
+   "tier": 2,
+   "novelty": [
+    "dsat",
+    "change"
+   ],
+   "core": [],
+   "caption_preview": "Jumping from a 1270 to a 1580 on the SAT in just one month sounds impossible, right? |  | When I first took the SAT, the Reading section felt impossible.  |  | I was stuck, frustrated, and convinced I’d never",
+   "_score": 2.721
+  },
+  {
+   "code": "DYUha_PA52s",
+   "taken_at": 1778765173,
+   "date": "2026-05-14",
+   "product_type": "clips",
+   "like_count": 4589,
+   "tier": 2,
+   "novelty": [
+    "change"
+   ],
+   "core": [
+    "junior"
+   ],
+   "caption_preview": "Does GPA or SAT actually matter more? 🤔📚  |  | This is the question almost every junior asks me… And almost all of them walk in with the wrong assumption.  |  | The honest answer isn’t the one most families r",
+   "_score": 1.721
+  },
+  {
+   "code": "DYPXJGGgSJB",
+   "taken_at": 1778592008,
+   "date": "2026-05-12",
+   "product_type": "clips",
+   "like_count": 162874,
+   "tier": 2,
+   "novelty": [
+    "change"
+   ],
+   "core": [],
+   "caption_preview": "If finals are coming up and you’re burned out, you might be doing the version of studying that doesn’t actually work 🧠📚 |  | Most high-achieving students think the answer to falling behind is just more ti",
+   "_score": 1.221
+  },
+  {
+   "code": "DYHnQ2vAavB",
+   "taken_at": 1778332242,
+   "date": "2026-05-09",
+   "product_type": "clips",
+   "like_count": 5672,
+   "tier": 2,
+   "novelty": [
+    "this year"
+   ],
+   "core": [],
+   "caption_preview": "If your family is thinking about a $7,000 pre-college summer program this year, there’s something most people don’t realize until it’s too late 😬💸 |  | Yes, these programs can be a great college preview, ",
+   "_score": 1.222
+  },
+  {
+   "code": "DX7XQ2dxwTE",
+   "taken_at": 1777920977,
+   "date": "2026-05-04",
+   "product_type": "clips",
+   "like_count": 1850,
+   "tier": 2,
+   "novelty": [
+    "dsat"
+   ],
+   "core": [],
+   "caption_preview": "How CollegeBoard designs their SAT Questions ⬇️ |  | ❌ STOP wasting time on ineffective study methods! |  | The difference between students who ACE the SAT and those who struggle despite hard work is their un",
+   "_score": 1.222
+  },
+  {
+   "code": "DXkLoRMkaR3",
+   "taken_at": 1777143141,
+   "date": "2026-04-25",
+   "product_type": "clips",
+   "like_count": 1451,
+   "tier": 2,
+   "novelty": [
+    "dsat",
+    "digital sat"
+   ],
+   "core": [],
+   "caption_preview": "It’s actually REALLY easy to improve your SAT score if you know the right strategies.  |  | Here are my Top 5: |  | 1. Craft Your Own Precise Answer (COPA) – Reading: | Instead of jumping straight into the answ",
+   "_score": 2.723
+  },
+  {
+   "code": "DXg-p9UjljE",
+   "taken_at": 1777035680,
+   "date": "2026-04-24",
+   "product_type": "clips",
+   "like_count": 526,
+   "tier": 2,
+   "novelty": [
+    "change"
+   ],
+   "core": [],
+   "caption_preview": "College admissions changes every year, but these 10 habits will continue to remain useful 📝 |  | Make sure these are on your to-do list ✅ |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 1.223
+  },
+  {
+   "code": "DXH4AlMhCzD",
+   "taken_at": 1776193200,
+   "date": "2026-04-14",
+   "product_type": "clips",
+   "like_count": 1509,
+   "tier": 2,
+   "novelty": [
+    "dsat",
+    "digital sat"
+   ],
+   "core": [],
+   "caption_preview": "The Digital SAT strategy you NEED to know⬇️ |  | ❌ STOP wasting time on ineffective study methods! |  | 📝 Each SAT question is meticulously crafted with one thing in mind—there must ALWAYS be only one correct",
+   "_score": 2.724
+  },
+  {
+   "code": "DXFP2pYkXwk",
+   "taken_at": 1776106383,
+   "date": "2026-04-13",
+   "product_type": "clips",
+   "like_count": 2208,
+   "tier": 2,
+   "novelty": [
+    "update"
+   ],
+   "core": [
+    "waitlist"
+   ],
+   "caption_preview": "If you got waitlisted, don’t lose hope! 🙏 |  | A waitlist is NOT a rejection. It’s simply a second chance. |  | I helped my student Natalie write a Letter of Continued Interest after she got waitlisted at UCL",
+   "_score": 1.724
+  },
+  {
+   "code": "DWKXtOYCLdU",
+   "taken_at": 1774129553,
+   "date": "2026-03-21",
+   "product_type": "clips",
+   "like_count": 1335,
+   "tier": 2,
+   "novelty": [
+    "change",
+    "2026",
+    "update"
+   ],
+   "core": [],
+   "caption_preview": "A lot of people are still building their applications like it’s 2025 😬 |  | And it’s not that those things are bad… they’re just not as effective anymore. |  | I’ve been seeing students do everything “right” ",
+   "_score": 4.226
+  },
+  {
+   "code": "DVb5_JogRnS",
+   "taken_at": 1772570444,
+   "date": "2026-03-03",
+   "product_type": "clips",
+   "like_count": 10063,
+   "tier": 2,
+   "novelty": [
+    "dsat",
+    "digital sat"
+   ],
+   "core": [],
+   "caption_preview": "The BIGGEST study mistake students make is thinking more hours equals a higher SAT score… |  | This isn’t true, especially if you’re not using the right strategies.  |  | I’m a current Harvard student and whe",
+   "_score": 2.727
+  },
+  {
+   "code": "DVZTieRgRyy",
+   "taken_at": 1772483175,
+   "date": "2026-03-02",
+   "product_type": "clips",
+   "like_count": 4650,
+   "tier": 2,
+   "novelty": [
+    "this year"
+   ],
+   "core": [
+    "junior",
+    "checklist"
+   ],
+   "caption_preview": "Freshman year is honestly one of the hardest years of high school 😅 |  | No one talks about how you’re suddenly in a new building, around new people, with new expectations…  |  | and at the same time, you’re ",
+   "_score": 2.228
+  },
+  {
+   "code": "DU1WzrMASwI",
+   "taken_at": 1771276913,
+   "date": "2026-02-16",
+   "product_type": "clips",
+   "like_count": 3456,
+   "tier": 2,
+   "novelty": [
+    "dsat",
+    "digital sat"
+   ],
+   "core": [],
+   "caption_preview": "It’s actually REALLY easy to improve your SAT score if you and your friends know the right strategies.  |  | Here are my Top 5: |  | 1. Craft Your Own Precise Answer (COPA) – Reading: | Instead of jumping strai",
+   "_score": 2.729
+  },
+  {
+   "code": "DUjS7-XAdlL",
+   "taken_at": 1770670910,
+   "date": "2026-02-09",
+   "product_type": "clips",
+   "like_count": 4431,
+   "tier": 2,
+   "novelty": [
+    "change"
+   ],
+   "core": [
+    "senior",
+    "junior",
+    "checklist"
+   ],
+   "caption_preview": "Most rejections don’t come from students who “didn’t try.” |  | They come from students who worked hard too late or optimized the wrong things because no one told them otherwise. |  | The choices you make jun",
+   "_score": 2.729
+  },
+  {
+   "code": "DUWUqFIAXM3",
+   "taken_at": 1770235594,
+   "date": "2026-02-04",
+   "product_type": "clips",
+   "like_count": 3920,
+   "tier": 2,
+   "novelty": [
+    "change",
+    "2026"
+   ],
+   "core": [],
+   "caption_preview": "3 high-achieving students. 3 different college outcomes 😬 |  | The difference is one TINY difference in how they prioritized their time during high school… |  | Most students still think that colleges want pe",
+   "_score": 2.73
+  },
+  {
+   "code": "DUGOB8TgB8d",
+   "taken_at": 1769695200,
+   "date": "2026-01-29",
+   "product_type": "clips",
+   "like_count": 4789,
+   "tier": 2,
+   "novelty": [
+    "change"
+   ],
+   "core": [
+    "essay"
+   ],
+   "caption_preview": "I’ve read hundreds of personal statements at this point… |  | The personal statements that stand out usually have four very specific elements:  |  | 1️⃣ First, the opening starts with a real habit or behavior",
+   "_score": 1.73
+  },
+  {
+   "code": "DT5V_EMAXyS",
+   "taken_at": 1769263200,
+   "date": "2026-01-24",
+   "product_type": "clips",
+   "like_count": 14667,
+   "tier": 2,
+   "novelty": [
+    "update"
+   ],
+   "core": [],
+   "caption_preview": "Google’s brand new update is INSANE 🤯📝 |  | #ultimateivyleagueguide #uilg #ultimatementor",
+   "_score": 1.231
+  },
+  {
+   "code": "DTiK5yzAY1N",
+   "taken_at": 1768960800,
+   "date": "2026-01-21",
+   "product_type": "clips",
+   "like_count": 587,
+   "tier": 2,
+   "novelty": [
+    "update"
+   ],
+   "core": [],
+   "caption_preview": "Please make sure you and your friends don’t fall for these scams! 🚨 |  | I’ll continue sharing the latest college admissions & high school updates on this page 📝 |  | #UltimateIvyLeagueGuide #UILG #UltimateMe",
+   "_score": 1.231
+  },
+  {
+   "code": "DTQJXtbAWD9",
+   "taken_at": 1768485600,
+   "date": "2026-01-15",
+   "product_type": "clips",
+   "like_count": 2041,
+   "tier": 2,
+   "novelty": [
+    "change",
+    "ai "
+   ],
+   "core": [],
+   "caption_preview": "Don’t be the student that isn’t adapting to how AI has changed college admissions… |  | Here’s what you and your friends need to do to make sure you’re not falling behind ✅ |  | #UltimateIvyLeagueGuide #UILG ",
+   "_score": 2.732
+  },
+  {
+   "code": "DTX3rsdlGDG",
+   "taken_at": 1768140000,
+   "date": "2026-01-11",
+   "product_type": "clips",
+   "like_count": 37749,
+   "tier": 2,
+   "novelty": [
+    "2026"
+   ],
+   "core": [],
+   "caption_preview": "If you’re putting in the hours and still forgetting everything, your study system is the problem 😬 |  | Here’s 4 study techniques I use as a Harvard student: |  | 1️⃣Concept Compression: After learning a topi",
+   "_score": 1.232
+  },
+  {
+   "code": "DTUAivTj2kP",
+   "taken_at": 1767976205,
+   "date": "2026-01-09",
+   "product_type": "clips",
+   "like_count": 27959,
+   "tier": 2,
+   "novelty": [
+    "change"
+   ],
+   "core": [
+    "interview"
+   ],
+   "caption_preview": "The difference between a strong and weak interview answer is specificity ⬇️ |  | ❌ Why the Rejected Answer Doesn’t Work:  | “Perfectionism” doesn’t describe an actual behavior Yale can picture. There’s no m",
+   "_score": 1.732
+  },
+  {
+   "code": "DTMSFJwARGD",
+   "taken_at": 1767708000,
+   "date": "2026-01-06",
+   "product_type": "clips",
+   "like_count": 21747,
+   "tier": 2,
+   "novelty": [
+    "change"
+   ],
+   "core": [],
+   "caption_preview": "After making these simple mindset changes, I went from feeling lost about my future to getting zero Ivy League rejections! ❤️📚 |  | There’s still time…you just have to be willing to start before you’re 10",
+   "_score": 1.232
+  },
+  {
+   "code": "DSsGO-hAeeB",
+   "taken_at": 1767189600,
+   "date": "2025-12-31",
+   "product_type": "clips",
+   "like_count": 7552,
+   "tier": 2,
+   "novelty": [
+    "update"
+   ],
+   "core": [],
+   "caption_preview": "Do you have the ONE extracurricular that could actually make top colleges notice you? 🫣 |  | Here’s the latest update from a former Director of Admissions… |  | Let’s talk about it and the 3 criteria you need",
+   "_score": 1.233
+  }
+ ]
+}
