@@ -1,0 +1,32 @@
+---
+code: C8zi3Y2sP6b
+date: 2024-06-29
+themes: 
+---
+
+## Caption
+
+35K likes, 4,618 comments - ultimateivyleagueguide on June 29, 2024: "If you’re feeling overwhelmed by college applications, you’re not alone. 
+
+The biggest mistake most students make isn’t in the writing itself—it’s starting WITHOUT knowing what admissions officers are actually looking for. 🤯✍️
+
+🔑Here’s the deal: Understanding the *types* of essays and *how* to structure them can dramatically increase your chances of acceptance. 
+
+Many students spend hours crafting essays that fail to hit the mark simply because they don’t align with what admissions committees value most😬
+
+But don’t worry…I’ve got you. 
+
+As a Harvard student & Forbes-recognized college admissions counselor, I’ve created a FREE guide that provides a clear, actionable framework to build compelling essays from the ground up✅
+
+📘 If you’re ready to write essays that get you noticed by top universities, comment “ESSAY” below, and I’ll send you my exclusive guide for FREE! 😉
+
+#studytok #studywithme #harvard #collegeapplications #collegeapp #commonapp #harvarduniversity #premed #premedlife #mindset #personalstatement #collegeapps #passionprojects".
+
+## Page meta
+
+- og:title: Ultimate Ivy League Guide™ on Instagram: "If you’re feeling overwhelmed by college applications, you’re not alone. 
+
+The biggest mistake most students make isn’t in the writing itself—it’s starting WI
+- twitter:title: Ultimate Ivy League Guide™ (@ultimateivyleagueguide) • Instagram reel
+
+*Source: ultimateivyleagueguide clips C8zi3Y2sP6b, posted 2024-06-29. Caption-first extraction (headless browser).*

@@ -1,1 +1,24 @@
+# Runtime / browser artifacts
 /.playwright-mcp
+/__pycache__
+*.pyc
+
+# Kilo runtime (keep plans/, agents/, commands/ — ignore node_modules)
+/.kilo/node_modules/
+
+# Pipeline ephemeral state (regeneratable from posts_index.json)
+/pending_codes.json
+/pipeline_state.json
+/manifest_delta.json
+/cookies.json
+/cookies.meta.json
+
+# Per-code download directories (pipeline creates <CODE>/<timestamp>.mp4)
+/[A-Za-z][A-Za-z0-9_-]{8,16}/
+!/mentor/
+
+# Chrome profile junction (created by older pipeline versions; do not commit)
+/chrome_profile
+
+# Backup / safety copies
+/manifest.json.bak

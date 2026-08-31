@@ -55,15 +55,16 @@ Winning essays are decided by **scenes, not theme labels**:
 
 ## 4. Essay skeleton — fill this in
 
-### Movement 0 — Hook (the read receipt)
-Candidate approach: open on the notification itself, then cut to scene.
-- [ ] Draft 2–3 candidate opening lines (do NOT polish yet)
+### Movement 0 — Hook (the read receipt) — REFINED 2026-08-31
+Open on the notification, land the dual-register twist in the first lines. The inversion is already his — journal: *"My eyes, always towards those at the very top... My heart, to the people who I know will break it."* Eyes = ACK channel, clean and upward; heart = the wound, outward, to people who will break it.
 
-```
-[blank]
-```
+> I read a lot of messages and answer almost none of them. In code that's an ACK — delivered, no response owed. Between people it's a wound. My eyes go up; my heart goes out, and I write where nobody can reply.
 
-### Movement 1 — PUBLIC (OGL bonding event) ~150 words
+**Edits from the first draft:** dropped "small" (the wound isn't small — that's the whole point); "I file" → "I write" (personal, not corporate); the final line now borrows his own *"My eyes... My heart..."* instead of paraphrasing it. The essay starts with his voice, not mine.
+
+**Refinement target:** the last line is the one to tune to his exact cadence at draft stage.
+
+### Movement 1 — PUBLIC (OGL bonding event) ~150 words — STILL BLANK
 Target reader experience: confident surface, then the exact moment the logic runs out.
 - [ ] Which bonding event? (name/date/who was there):
 ```
@@ -83,35 +84,45 @@ Target reader experience: confident surface, then the exact moment the logic run
 ```
 - [ ] OPTIONAL texture beat (from culture observations): the scripted two-question exchange — *"How's the test?" / "Mr. X? Yeah, tough proctor."* — as overheard DIALOGUE inside the scene. Dramatizes the protocol gap with zero commentary. Rule: dialogue only; if a sentence explains why THEY'RE fake, cut it.
 
-### Seam — ViDrive user message (NEW, from §7.5) — 1–2 sentences max
+### Seam — ViDrive user message — REFINED 2026-08-31
 The real user who messaged: saved 30M VND; numbers "cleared feeling-ish assumptions"; hadn't priced the gas-vs-electric gap; didn't need the car class he thought — CR-V → VF6.
 Reader function: logic visibly WORKS on someone else's emotions → makes the private failure-to-self (M2) land harder. The tolerance exists for strangers' wallets, not for my own interior.
-- [ ] Draft the 1–2 sentence version:
-```
-[blank]
-```
 
-### Movement 2 — PRIVATE (post-result, alone) ~100 words
-**TRIGGER RULE: NOT a test result** (student's call — common and dangerous ground). Preferred: a night that went flat after PRAISE or SUCCESS ("I grow little of the praises" embodied — e.g., the evening after the ViDrive user's thank-you). Must be a REAL memory — verify before writing. Fallback: any non-test reception moment.
-- [ ] Confirm which real night this is:
-```
-[blank]
-```
-- [ ] What you wrote or wanted to write:
-```
-[blank]
-```
-- [ ] The fact that no one was there to receive it (state plainly, no melodrama):
-```
-[blank]
-```
+> A user once told me I saved him 30M VND. The numbers didn't erase his instinct — they gave it a floor to stand on.
 
-### Close — ViDrive frame
+**Edits from the first draft:** "they gave it a floor" → pinned to *instinct* (the pronoun was ambiguous — the instinct is the point, not the car). Then cut "about which car he could afford": the CR-V/VF6 specificity belongs in the trim hierarchy, not in the thesis line. The thesis now reads in four seconds.
+
+**If specificity is wanted back**, restore the longer version: *"The numbers didn't erase his instinct about which car he could afford — they gave it a floor to stand on."* The trim hierarchy already says user-story details drop first, so this is the correct place to hold it.
+
+### Movement 2 — PRIVATE — DRAFTED 2026-08-31 · VERIFIED REAL
+**Two moments, same mechanism, years apart.** Both confirmed by the student against his own memory; the second is documented (newspapers + VTV, two weeks).
+
+**M2a — the birth of the gap.** CircleK, cold evening, late for extra class, a 1540 in his pocket — and the score changing nothing about how he was perceived. Not by the teachers, not by anyone. The number was real; the recognition never arrived. He went home and wrote it down, because writing is the only channel that carries it.
+
+**M2b — the structural proof.** A 9.0 IELTS, and for two weeks his face was the headline in every newspaper and on VTV. Respect, yes — national television, the works. Trust, no. Love, no. Two weeks of the loudest acknowledgment he'd ever received, and the gap didn't move an inch.
+
+**Register cut applied:** the line *"those that are not as academically capable are popular nonetheless"* was dropped. Read one way it's his feeling; read another it's contempt for peers — the classic "I'm not like my peers" rejection pattern. The surviving line carries the identical insight and is clean.
+
+**Draft (~100 words) — REFINED 2026-08-31:**
+
+> That started earlier, in a CircleK — cold evening, late for extra class, a 1540 in my pocket, and the score changing nothing about how I was perceived. But the real proof came later. I got a 9.0 IELTS, and for two weeks my face was the headline in every newspaper and on VTV. Respect, yes — national television, the works. Trust, no. Love, no. Two weeks of the loudest acknowledgment I'd ever received, and the gap didn't move an inch. I went home and wrote it down. Nobody was there to receive it.
+
+**Edits:** "in my pocket and the score" → "in my pocket, and the score" (comma lets score-changing-nothing land as its own clause — the point of the sentence). Cut "because writing is the only channel that carries it" — the essay has been proving that for three paragraphs; the line doesn't need to explain itself. Last two sentences now sit as pure statement: "I went home and wrote it down. Nobody was there to receive it." That second sentence is the M2 spine and never gets cut. **Cut "a classmate beside me" (2026-08-31) — it adds nothing: the point is the scale of the recognition, not who shared it.**
+
+**Journal line used:** *"how far I am from everyone, no matter direction"* — confirmed from the same entry.
+
+### Close — ViDrive frame — REFINED 2026-08-31
 Reserved line concept: subcalculations within 5%; no tolerance available for himself. May echo the user story (the spec landed for him).
-- [ ] 2–3 candidate closings (draft stage only):
-```
-[blank]
-```
+
+> For ViDrive, the spec was 5% error on every subcalculation. It held for him. It held for the 500 users who trusted it. But that's for cars — for me, the tolerance is something I'll compute for the rest of my life.
+
+**What I cut and why:**
+- *"the ultimate deliverable was consistent"* → *"the spec was"*. Four filler words; the sentence IS the deliverable.
+- *"every single subcalculation"* → *"every subcalculation"*. "Single" is redundant.
+- *"much of the 500 active users that so appreciated my work within 2 weeks of it launching"* → *"the 500 users who trusted it"*. "So appreciated my work" is self-congratulatory padding, and the two-week launch detail doesn't serve the essay's point. "Trusted" is the right word — M2 is about trust, not respect.
+- *"remains"* → *"is"*. "Remains" is weaselly; the sentence lands harder as a statement.
+
+**Trim fallback (unchanged):** "Every subcalculation lands within 5% accuracy. And I can't compute myself to any tolerance at all."
 
 ### TRIM HIERARCHY (if draft exceeds 650 words — cut in this order)
 1. Seam shrinks to ONE sentence ("A user once wrote that I saved him 30M VND.")
@@ -126,6 +137,7 @@ Reserved line concept: subcalculations within 5%; no tolerance available for him
 1. **Engineer's lens budget:** read receipt (open) + ViDrive spec (close) + AT MOST 1–2 light touches between. No metaphor stacking ("unhandled exception," "garbage collection," etc. — banned).
 2. **Journal quoting:** max 1–2 lines total. Best candidates: *"I grow little of the praises, grieve much of the failures"* / *"how far I am from everyone, no matter direction."*
 3. **Banned register (resentment narrative):** "people who will break it," "prove everyone wrong," establishment/destiny grievance framing. Privately true; on the page it pattern-matches risk.
+   **Applied 2026-08-31:** dropped from M2 the line *"those that are not as academically capable are popular nonetheless."* Read one way it's his feeling; read another it's contempt for peers — the classic "I'm not like my peers" rejection pattern. The surviving line (*"the score changing nothing about how I was perceived"*) carries the identical insight and is clean. Same cut family as guardrail 11/12.
 4. **No whole-journal-as-essay:** all internals, no arc. It's a quarry, not a building.
 5. **Weight on forward motion:** what he DOES about the gap (mates, tools, translation), never how bad the gap feels. No imposter-syndrome spiral endings.
 6. **Voice:** keep his journal cadence — aphoristic, slightly formal ("My eyes, always towards... My heart, to..."). Don't sand down into generic polish.
@@ -154,25 +166,27 @@ Reserved line concept: subcalculations within 5%; no tolerance available for him
 ## 7. Open questions — ANSWERED 2026-08-26 (evening session)
 
 - [x] **Mode question — RESOLVED:** Both hurt on different clocks. Trying-to-care failure = immediate, acute, recoverable ("hanging, confused and humbled immediately"). Brute-force logic = **deferred and structural**: "one day the legs just give, and I can't run no more." → The essay's emotional center is the **deferred cost**. M1 shows the survivable pain; M2 shows the legs giving.
-- [x] **M2 trigger — REDIRECTED by student (correct call):** test results = common, dangerous ground; 1540 night is out. Replacement per §4: a night gone flat after praise/success, pending verification of a real memory.
-- [x] **Read receipt placement — DECIDED: OPENS.** Rationale: crawl winners open concrete; the frame sets the lens for both movements; creates engineering bookends with the ViDrive close. Requirement: the dual-register twist (ACK-normal in code vs wound between people) must land within the first lines, not just the notification image.
+- [x] **M2 trigger — CORRECTED 2026-08-31.** My earlier call to kill the 1540 night was wrong, and the student's correction is the right one. I rejected it as "common ground — score essays are pattern-matched." That was correct *for a score brag* and wrong for a perception-gap origin story. The CircleK night is not about the 1540; it's about the score **changing nothing about how he was perceived** — the birth of the entire 5% gap, years before the theme had a name. It is the essay's center of gravity, not a detour. **M2 is now two moments, same mechanism:** M2a CircleK (the birth) + M2b IELTS/VTV (the structural proof, documented). Both verified real.
+- [x] **Read receipt placement — DECIDED: OPENS.** Rationale: crawl winners open concrete; the frame sets the lens for both movements; creates engineering bookends with the ViDrive close. Requirement: the dual-register twist (ACK-normal in code vs wound between people) must land within the first lines, not just the notification image. **Note:** the dual register is already his — journal: *"My eyes, always towards those at the very top... My heart, to the people who I know will break it."* The essay transcribes it; it doesn't invent it.
 - [x] **Heritage check — MASSIVE yes (T4 material surfaced):** grandfather Quang Tri→Ha Tinh w/ two fingers missing; father bare-hands to Hanoi, consultant→founder→VP→gave it all up for the kids; taught financial literacy "without any capital"; student reached US applications with no consulting service. → Routed to why-major supplement + recommender packet per Guardrails 9–10. T4 braid stays shelved as a PS structure, but the lineage now FEEDS the app.
 - [x] **ViDrive human moment — CONFIRMED and stronger than hoped:** user message, 30M VND saved, gas-vs-electric blindspot caught, CR-V→VF6 downsizing, "numbers help clear instinctive, feeling-ish assumptions." → Deployed as Seam (§4). Thesis refined: logic gives emotion a floor.
 
 **New open item:**
-- [ ] Verify the praise-flat night exists as a real memory (which night? what happened?) before drafting M2.
+- [x] ~~Verify the praise-flat night exists as a real memory~~ **RESOLVED 2026-08-31.** The "praise-flat night" turned out to be two real, documented moments — CircleK (1540, perception unchanged) and the IELTS/VTV fortnight (max public recognition, zero trust/love). Both verified by the student. The verification method that worked: **re-enter the artifact, don't recall the evening.** Read the message, check the newspaper, open the commit. Memory of a trigger is easier than memory of a night. Use this for M1 too.
 
 ---
 
 ## 8. Assignments & deadlines
 
 - [ ] **10 small moments list** — due before Sep 1. Two lines each, no polish. Must include: ≥2 moments where a FEELING made you build something; ≥1 moment where your rational default failed someone. Circle any with clear before→shift→after.
-- [ ] **Movement 1 draft** ~150 words raw (OGL bonding event)
-- [ ] **Seam draft** — user story in 1–2 sentences
-- [ ] **Movement 2 draft** ~100 words raw (praise-flat night, pending verification)
-- [x] Mode question answered (§7) — center = deferred cost
-- **Draft week: Sep 1–7.** Do not draft before movements + moments exist.
-- After sending drafts back: mentor places the seam, checks register budget, then full PS drafting begins.
+- [ ] **Movement 1 draft** ~150 words raw (OGL bonding event) — **the last blank.** Everything else in §4 is drafted.
+- [x] **Hook (read receipt)** — drafted 2026-08-31
+- [x] **Seam (ViDrive user)** — drafted 2026-08-31
+- [x] **Movement 2 (CircleK + IELTS/VTV)** — drafted 2026-08-31, verified real
+- [x] **Close (5% spec)** — drafted 2026-08-31
+- [x] M2 verification — resolved
+- **Draft week: Sep 1–7.** M1 is the only remaining blank; once it lands, the full PS can be assembled in one pass.
+- After sending M1 back: mentor assembles the full essay, places the seam, checks register budget, then full PS drafting begins.
 
 ---
 
