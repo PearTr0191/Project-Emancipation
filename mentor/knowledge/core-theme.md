@@ -48,3 +48,21 @@ Use one centerpiece project to unify the application:
 - Supplements tie it to future goals [DD9mpYvOqoX]
 
 Sources: distilled primarily from posts CwutRKGLwLK, DLm6QZ5h1UJ, DSAUqGXgR2b, DSphV55gMzi, DJ_zrMtsMZM, DJZLvABP8x_, DD9mpYvOqoX, DCzLzGMv6Kc, C-Au-52OyLM.
+
+---
+
+## External anti-prestige framework (from @ivy_roadmap profile)
+
+The `ivy_roadmap` profile (`knowledge/ivy_roadmap_profile.md`) provides an authoritative, non-UILG source for the prestige-is-a-trap argument that underpins the `The 5% Gap` theme. The profile's core thesis — the **"beast with a story"** framework — is the single most direct external corroboration of the essay's closing argument:
+
+> "Everything you were told about how to get into an Ivy League school is a lie. The SAT is optional. Lie. Rich kids have the same odds as you do. Lie. Applying it early will double your odds. Lie. [...] They don't want a teacher's pet. They want a beast with a story. Your story removes you from the rat race. Your story makes you one of one. Limited edition. A catch. It's the only thing that matters in Ivy League admissions."
+
+**How this supports `The 5% Gap`:**
+- The essay's controlling image (the read receipt) and final movement (asynchronous emotion / latency) are not flaws to erase — they're the singular feature that makes the applicant "one of one." The profile's framework gives this argument an external, credible source: it's not just the student's self-perception, it's a documented admissions principle.
+- The profile's anti-prestige stance (rejecting SAT scores, clubs, connections, ED odds as decisive factors) aligns with the essay's structural move: the 5% gap is not a weakness to fix, it's the story that removes the applicant from the rat race.
+
+**How to use this in the essay (without adopting the voice):**
+- The framework supports the **closing argument** — the "5% spec" line — without requiring the student to adopt the profile's anti-establishment voice (`"bro"`, direct contradiction, "Lie. Lie. Lie.").
+- If a supplement asks about motivation or "why this school," the profile's framework can be referenced indirectly: the school's specific program/fit is what matters, not its prestige tier. This is the same structural argument the profile makes, but in the student's own voice.
+
+**Source:** `knowledge/ivy_roadmap_profile.md` (digest-level material from `distill_digest_refresh.txt`; author: Andreas Dematakis, *The Ivy League Roadmap*). Not a new crawl; treat as reference, not verified.

@@ -1,4 +1,4 @@
-## CDS comparison: Stanford vs Dartmouth (2025–26 cycle)
+﻿## CDS comparison: Stanford vs Dartmouth (2025–26 cycle)
 
 Source: Stanford CDS 2025–26, Dartmouth CDS 2025–26, as reported by College Transitions, Collegedata.fyi, and the institutions' own PDFs. For the CDS definition and section map, see `knowledge/cds-explainer.md`.
 
@@ -66,3 +66,129 @@ Both are test-mandatory. Your 1540 clears the bar at both; neither school has a 
 ### Practical takeaway
 
 If you had to differentiate the two on CDS evidence alone: Stanford's grid is slightly more aligned with a builder profile (talent/ability at top tier), and your Math score is a stronger asset there. Dartmouth's grid is nearly identical but demotes raw talent one notch, and its admitted composite range sits ~30 points lower — meaning your score is less of a liability and more of an asset there. Both remain reaches; neither is winnable on CDS data alone.
+---
+
+## Drexel University — CDS profile (2025–26 cycle)
+
+Source: Drexel CDS 2025–26 PDF (via collegedata.fyi and Esslo), Drexel admissions site. Drexel was added to the school list on 2026-09-01 as a co-op backup to Northeastern. Its CDS data was not previously in the knowledge base; this section closes that gap.
+
+### Section C7 — basis for selection
+
+| Factor | Rating |
+|---|---|
+| **Academic** | |
+| Rigor of secondary school record | **Very Important** |
+| Class rank | **Very Important** |
+| Academic GPA | **Very Important** |
+| Standardized test scores | **Very Important** |
+| Application Essay | Important |
+| Recommendation(s) | Important |
+| **Nonacademic** | |
+| Interview | Considered |
+| Extracurricular activities | Considered |
+| Talent/ability | Considered |
+| Character/personal qualities | Important |
+| First generation | Considered |
+| Alumni/ae relation | Considered |
+| Geographical residence | Not Considered |
+| State residency | Not Considered |
+| Religious affiliation/commitment | Not Considered |
+| Volunteer work | Considered |
+| Work experience | Considered |
+| Level of applicant's interest | Considered |
+
+### Section C8 — test policy (Fall 2027 entry)
+
+Drexel is **No Harm Test-Optional**: applicants can choose whether to submit scores. 'If [scores] harm your application, they will not be used in our admissions review.' Standardized test scores are rated Very Important on C7, so submitting a strong score is a real asset. Superscores: yes (Drexel considers highest section scores across test dates). BA/BS+MD Early Assurance Program requires scores. **Your 1540 is well above the middle 50% (1260–1430) and would be a genuine strength if submitted.**
+
+### Section C9–C12 — score profile (enrolled first-years, 2025–26)
+
+| Score | 25th | 50th | 75th |
+|---|---|---|---|
+| SAT Composite | 1260 | 1350 | 1430 |
+| SAT EBRW | 630 | 670 | 710 |
+| SAT Math | 630 | 680 | 730 |
+| ACT Composite | 28 | 30 | 33 |
+
+**Your position:** 1540 composite is above the 75th percentile (1430). 800 Math is well above the 75th (730). 760 EBRW is above the 75th (710). At every section, you sit at or above the top of the enrolled-class range. SAT submit rate is 35% — meaning 65% of enrolled students did not submit, and the no-harm policy means you lose nothing by submitting a strong score.
+
+### Admission profile (2025–26)
+
+- **Admit rate:** 70% (26,583 admitted from 38,030 applicants)
+- **Enrolled:** 1,948
+- **Average high school GPA:** 3.79 (94.4% submitted GPA)
+- **Top 10% of class:** 31.78%
+- **Top 25% of class:** 63.18%
+- **Student-faculty ratio:** 9:1
+- **6-year graduation rate:** 78%
+- **Median earnings 10 years after enrollment:** $84,648 (federal College Scorecard)
+- **Average net price:** $38,509 (federal Scorecard, all aided students)
+
+### Early Decision / Action
+
+Drexel offers **binding Early Decision** (not Restrictive EA). ED admit rate is 78.3% (234 of 299 ED applicants admitted) vs. 69.8% RD. **ED is incompatible with Stanford REA** — the ED commitment conflicts with REA's single-binding restriction. File Drexel RD. Source: Esslo (compiled from CDS 2025–26) and Drexel admissions site.
+
+### Cost of attendance (2024–25 CDS; 2025–26 cost section not yet published)
+
+| Component | Amount |
+|---|---|
+| Tuition & required fees | $64,212 |
+| Room & board | $18,831 |
+| Books & other expenses | $3,200 |
+| **Total COA** | **$86,243** |
+
+At a $50k total budget, this is $345k over 4 years against a $50k budget — **the gap is even larger than at Northeastern**. Aid or co-op income is required. Private nonprofit, so tuition is the same regardless of state residency.
+
+### Financial aid — international students
+
+- **Nonresidents awarded institutional aid:** 1,038 (CDS H.604)
+- **Average international aid amount:** $32,937 (CDS H.605)
+- **Total international institutional aid:** $34,188,924 (CDS H.606)
+- **FAFSA priority date:** February 1
+- **Aid reply deadline:** May 1
+
+This is the most concrete international-aid data on the list. **Drexel does give institutional aid to nonresidents**, and the average award is $32,937. Combined with co-op income, the $50k budget becomes plausible — but only if the aid package + co-op income covers the full gap. This is better aid transparency than most schools on the list.
+
+### Co-op structure
+
+- **5-year track:** up to 3 paid co-ops (the majority of undergraduates)
+- **4-year track:** 1 paid co-op
+- **Format:** 6-month, full-time, paid professional placements
+- **Calendar:** Quarter system
+- **Career office:** Steinbright Career Development Center
+- **Pay:** Most positions are paid; specific pay ranges vary by field and employer
+
+The co-op mechanism is structurally identical to Northeastern's. Drexel does not publish a typical co-op pay range in the CDS, so any cost-offset modeling should use a conservative range (~$15–25k/yr offset, similar to Northeastern) and treat it as a planning assumption, not a guarantee.
+
+### How Drexel's C7 plays for your profile
+
+- **Rigor, GPA, test scores, class rank — all Very Important.** Your upward GPA trend (G10 9.5 → G11 ~9.6–9.7) and 1540 SAT are strong here. The 800 Math is a real signal.
+- **Application essay and recommendations — Important.** This is where the ViDrive narrative lands. At Stanford and Dartmouth, extracurriculars and character are Very Important, which elevates the builder signal. At Drexel, extracurriculars are only Considered. The essay and recommendations carry more of the narrative weight. The '5% Gap' theme needs to do real work in the essay here.
+- **Character/personal qualities — Important.** This is the second channel for the ViDrive signal. A supplement that frames the translation/latency/quantified-utility story in terms of how you approach problems (not just what you built) would land here.
+- **Work experience — Considered.** Drexel's co-op model means they want students who understand work-integrated learning. The ViDrive builder signal fits this naturally — it's evidence of work-like output. Frame it that way in the supplement.
+- **Level of applicant's interest — Considered.** This is the explicit 'why Drexel' signal. A generic why-us essay would not move the needle here. The supplement should reference co-op specifically, and at least one concrete Drexel program/employer/culture detail.
+
+### Practical takeaway
+
+Drexel is a **High Target**, not a safety. The 70% admit rate looks generous, but Drexel's yield is 7% — meaning the admit rate is inflated by admits who don't enroll. International admit odds are below the published rate. Your 1540 is well above the enrolled-class median, which is a real advantage, and the no-harm test-optional policy means submitting costs nothing.
+
+The key positioning question is: **why apply to Drexel if you're also applying to Northeastern?** The honest answer: Drexel is the co-op backup. If Northeastern rejects, Drexel preserves the #1 stated priority (early US work experience). The essay should be honest about that — the co-op model is what you're choosing, and Drexel's co-op is the same mechanism at lower selectivity and lower aid risk (because the average international aid is published at $32,937, which is the most concrete data point on the list).
+
+**Drexel is not a safety by admit rate, but it is a lower-risk choice than the reaches on the cost dimension.** At $50k budget, the international aid data ($32,937 average) is the strongest single argument for Drexel's place on the list.
+
+### Data-quality flags
+
+- **C7 source:** Drexel CDS 2025–26 PDF, directly read from the institution's published document. High confidence.
+- **C8 source:** Drexel standardized testing policy page, corroborated by the CDS PDF (which says 'Required for some' for Fall 2027 — i.e., test-optional with no-harm). High confidence.
+- **C9–C12 source:** collegedata.fyi CSV extraction of the same CDS, cross-referenced with Esslo. High confidence.
+- **COA source:** 2024–25 CDS (Drexel has not yet published the 2025–26 cost section). Moderate confidence — the 2025–26 figure is likely similar or slightly higher.
+- **International aid (H.604/H.605/H.606):** CDS 2025–26 directly. High confidence. This is the most concrete international-aid data on the list.
+- **ED data:** Esslo (compiled from CDS 2025–26) + Drexel admissions site. The collegedata.fyi CSV shows 'No Early Decision reported' in one field, which appears to be a parsing artifact — the CDS itself does report ED, and the admissions site confirms binding ED. High confidence on ED existence and terms.
+- **Co-op pay:** No CDS field. Drexel does not publish a typical co-op pay range. Planning assumption only.
+
+### Notes for reviewing agents
+
+- Drexel's C7 is notably different from the rest of the list. Extracurriculars are Considered, not Important. The essay and recommendations carry more narrative weight here than at Stanford or Dartmouth. The supplement strategy for Drexel should be essay-first.
+- Test scores are Very Important despite test-optional status. The 1540 is a genuine asset — submit it.
+- The $32,937 average international aid is the strongest data point on the list for international affordability. Combined with co-op income, Drexel is the most financially legible co-op option.
+- **Open follow-up:** verify Drexel's ED terms do not allow concurrent REA (the source notes say ED is binding and incompatible with Stanford REA; this should be confirmed on Drexel's admissions site before submitting).

@@ -1,0 +1,49 @@
+{
+  "profiles": [
+    {
+      "profile": "rakhimoff_amir",
+      "type": "profile_digest",
+      "themes": [
+        "school_list",
+        "testing",
+        "recommendations",
+        "study_skills"
+      ],
+      "digest_entries": 5,
+      "transcript_refs": 2,
+      "synthesis_path": "knowledge/rakhimoff_amir_profile.md",
+      "notes": "Digest-level material only; full pipeline would require separate posts_index.json crawl.",
+      "digest_codes": [
+        "DNXs4ott8RA",
+        "DUKfmgHjC0V",
+        "DUn8nb6DciU",
+        "DcbFv67NXaZ",
+        "DcdzE3yt-25"
+      ]
+    },
+    {
+      "profile": "ivy_roadmap",
+      "type": "profile_digest",
+      "themes": [
+        "study_skills",
+        "myths_mindset",
+        "timeline",
+        "activities",
+        "school_list",
+        "interviews"
+      ],
+      "digest_entries": 4,
+      "transcript_refs": 0,
+      "synthesis_path": "knowledge/ivy_roadmap_profile.md",
+      "notes": "Digest-level material only; full pipeline would require separate posts_index.json crawl.",
+      "digest_codes": [
+        "DFrCPrfhWQb",
+        "DGeJpqxug6o",
+        "DL6AeB3yIOl",
+        "Dchd7xROeAJ"
+      ]
+    }
+  ],
+  "generated_at": "2026-09-01T15:30:07Z",
+  "note": "These profiles were processed from the prior digest/transcript corpus (not a new crawl). The /extractig command handles this by reading digest files when posts_index.json does not match the handle."
+}
