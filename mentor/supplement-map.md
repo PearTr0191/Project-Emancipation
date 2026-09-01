@@ -1,4 +1,4 @@
-﻿# Supplement Essay Map — 12 Schools (2026-27 Cycle)
+﻿# Supplement Essay Map â€” 10 Schools (2026-27 Cycle, final 2026-09-01)
 
 **Status:** Framework only — no drafts yet. Built 2026-09-01.
 **Theme (locked):** The 5% Gap (translation / latency / quantified utility)
@@ -77,7 +77,7 @@ Each school gets 1–2 supplements (varies by school). The strategy is: **one Co
 - **ViDrive deployment:** Character is Very Important — frame ViDrive as evidence of character (not just talent). The builder-with-purpose narrative is the natural fit.
 - **Open research:** Georgia Tech's College of Computing, IPaT, specific AI/ML research groups, Atlanta tech corridor.
 
-### Drexel (RD, Jan 15) — High Target (co-op backup)
+### Drexel â€” DROPPED 2026-09-01 (not clearly superior to VinUni)
 - **Supplements required:** Common App personal statement + Drexel-specific essays.
 - **C7 emphasis:** Rigor, GPA, test scores Very Important; extracurriculars Considered; essay and recommendations Important. Character Important. Co-op model means work experience is a signal.
 - **Likely prompts (verify against 2026-27):**
@@ -120,7 +120,7 @@ Each school gets 1–2 supplements (varies by school). The strategy is: **one Co
 - **ViDrive deployment:** Standard builder narrative. ASU's strength is OPT volume and cost — not brand differentiation.
 - **Open research:** Barrett Honors College supplement requirements, specific CS/AI programs at ASU.
 
-### Illinois Tech (RD) — Lowest-Cost Tier
+### Illinois Tech â€” RESTORED 2026-09-01 (settlement pathway, not reputation)
 - **Supplements required:** Common App personal statement + Illinois Tech-specific.
 - **C7 emphasis:** Not yet sourced.
 - **Likely prompts (verify against 2026-27):**

@@ -1,8 +1,8 @@
-﻿# CDS comparison — 11 schools (2025–26 cycle)
+﻿# CDS comparison — 10 schools (2025–26 cycle)
 
 Sources: each institution's Common Data Set 2025–26, as reported by College Transitions, Collegedata.fyi, Koppelman Group, NextGen Admit, and collegestatistics.org. For the CDS definition and section map, see `knowledge/cds-explainer.md`. The Stanford/Dartmouth comparison with full C7 grid is in `knowledge/school-list-strategy.md`.
 
-> **2026-09-01 budget revision note.** The school list was re-balanced when the budget moved from $15–20k to **$50k total**. Michigan and Georgia Tech were re-added (previously dropped on high remaining-balance risk for internationals — now absorbable). Cornell was added as a third Ivy-tier reach. USC stays off-list on cost + aid uncertainty. The CDS grids below are unchanged by the budget revision; what changed is which rows are decision-relevant. This file covers the 11 schools with CDS data available; Cornell's C7/C9–C12 is not yet in this comparison and should be sourced before supplement planning.
+> **2026-09-01 budget revision note.** The school list was re-balanced when the budget moved from $15–20k to **$50k total**. Michigan and Georgia Tech were re-added (previously dropped on high remaining-balance risk for internationals — now absorbable). Cornell was added as a third Ivy-tier reach. USC stays off-list on cost + aid uncertainty. The CDS grids below are unchanged by the budget revision; what changed is which rows are decision-relevant. This file covers the 10 schools with CDS data available on the final list (Drexel and ASU Barrett dropped 2026-09-01; their CDS data is retained for reference only).
 
 ## Data-quality flags
 

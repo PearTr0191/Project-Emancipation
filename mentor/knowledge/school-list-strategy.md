@@ -68,9 +68,9 @@ Both are test-mandatory. Your 1540 clears the bar at both; neither school has a 
 If you had to differentiate the two on CDS evidence alone: Stanford's grid is slightly more aligned with a builder profile (talent/ability at top tier), and your Math score is a stronger asset there. Dartmouth's grid is nearly identical but demotes raw talent one notch, and its admitted composite range sits ~30 points lower — meaning your score is less of a liability and more of an asset there. Both remain reaches; neither is winnable on CDS data alone.
 ---
 
-## Drexel University — CDS profile (2025–26 cycle)
+## Drexel University â€” REFERENCE ONLY (DROPPED 2026-09-01, not on final list)
 
-Source: Drexel CDS 2025–26 PDF (via collegedata.fyi and Esslo), Drexel admissions site. Drexel was added to the school list on 2026-09-01 as a co-op backup to Northeastern. Its CDS data was not previously in the knowledge base; this section closes that gap.
+Source: Drexel CDS 2025–26 PDF (via collegedata.fyi and Esslo), Drexel admissions site. Drexel was added to the school list on 2026-09-01 as a co-op backup to Northeastern. **DROPPED 2026-09-01** (not clearly superior to VinUni on education or settlement pathway). CDS retained for reference only. Its CDS data was not previously in the knowledge base; this section closes that gap.
 
 ### Section C7 — basis for selection
 
