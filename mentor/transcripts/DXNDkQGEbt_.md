@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,979 likes, 2,312 comments - ultimateivyleagueguide on April 16, 2026: "Most students overthink their college essays trying to sound “impressive.” 🙅‍♀️
+"Most students overthink their college essays trying to sound “impressive.” 🙅‍♀️
 
 Instead, L chose to write about their love for video games, fixing computers, and how that led to medicine. 
 

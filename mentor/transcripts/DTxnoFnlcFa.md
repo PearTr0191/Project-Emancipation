@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-8,237 likes, 767 comments - ultimateivyleagueguide on January 21, 2026: "The difference between a good and bad answer is structure ⬇️
+"The difference between a good and bad answer is structure ⬇️
 
 ❌What the Rejected Answer Does:
 It describes who the student wants to be perceived as, not who they actually are. It names interests and achievements without context or causality. Nothing explains how the student thinks, responds to difficulty, or arrived at their interests, so there’s nothing unique to write down.

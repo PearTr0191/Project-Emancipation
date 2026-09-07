@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,953 likes, 83 comments - ultimateivyleagueguide on October 6, 2025: "If you spend four years locked in a library and walk out with nothing but a diploma, you wasted the most valuable part of the experience.
+"If you spend four years locked in a library and walk out with nothing but a diploma, you wasted the most valuable part of the experience.
 
 College is one of the only times in your life where you’re surrounded by thousands of ambitious people, world-class professors, and opportunities that don’t exist anywhere else.
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,209 likes, 534 comments - ultimateivyleagueguide on February 17, 2026: "Every year, over 18,000+ valedictorians get rejected by top colleges…
+"Every year, over 18,000+ valedictorians get rejected by top colleges…
 
 The Black Coffee Theory explains why ☕️
 

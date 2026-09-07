@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,469 likes, 6,659 comments - ultimateivyleagueguide on May 29, 2025: "Jamie didn’t think she was a “good test taker”…
+"Jamie didn’t think she was a “good test taker”…
 
 she started with a 1280 on the Digital SAT
 

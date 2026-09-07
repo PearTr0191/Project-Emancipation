@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-24K likes, 2,390 comments - ultimateivyleagueguide on March 30, 2026: "I’m currently a senior at Harvard, and one of the biggest differences I see isn’t intelligence… it’s how people study 😮📚
+"I’m currently a senior at Harvard, and one of the biggest differences I see isn’t intelligence… it’s how people study 😮📚
 
 The students who struggle:
 – reread notes

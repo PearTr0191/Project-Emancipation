@@ -52,3 +52,11 @@ Not a second personal statement; not excuses; not a resume paste. Use for focuse
 - Write early enough for multiple revisions; summer-before-senior draft target. [C82DnKrM_Lm]
 
 Sources: C9ILQAUMus0, C8kWueLvk20, DTwVRxGkr-e, DS4-Jk_gBQk, DSvcr3QAUjc, C9sU9AcuDUc, DLU38sUxwF5, C82DnKrM_Lm, CpVT29BPzOH.
+
+---
+
+## Distilled items (2026-09-05 batch)
+
+### Dby5OqVvJCl [essays, school_list, testing]
+
+I'm going to read the beginning of my Common App essay, which I've never shared before. | But this essay got me into 20 out of 26 schools, including Harvard, Stanford, and four other | IE's. | a strategy there which I can explain if you guys want to hear. | Bye guys, love you so much. (Audio STT: 24 segments (faster-whisper medium))

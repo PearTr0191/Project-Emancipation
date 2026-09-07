@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,569 likes, 1,032 comments - ultimateivyleagueguide on May 29, 2025: "What if getting into Harvard isn’t the flex it used to be? ⬇️
+"What if getting into Harvard isn’t the flex it used to be? ⬇️
 
 the AI revolution is rewriting the rules
 and a shiny degree won’t save you if the skills behind it are outdated.

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-16K likes, 4,552 comments - ultimateivyleagueguide on November 22, 2025: "Picking a major is stressful enough 😅
+"Picking a major is stressful enough 😅
 
 Figuring out which colleges are actually good for that major? Even worse.
 

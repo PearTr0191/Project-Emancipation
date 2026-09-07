@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,168 likes, 467 comments - ultimateivyleagueguide on June 16, 2026: "AP Exam season is over and scores are releasing soon…but what are you doing in the meantime? 😬
+"AP Exam season is over and scores are releasing soon…but what are you doing in the meantime? 😬
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,960 likes, 1,070 comments - ultimateivyleagueguide on January 5, 2026: "Here’s how I made the resume that got me positions at Google and Microsoft (without any tech/engineering experience!) 👩‍💻🌟
+"Here’s how I made the resume that got me positions at Google and Microsoft (without any tech/engineering experience!) 👩‍💻🌟
 
 This month is PEAK season for high school internship and summer program applications ⏰
 

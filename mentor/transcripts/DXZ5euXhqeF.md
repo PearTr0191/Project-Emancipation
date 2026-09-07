@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,631 likes, 1,325 comments - ultimateivyleagueguide on April 21, 2026: "If you’re feeling overwhelmed by college applications, you’re not alone. 
+"If you’re feeling overwhelmed by college applications, you’re not alone. 
 
 The biggest mistake most students make isn’t in the writing itself—it’s starting WITHOUT knowing what admissions officers are actually looking for. 🤯✍️
 

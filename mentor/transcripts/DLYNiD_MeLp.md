@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,229 likes, 1,155 comments - ultimateivyleagueguide on June 22, 2025: "⬇️ Most international students are playing the US college admissions game without realizing the rules are completely different.
+"⬇️ Most international students are playing the US college admissions game without realizing the rules are completely different.
 
 I used to think top grades and test scores were enough. But for international applicants, that’s just the baseline…
 

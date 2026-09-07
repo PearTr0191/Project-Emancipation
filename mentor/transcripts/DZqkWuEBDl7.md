@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-987 likes, 298 comments - ultimateivyleagueguide on June 16, 2026: "In high school, I worked 3 fast food jobs to support my family…
+"In high school, I worked 3 fast food jobs to support my family…
 
 Now I’m finishing Harvard with a full-tuition scholarship. 
 

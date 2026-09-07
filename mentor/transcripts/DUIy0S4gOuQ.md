@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,212 likes, 1,151 comments - ultimateivyleagueguide on January 30, 2026: "Most students think they’re “bad at studying”
+"Most students think they’re “bad at studying”
 when in reality… they were just taught the wrong habits.
 
 Let’s break these down 👇

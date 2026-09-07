@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-10K likes, 4,080 comments - ultimateivyleagueguide on July 8, 2024: "The #1 Rule SUCCESSFUL People Follow⬇️👀
+"The #1 Rule SUCCESSFUL People Follow⬇️👀
 
 In this video, I revealed WHY starting big projects when you don’t feel like it is directly correlated with success🚀
 

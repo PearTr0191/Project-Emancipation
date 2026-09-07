@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,057 likes, 993 comments - ultimateivyleagueguide on July 23, 2026: "If you want a strong academic spike, point your core activities straight at the major you’re applying for 🎯
+"If you want a strong academic spike, point your core activities straight at the major you’re applying for 🎯
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

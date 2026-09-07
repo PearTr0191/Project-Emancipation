@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-9,554 likes, 5,798 comments - ultimateivyleagueguide on May 1, 2025: "You’re doing the research.
+"You’re doing the research.
 You’re getting the grades.
 You’re winning awards.
 

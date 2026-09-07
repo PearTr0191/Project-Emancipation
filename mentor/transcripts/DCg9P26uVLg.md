@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,264 likes, 225 comments - ultimateivyleagueguide on November 18, 2024: "Memorizing information is a LOT simpler than you think 🫡
+"Memorizing information is a LOT simpler than you think 🫡
 
 In this video, I explain one of the study techniques I used to strengthen my academic profile for college admissions 🧠
 

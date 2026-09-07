@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,691 likes, 529 comments - ultimateivyleagueguide on January 24, 2025: "DO THIS to stand out in college admissions⬇️
+"DO THIS to stand out in college admissions⬇️
 
 Stop competing. Start creating.
 

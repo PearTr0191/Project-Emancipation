@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-20K likes, 9,093 comments - ultimateivyleagueguide on January 6, 2026: "Most students think college applications start senior year
+"Most students think college applications start senior year
 
 That’s why they panic when deadlines hit 😥
 

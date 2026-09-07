@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,351 likes, 58 comments - ultimateivyleagueguide on July 2, 2025: "When I was 17 trying to get into Harvard
+"When I was 17 trying to get into Harvard
 
 I suffered form severe procrastination…
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,755 likes, 863 comments - ultimateivyleagueguide on October 28, 2024: "AVOID THIS ACADEMIC MISTAKE⬇️
+"AVOID THIS ACADEMIC MISTAKE⬇️
 
 When I was in high school, I remember missing SO MANY opportunities simply because I didn’t think about my summers early on🫠
  

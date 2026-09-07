@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-958 likes, 768 comments - ultimateivyleagueguide on April 28, 2026: "1540+ SAT Scorers Only 🏆⚠️
+"1540+ SAT Scorers Only 🏆⚠️
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

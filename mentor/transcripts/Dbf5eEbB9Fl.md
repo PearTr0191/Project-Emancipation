@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,426 likes, 708 comments - ultimateivyleagueguide on July 29, 2026: "If this video finds you on August 1 or after, this is your sign… 👀🍀
+"If this video finds you on August 1 or after, this is your sign… 👀🍀
 
 #UltimateIvyLeagueGuide #UILG #UltimateMentor".
 

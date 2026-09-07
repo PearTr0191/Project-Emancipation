@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,726 likes, 125 comments - ultimateivyleagueguide on December 10, 2025: "Have you heard of the “demographic cliff” phenomenon?
+"Have you heard of the “demographic cliff” phenomenon?
 
 Colleges have already started changing their policies…
 

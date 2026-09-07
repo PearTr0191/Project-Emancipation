@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-11K likes, 584 comments - ultimateivyleagueguide on June 9, 2026: "Every year the most heartbreaking rejections go to students who did everything they were told to do 😬
+"Every year the most heartbreaking rejections go to students who did everything they were told to do 😬
 
 All six of these feel like the smart, responsible move while you’re making them.
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,111 likes, 2,205 comments - ultimateivyleagueguide on September 30, 2025: "You can now attend Harvard or MIT for FREE?!?!🤯 
+"You can now attend Harvard or MIT for FREE?!?!🤯 
 
 Here’s what you need to know ✅
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,285 likes, 104 comments - ultimateivyleagueguide on February 13, 2025: "Waking up at 5 a.m. isn’t about being productive for the sake of it…
+"Waking up at 5 a.m. isn’t about being productive for the sake of it…
 
 It’s about showing up for myself—even when no one’s watching.
 

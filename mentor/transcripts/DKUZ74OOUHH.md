@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-14K likes, 8,478 comments - ultimateivyleagueguide on May 28, 2025: "everyone focuses on what to write in their essays…
+"everyone focuses on what to write in their essays…
 
 but no one talks about the part where you stare at a blank doc
 and convince yourself you have nothing worth saying.

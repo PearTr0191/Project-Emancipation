@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,446 likes, 128 comments - ultimateivyleagueguide on June 21, 2025: "AP exam scores are coming out in 2 weeks & with the way score distributions are looking…some of y’all are gonna need this info ngl 
+"AP exam scores are coming out in 2 weeks & with the way score distributions are looking…some of y’all are gonna need this info ngl 
 
 #ultimateivyleagueguide #uilg #ultimatementor #apexams".
 

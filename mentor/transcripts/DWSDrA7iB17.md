@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,573 likes, 114 comments - ultimateivyleagueguide on March 24, 2026: "These are the 7 most common red flags I see in college applications! 😬🚩
+"These are the 7 most common red flags I see in college applications! 😬🚩
 
 Make sure you avoid them!
 

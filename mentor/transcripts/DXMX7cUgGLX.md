@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,256 likes, 542 comments - ultimateivyleagueguide on April 16, 2026: "Every high schooler should know these 7 parts of the Common Application! ✅👩‍💻
+"Every high schooler should know these 7 parts of the Common Application! ✅👩‍💻
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

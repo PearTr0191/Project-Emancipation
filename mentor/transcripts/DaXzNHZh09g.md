@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,774 likes, 1,172 comments - ultimateivyleagueguide on June 25, 2026: "Do you know the 7 parts of a great college essay? 👀👩‍💻
+"Do you know the 7 parts of a great college essay? 👀👩‍💻
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

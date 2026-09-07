@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,143 likes, 614 comments - ultimateivyleagueguide on May 17, 2026: "I started doing three small things in 10th grade that I now see in every top student I work with 📚
+"I started doing three small things in 10th grade that I now see in every top student I work with 📚
 
 None of them are the obvious productivity moves you keep seeing online… 
 

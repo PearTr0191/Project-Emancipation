@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,964 likes, 71 comments - ultimateivyleagueguide on April 18, 2026: "AP Exams are 2 Weeks away! Save & Follow to get a 5 on your exams 🤩🏆
+"AP Exams are 2 Weeks away! Save & Follow to get a 5 on your exams 🤩🏆
 
 Use this 2-Week Exam Cram Study Plan for any AP course!
 

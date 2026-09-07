@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,697 likes, 2,226 comments - ultimateivyleagueguide on July 15, 2026: "How to craft an Activities List that colleges ACTUALLY want to see! ✅🏆 
+"How to craft an Activities List that colleges ACTUALLY want to see! ✅🏆 
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,329 likes, 4,379 comments - ultimateivyleagueguide on August 20, 2024: "The Digital SAT strategy you NEED to know⬇️
+"The Digital SAT strategy you NEED to know⬇️
 
 ❌ STOP wasting time on ineffective study methods!
 

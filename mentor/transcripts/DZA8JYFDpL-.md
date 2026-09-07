@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-20K likes, 1,657 comments - ultimateivyleagueguide on May 31, 2026: "How to know if your SAT score makes you competitive ⬇️ 
+"How to know if your SAT score makes you competitive ⬇️ 
 
 1. Search up “[School] Common Data Set” and scroll to Section C9-C12. 
 

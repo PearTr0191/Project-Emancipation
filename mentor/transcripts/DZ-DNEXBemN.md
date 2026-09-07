@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,867 likes, 449 comments - ultimateivyleagueguide on June 22, 2026: "Let’s talk about the most common myths students believe (but shouldn’t) about college admissions! 🗣️😳
+"Let’s talk about the most common myths students believe (but shouldn’t) about college admissions! 🗣️😳
 
 #UltimateIvyLeagueGuide #UILG #UltimateMentor".
 

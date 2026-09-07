@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,191 likes, 599 comments - ultimateivyleagueguide on February 5, 2026: "The SpongeBob essay that got Kalissa into UCLA and USC 🫡
+"The SpongeBob essay that got Kalissa into UCLA and USC 🫡
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

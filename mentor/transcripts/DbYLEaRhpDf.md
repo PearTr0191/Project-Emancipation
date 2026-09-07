@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,799 likes, 678 comments - ultimateivyleagueguide on July 23, 2026: "Not every extracurricular carries the same weight, and most students bet on the wrong ones 🎓
+"Not every extracurricular carries the same weight, and most students bet on the wrong ones 🎓
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-8,598 likes, 783 comments - ultimateivyleagueguide on June 16, 2026: "Which UC school fits you best? 🤔🏆
+"Which UC school fits you best? 🤔🏆
 
 Choosing the right college for your major matters way more than people realize.
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-10K likes, 1,621 comments - ultimateivyleagueguide on June 29, 2025: "You don’t get extraordinary results by following someone else’s footprints… 
+"You don’t get extraordinary results by following someone else’s footprints… 
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

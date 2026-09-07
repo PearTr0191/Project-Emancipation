@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-878 likes, 67 comments - ultimateivyleagueguide on May 28, 2025: "I used to think straight A’s came from being “naturally smart”
+"I used to think straight A’s came from being “naturally smart”
 
 but it really came down to learning how to study the right way
 

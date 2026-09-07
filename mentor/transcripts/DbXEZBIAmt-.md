@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,853 likes, 929 comments - ultimateivyleagueguide on July 28, 2026: "Can you solve this SAT math problem? 🤔💯
+"Can you solve this SAT math problem? 🤔💯
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

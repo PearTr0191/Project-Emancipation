@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-9,469 likes, 1,687 comments - ultimateivyleagueguide on August 27, 2024: "How I received ZERO IVY LEAGUE REJECTIONS as an average student ⬇️
+"How I received ZERO IVY LEAGUE REJECTIONS as an average student ⬇️
 
 Hi! My name is Elise and I’m currently pursuing a degree in Molecular & Cellular Biology + Global Health & Health Policy (Pre-Med track) at Harvard University 👩‍🔬
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-12K likes, 5,854 comments - ultimateivyleagueguide on December 1, 2025: "🚨9TH GRADERS🚨 Make sure you follow these 3 steps (take notes! 📝)
+"🚨9TH GRADERS🚨 Make sure you follow these 3 steps (take notes! 📝)
 
 #UltimateIvyLeagueGuide #UILG #UltimateMentor".
 

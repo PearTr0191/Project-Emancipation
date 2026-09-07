@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-33K likes, 1,629 comments - ultimateivyleagueguide on June 30, 2025: "Each supplemental prompt should reveal a different facet of yourself…
+"Each supplemental prompt should reveal a different facet of yourself…
 
 Save & follow @ultimateivyleagueguide to join the Top 1% of students 🧠 
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-113K likes, 267 comments - ultimateivyleagueguide on July 21, 2026: "Learn these skills before you turn 18! 🧠💵
+"Learn these skills before you turn 18! 🧠💵
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

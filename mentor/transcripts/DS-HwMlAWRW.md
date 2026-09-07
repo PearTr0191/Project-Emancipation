@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,958 likes, 334 comments - ultimateivyleagueguide on December 29, 2025: "I wish I stopped chasing perfection in high school.
+"I wish I stopped chasing perfection in high school.
 
 I wish I chased excellence instead.
 

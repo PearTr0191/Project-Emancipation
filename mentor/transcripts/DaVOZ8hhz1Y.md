@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,553 likes, 360 comments - ultimateivyleagueguide on June 25, 2026: "Every year, Ivy League schools like Harvard receive 54,000+ applications 🫠👇
+"Every year, Ivy League schools like Harvard receive 54,000+ applications 🫠👇
 
 Your gpa and test scores aren’t the differentiator anymore because everyone applying has those..
 

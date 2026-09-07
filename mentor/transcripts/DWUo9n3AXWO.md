@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,540 likes, 11 comments - ultimateivyleagueguide on March 25, 2026: "If you’re in middle school, note these down 📝✅
+"If you’re in middle school, note these down 📝✅
 
 #uilg #ultimatementor #ultimateivyleagueguide".
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,760 likes, 540 comments - ultimateivyleagueguide on June 24, 2026: "If you’re applying to any Ivy League, here’s what most students never check 👇
+"If you’re applying to any Ivy League, here’s what most students never check 👇
 
 Every college publishes a Common Data Set, and Section C7 spells out exactly which factors each school weighs as Very Important, Important, Considered, or Not Considered.
 

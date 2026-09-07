@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,708 likes, 907 comments - ultimateivyleagueguide on April 18, 2026: "Use these psychology hacks to make your college essays stand out 🧠✅
+"Use these psychology hacks to make your college essays stand out 🧠✅
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

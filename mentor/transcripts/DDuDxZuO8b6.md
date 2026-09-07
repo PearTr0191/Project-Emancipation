@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,081 likes, 513 comments - ultimateivyleagueguide on December 18, 2024: "Why being “smart” isn’t enough to succeed in college ⬇️ 
+"Why being “smart” isn’t enough to succeed in college ⬇️ 
 
 Anyone can memorize facts, but not all students can develop their own unique system to learn any challenging topic they encounter. 
 

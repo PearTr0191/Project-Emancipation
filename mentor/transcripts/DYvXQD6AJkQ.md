@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-9,117 likes, 1,526 comments - ultimateivyleagueguide on May 24, 2026: "Juniors — summer is the start of college app season! 
+"Juniors — summer is the start of college app season! 
 
 Save this to sure you’re ahead of the game 💪✅
 

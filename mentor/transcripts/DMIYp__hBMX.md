@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,355 likes, 3,403 comments - ultimateivyleagueguide on July 2, 2025: "What if I told you that you could predict whether your dream college would accept or reject you BEFORE you even apply?
+"What if I told you that you could predict whether your dream college would accept or reject you BEFORE you even apply?
 
 Well…turns out you can 😳
 

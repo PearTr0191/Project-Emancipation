@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,087 likes, 1,107 comments - ultimateivyleagueguide on December 18, 2025: "I’ve read hundreds of DMs from students with this exact profile ⬇️
+"I’ve read hundreds of DMs from students with this exact profile ⬇️
 
 - US teen at competitive high school
 - Struggling with low GPA

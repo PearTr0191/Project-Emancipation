@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,583 likes, 916 comments - ultimateivyleagueguide on July 2, 2024: "How to ensure your college essay is UNIQUE ⬇️
+"How to ensure your college essay is UNIQUE ⬇️
 
 If you think your experiences aren’t unique enough, you’re WRONG ❌
 

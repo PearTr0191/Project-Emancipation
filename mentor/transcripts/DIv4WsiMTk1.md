@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,288 likes, 235 comments - ultimateivyleagueguide on April 22, 2025: "Most students don’t realize how much global economics affect U.S. college admissions.
+"Most students don’t realize how much global economics affect U.S. college admissions.
 
 But when international enrollment shifts,
 everything from acceptance rates to financial aid can shift with it.

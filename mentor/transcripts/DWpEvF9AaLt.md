@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,286 likes, 2,935 comments - ultimateivyleagueguide on April 2, 2026: "You have one month until exams ⏰👇
+"You have one month until exams ⏰👇
 
 If you don’t have a study schedule yet, that’s where the stress is going to come from. 
 

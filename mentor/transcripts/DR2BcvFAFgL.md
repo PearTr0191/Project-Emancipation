@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,802 likes, 1,380 comments - ultimateivyleagueguide on December 1, 2025: "We’re about to witness the most EXTREME college admissions phenomenon in modern US History 🤯
+"We’re about to witness the most EXTREME college admissions phenomenon in modern US History 🤯
 
 And it might be the biggest advantage Gen Z will ever get…
 

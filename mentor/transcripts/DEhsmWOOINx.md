@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,995 likes, 138 comments - ultimateivyleagueguide on January 7, 2025: "At Ultimate Ivy League Guide, college admissions isn’t the end goal—it’s just the beginning 🌟
+"At Ultimate Ivy League Guide, college admissions isn’t the end goal—it’s just the beginning 🌟
 
 It’s about building a life filled with growth, purpose, and impact. The real question is: how are you making the most of the journey? 🤔
 

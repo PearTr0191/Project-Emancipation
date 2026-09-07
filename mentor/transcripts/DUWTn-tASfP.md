@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,665 likes, 62 comments - ultimateivyleagueguide on February 4, 2026: "Perfect students are getting denied in Stage 2 of the admissions process…
+"Perfect students are getting denied in Stage 2 of the admissions process…
 
 If you’re above average, you can pass the academic filter
 

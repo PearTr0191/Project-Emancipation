@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-26K likes, 37 comments - ultimateivyleagueguide on December 3, 2025: "my 2025 wrapped looks a bit different this year 🥴".
+"my 2025 wrapped looks a bit different this year 🥴".
 
 ## Page meta
 

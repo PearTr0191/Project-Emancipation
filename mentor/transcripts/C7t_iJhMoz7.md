@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-18K likes, 4,791 comments - ultimateivyleagueguide on June 2, 2024: "It’s already June, which means you NEED to start thinking about college applications ⏰…so let me help you. 
+"It’s already June, which means you NEED to start thinking about college applications ⏰…so let me help you. 
 
 Comment “SENIOR” and I’ll DM you my full senior checklist for FREE 😉📝 
 

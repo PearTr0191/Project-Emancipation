@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,564 likes, 1,193 comments - ultimateivyleagueguide on June 16, 2026: "If you’re applying to a top school, the +3 in this reel is the activity admissions readers actually remember 👇
+"If you’re applying to a top school, the +3 in this reel is the activity admissions readers actually remember 👇
 
 It’s a passion project.
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-8,959 likes, 3,686 comments - ultimateivyleagueguide on July 23, 2025: "Common App opens in less than 1 week… do NOT skip these 3 MAJOR STEPS 🫡
+"Common App opens in less than 1 week… do NOT skip these 3 MAJOR STEPS 🫡
 
 Follow @ultimateivyleagueguide to get into your dream school 📚
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,287 likes, 684 comments - ultimateivyleagueguide on May 3, 2025: "Most students think the personal statement is where you prove how impressive you are…
+"Most students think the personal statement is where you prove how impressive you are…
 
 But that’s not what gets you into places like Harvard.
 

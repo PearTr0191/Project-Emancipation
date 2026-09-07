@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,660 likes, 26 comments - ultimateivyleagueguide on September 25, 2025: "1. I’ve spent my life terrified of failure. Raised by a single immigrant dad after losing my mom at 9, I watched him work 12-hour days to give me a future, and felt like I was always falling short of repaying his sacrifices.
+"1. I’ve spent my life terrified of failure. Raised by a single immigrant dad after losing my mom at 9, I watched him work 12-hour days to give me a future, and felt like I was always falling short of repaying his sacrifices.
 
 2. I failed my first 9 business ideas.
 Some never launched, some flopped instantly, and most never made a dollar. Each one made me question if I was cut out for entrepreneurship.

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-848 likes, 267 comments - ultimateivyleagueguide on August 8, 2026: "Five things I wish someone had told me before starting my college applications! 🍓
+"Five things I wish someone had told me before starting my college applications! 🍓
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

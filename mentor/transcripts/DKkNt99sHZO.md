@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,698 likes, 428 comments - ultimateivyleagueguide on June 6, 2025: "Here’s my (real) story ⬇️
+"Here’s my (real) story ⬇️
 
 My name is Elise and I’m a current Harvard Pre-Med student & Forbes-recognized entrepreneur and college admissions counselor:)
 

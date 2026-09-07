@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-58K likes, 8,235 comments - ultimateivyleagueguide on November 17, 2025: "The BIGGEST study mistake students make is thinking more hours equals better grades…
+"The BIGGEST study mistake students make is thinking more hours equals better grades…
 
 This isn’t true, especially if you’re still using passive study habits.
 

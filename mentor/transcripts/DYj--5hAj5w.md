@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-17K likes, 6,182 comments - ultimateivyleagueguide on May 20, 2026: "Important vs. Not Important: College Admissions Edition 📚🏆
+"Important vs. Not Important: College Admissions Edition 📚🏆
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

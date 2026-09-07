@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,278 likes, 7,369 comments - ultimateivyleagueguide on May 28, 2025: "The game plan ⬇️
+"The game plan ⬇️
 
 There’s actually a system to this whole college thing
 

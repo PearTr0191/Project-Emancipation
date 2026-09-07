@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-20K likes, 7,235 comments - ultimateivyleagueguide on June 5, 2026: "What to do in EVERY grade level if you’re aiming for a top school 📝✅
+"What to do in EVERY grade level if you’re aiming for a top school 📝✅
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

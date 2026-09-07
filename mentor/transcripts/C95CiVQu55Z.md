@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-20K likes, 4,461 comments - ultimateivyleagueguide on July 26, 2024: "Here’s the KEY essay framework that helped me get into Ivy Leagues despite not being a naturally-good writer or test-taker ⬇️
+"Here’s the KEY essay framework that helped me get into Ivy Leagues despite not being a naturally-good writer or test-taker ⬇️
 
 When it comes to crafting an essay that stands out to Ivy League admissions officers, it’s not about listing achievements; it’s about storytelling and growth. 📚✍️
 

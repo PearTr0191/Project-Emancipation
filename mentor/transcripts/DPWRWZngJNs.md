@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,352 likes, 2,393 comments - ultimateivyleagueguide on October 3, 2025: "For the first time since 2018, the US Government has SHUT DOWN 🚨
+"For the first time since 2018, the US Government has SHUT DOWN 🚨
 
 Here’s what this could mean for your financial aid as processing is at risk of being delayed…
 

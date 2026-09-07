@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-8,375 likes, 2,906 comments - ultimateivyleagueguide on April 3, 2025: "If you’re serious about getting into a top school, April is your last chance to set your summer strategy.
+"If you’re serious about getting into a top school, April is your last chance to set your summer strategy.
 
 Most Ivy League admits weren’t just “relaxing” during their summers — 
 

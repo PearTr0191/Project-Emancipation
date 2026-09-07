@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,102 likes, 36 comments - ultimateivyleagueguide on July 20, 2025: "Procrastination isn’t a laziness problem…it’s a brain problem disguised as a bad habit 🧠
+"Procrastination isn’t a laziness problem…it’s a brain problem disguised as a bad habit 🧠
 
 Follow @ultimateivyleagueguide to join the Top 1% of students ✅
 

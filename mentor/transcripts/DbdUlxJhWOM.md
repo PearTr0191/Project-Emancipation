@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-834 likes, 311 comments - ultimateivyleagueguide on July 29, 2026: "The same story can open three completely different ways ✍️
+"The same story can open three completely different ways ✍️
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,025 likes, 2,226 comments - ultimateivyleagueguide on July 10, 2026: "Your opening line decides whether an admissions officer keeps reading ✍️
+"Your opening line decides whether an admissions officer keeps reading ✍️
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

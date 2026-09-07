@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-8,345 likes, 1,237 comments - ultimateivyleagueguide on June 30, 2025: "Harvard rejected Nabeel because his essay didn’t have one KEY concept…
+"Harvard rejected Nabeel because his essay didn’t have one KEY concept…
 
 But once he understood this 4-Part storytelling framework
 

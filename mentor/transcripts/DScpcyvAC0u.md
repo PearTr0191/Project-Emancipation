@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,204 likes, 1,520 comments - ultimateivyleagueguide on December 14, 2025: "A deferral does NOT mean “No.”
+"A deferral does NOT mean “No.”
 
 It simply means the admissions committee needs more information or context before making an informed decision about your application with the Regular Decision pool. 
 

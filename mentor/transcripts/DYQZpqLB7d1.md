@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,567 likes, 26 comments - ultimateivyleagueguide on May 12, 2026: "everything else >>> disappointing myself & people I love".
+"everything else >>> disappointing myself & people I love".
 
 ## Page meta
 

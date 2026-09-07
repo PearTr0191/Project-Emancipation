@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,152 likes, 1,233 comments - ultimateivyleagueguide on May 3, 2025: "The biggest difference between Ivy League admits and everyone else?
+"The biggest difference between Ivy League admits and everyone else?
 
 It’s what they do when no one’s watching.
 

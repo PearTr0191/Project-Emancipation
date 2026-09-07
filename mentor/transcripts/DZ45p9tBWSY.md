@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,092 likes, 455 comments - ultimateivyleagueguide on June 16, 2026: "7 ways smart students waste their summer (and how to not be one of them)! 🌟
+"7 ways smart students waste their summer (and how to not be one of them)! 🌟
  
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

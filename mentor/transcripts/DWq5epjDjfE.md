@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-960 likes, 528 comments - ultimateivyleagueguide on April 3, 2026: "Episode 6 of The Ultimate College Blueprint: If I Didn’t Know My Major 📘".
+"Episode 6 of The Ultimate College Blueprint: If I Didn’t Know My Major 📘".
 
 ## Page meta
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-17K likes, 61 comments - ultimateivyleagueguide on June 28, 2025: "Your first @ owes you a matcha latte 🍵 
+"Your first @ owes you a matcha latte 🍵 
 
 Follow @ultimateivyleagueguide to join the Top 1% of students 🧠 
 

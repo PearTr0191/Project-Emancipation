@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,627 likes, 4,790 comments - ultimateivyleagueguide on December 25, 2025: "This holiday season, get some well deserved rest and follow these 3 simple steps to get ahead for 2026! ☃️🌟
+"This holiday season, get some well deserved rest and follow these 3 simple steps to get ahead for 2026! ☃️🌟
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

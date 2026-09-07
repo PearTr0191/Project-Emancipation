@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,561 likes, 677 comments - ultimateivyleagueguide on September 11, 2025: "“How am I supposed to afford applying to and attending my dream college if my family doesn’t have the money?” 💵🎓
+"“How am I supposed to afford applying to and attending my dream college if my family doesn’t have the money?” 💵🎓
 
 Day 9 of 14 of Preparing for College Applications with Elise 🎓
 

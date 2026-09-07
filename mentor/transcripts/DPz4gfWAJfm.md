@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,283 likes, 2,273 comments - ultimateivyleagueguide on October 13, 2025: "Getting straight A’s won’t get you in.
+"Getting straight A’s won’t get you in.
 Neither will a 1600 SAT.
 
 Every year, Ivy Leagues reject students who look perfect on paper because they all blur into the same story.

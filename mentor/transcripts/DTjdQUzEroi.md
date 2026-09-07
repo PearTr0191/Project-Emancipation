@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,822 likes, 1,170 comments - ultimateivyleagueguide on January 13, 2026: "Everyone applying to top colleges has perfect grades and stats now…
+"Everyone applying to top colleges has perfect grades and stats now…
 
 That’s not what makes you stand out anymore.
 

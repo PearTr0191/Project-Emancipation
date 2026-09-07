@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,255 likes, 341 comments - ultimateivyleagueguide on October 31, 2025: "How to Make Your Kids a HIGH PERFORMER in Life 🏆
+"How to Make Your Kids a HIGH PERFORMER in Life 🏆
 
 Day 10 of Mastering High School Parenting with Elise ✅
 

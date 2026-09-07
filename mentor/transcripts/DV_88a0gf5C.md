@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,623 likes, 173 comments - ultimateivyleagueguide on March 17, 2026: "Agree or disagree? 🫣👇".
+"Agree or disagree? 🫣👇".
 
 ## Page meta
 

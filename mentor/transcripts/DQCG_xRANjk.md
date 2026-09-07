@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,042 likes, 235 comments - ultimateivyleagueguide on October 20, 2025: "How to Budget for College & Secure MORE Financial Aid 💰🎓
+"How to Budget for College & Secure MORE Financial Aid 💰🎓
 
 Day 6 of Mastering High School Parenting with Elise ✅
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-12K likes, 6,472 comments - ultimateivyleagueguide on June 12, 2025: "It’s actually REALLY easy to improve your SAT score if you know the right strategies. 
+"It’s actually REALLY easy to improve your SAT score if you know the right strategies. 
 
 Here are my Top 5:
 

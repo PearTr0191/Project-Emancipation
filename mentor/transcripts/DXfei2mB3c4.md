@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,606 likes, 632 comments - ultimateivyleagueguide on April 22, 2026: "I’m posting AP Exam Study Guides for the next 2 weeks… stay tuned! 🏆✅
+"I’m posting AP Exam Study Guides for the next 2 weeks… stay tuned! 🏆✅
 
 Source: College Board, May 2025. 
 

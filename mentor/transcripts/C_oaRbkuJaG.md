@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-67K likes, 21K comments - ultimateivyleagueguide on September 7, 2024: "HOW IMPORTANT ARE GRADES TO COLLEGE ADMISSION OFFICERS? 👀⬇️
+"HOW IMPORTANT ARE GRADES TO COLLEGE ADMISSION OFFICERS? 👀⬇️
 
 The truth is: High grades will NOT set you apart. 
 

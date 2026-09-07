@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,474 likes, 161 comments - ultimateivyleagueguide on November 22, 2024: "When I was in high school, I thought college admissions was just about getting into a good college. 
+"When I was in high school, I thought college admissions was just about getting into a good college. 
 
 But over time, I realized it’s so much more than that. 
 

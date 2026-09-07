@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,012 likes, 495 comments - ultimateivyleagueguide on April 9, 2025: "One tiny typo. One rushed “Why Us” essay. One surface-level story.
+"One tiny typo. One rushed “Why Us” essay. One surface-level story.
 
 That’s all it takes to go from “maybe” to rejected.
 

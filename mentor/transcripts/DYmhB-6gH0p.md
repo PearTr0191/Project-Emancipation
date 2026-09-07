@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,961 likes, 52 comments - ultimateivyleagueguide on May 21, 2026: "If you are reading this, I have one ask…
+"If you are reading this, I have one ask…
 
 After listening to the full letter, please tell your parents or loved ones how grateful you are for them. Time is limited, even when we act like it isn’t.
 

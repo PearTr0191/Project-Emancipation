@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,249 likes, 443 comments - ultimateivyleagueguide on June 24, 2025: "The loop-closing principle is the sole reason I can get productive work done 16 hrs/day without burning out
+"The loop-closing principle is the sole reason I can get productive work done 16 hrs/day without burning out
 
 & it’s because it allows your brain to hyperfocus on one thing at a time
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,599 likes, 1,495 comments - ultimateivyleagueguide on November 22, 2025: "Admissions officers are trained to flag “performative service” 
+"Admissions officers are trained to flag “performative service” 
 
 Here’s what it is and how you can avoid it ✅
 

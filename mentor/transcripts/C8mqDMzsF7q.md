@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,127 likes, 2,113 comments - ultimateivyleagueguide on June 24, 2024: "Read this if you have FEW EXTRACURRICULARS ⬇️
+"Read this if you have FEW EXTRACURRICULARS ⬇️
 
 So you’re worried because your list of extracurriculars isn’t as long as others….Here’s the truth: colleges look for quality over quantity. 🌟
 

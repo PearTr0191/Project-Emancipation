@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,408 likes, 388 comments - ultimateivyleagueguide on April 22, 2026: "AP Biology is scheduled for Monday, May 4, at 8AM local time!
+"AP Biology is scheduled for Monday, May 4, at 8AM local time!
 
 Save and follow for more resources 🧠
 

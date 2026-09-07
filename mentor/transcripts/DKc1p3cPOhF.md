@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-9,296 likes, 3,948 comments - ultimateivyleagueguide on June 3, 2025: "⬇️ Read if you’re 13-17…
+"⬇️ Read if you’re 13-17…
 
 Most students join a bunch of random clubs thinking it’ll impress colleges
 

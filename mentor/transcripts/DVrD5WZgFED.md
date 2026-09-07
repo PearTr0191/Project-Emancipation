@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,805 likes, 170 comments - ultimateivyleagueguide on March 9, 2026: "Success is easier than most people think.
+"Success is easier than most people think.
 
 Comment MINDSET for my full guide on developing the mentality that leads to success in college admissions and beyond 🧠
 

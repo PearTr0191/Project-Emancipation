@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-69K likes, 25K comments - ultimateivyleagueguide on July 4, 2024: "HOW I WROTE A SUCCESSFUL HARVARD ESSAY IN ONE HOUR⬇️
+"HOW I WROTE A SUCCESSFUL HARVARD ESSAY IN ONE HOUR⬇️
 
 Hi! I’m Elise, a current Harvard student and a Forbes-recognized college admissions counselor 👩🏻‍🎓
 

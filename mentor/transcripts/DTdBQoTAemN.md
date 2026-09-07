@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,369 likes, 13 comments - ultimateivyleagueguide on January 13, 2026: "When I look back on the past 3 years, the one rule that has served me is embracing LESS confidence…
+"When I look back on the past 3 years, the one rule that has served me is embracing LESS confidence…
 
 The worst thing you can do is fall into the perfectionism trap. 
 

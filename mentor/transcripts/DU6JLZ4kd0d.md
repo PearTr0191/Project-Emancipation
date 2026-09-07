@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,410 likes, 3,372 comments - ultimateivyleagueguide on February 18, 2026: "Common App lets you describe up to 10 extracurricular activities using only 150 characters for each description.
+"Common App lets you describe up to 10 extracurricular activities using only 150 characters for each description.
 
 I’ve seen hundreds of students get rejected from their dream schools simply because they don’t realize there’s a strategy to tackling the Activities List. 
 

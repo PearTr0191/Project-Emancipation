@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,003 likes, 9,545 comments - ultimateivyleagueguide on August 22, 2025: "Don’t fall for these same 20% of mistakes the SAT recycles EVERY SINGLE EXAM 😬⚠️
+"Don’t fall for these same 20% of mistakes the SAT recycles EVERY SINGLE EXAM 😬⚠️
 
 Follow @ultimateivyleagueguide to join the Top 1% of students 🧠
 

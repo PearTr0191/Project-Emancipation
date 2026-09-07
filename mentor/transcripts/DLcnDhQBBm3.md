@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,991 likes, 272 comments - ultimateivyleagueguide on June 27, 2025: "the August SAT is coming up soon…
+"the August SAT is coming up soon…
 
 use these 10 proven strategies to improve your score by 300+ in less than a month ✅
 

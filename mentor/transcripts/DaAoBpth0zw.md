@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,254 likes, 219 comments - ultimateivyleagueguide on June 18, 2026: "If you’re in high school, here’s what you need to know 👇
+"If you’re in high school, here’s what you need to know 👇
 
 Two students with the same GPA, the same SAT, and the same school list will have completely different Yale outcomes, and the difference doesn’t show up in the application.
 

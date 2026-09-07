@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,926 likes, 76 comments - ultimateivyleagueguide on November 10, 2025: "The worst thing you can do is commit to a “great” college and end up regretting 4 years of your life 🥴
+"The worst thing you can do is commit to a “great” college and end up regretting 4 years of your life 🥴
 
 Here’s how to make sure you’re applying to the right ones ✅
 

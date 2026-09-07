@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-28K likes, 1,434 comments - ultimateivyleagueguide on December 19, 2025: "LinkedIn just released its 2025 Top U.S Colleges for Long-Term Success ranking, and it’s one of the few lists that actually looks beyond prestige.
+"LinkedIn just released its 2025 Top U.S Colleges for Long-Term Success ranking, and it’s one of the few lists that actually looks beyond prestige.
 
 This list is built using exclusive LinkedIn data, looking at things like:
 • Where alumni actually get jobs

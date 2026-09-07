@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-22K likes, 5,309 comments - ultimateivyleagueguide on July 28, 2026: "Here’s what I wish I knew before 11th Grade 😅📚 
+"Here’s what I wish I knew before 11th Grade 😅📚 
 
 Which grade should I do next? 🤔
 

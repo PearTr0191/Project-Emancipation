@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,651 likes, 2,610 comments - ultimateivyleagueguide on February 26, 2026: "More opportunities coming this month 🚨👇
+"More opportunities coming this month 🚨👇
 
 Even though applications for many credible summer programs have passed by, there’s still some that are still available! 
 

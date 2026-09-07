@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-12K likes, 11K comments - ultimateivyleagueguide on June 13, 2025: "I didn’t get into Ivy Leagues because I had a wild story.
+"I didn’t get into Ivy Leagues because I had a wild story.
 
 I got in because I knew how to tell it.
 

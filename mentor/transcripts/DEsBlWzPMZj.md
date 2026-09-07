@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-19K likes, 2,878 comments - ultimateivyleagueguide on January 9, 2025: "This ONE mistake will ruin your college interview ⬇️
+"This ONE mistake will ruin your college interview ⬇️
 
 Most students think acing an interview is all about sounding impressive.
 

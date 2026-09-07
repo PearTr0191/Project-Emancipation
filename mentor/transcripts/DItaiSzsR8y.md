@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-20K likes, 9,351 comments - ultimateivyleagueguide on April 21, 2025: "Getting into the Ivy League isn’t luck.
+"Getting into the Ivy League isn’t luck.
 It’s strategy.
 
 But most students are guessing.

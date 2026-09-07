@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,867 likes, 785 comments - ultimateivyleagueguide on June 21, 2026: "Comment ESSAY for my full guide on writing winning college app essays! 📝✅
+"Comment ESSAY for my full guide on writing winning college app essays! 📝✅
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,074 likes, 1,533 comments - ultimateivyleagueguide on June 22, 2025: "Use these 3 tips if you want to get high grades WITHOUT studying more 🤝📚
+"Use these 3 tips if you want to get high grades WITHOUT studying more 🤝📚
 
 #UILG #UltimateIvyLeagueGuide #UltimateMentor".
 

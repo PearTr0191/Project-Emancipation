@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-46K likes, 1,852 comments - ultimateivyleagueguide on March 14, 2026: "Rating AP Classes 🤓📚
+"Rating AP Classes 🤓📚
 
 This is based off of general rigor/difficulty of the courses (and partially my own personal experience). Of course, this varies depending on how each school approaches delivering the curriculum!
 

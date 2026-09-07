@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,923 likes, 156 comments - ultimateivyleagueguide on June 26, 2025: "40% of AP Stats students failed this year. 37% of AP Comp Sci Principles students did too.
+"40% of AP Stats students failed this year. 37% of AP Comp Sci Principles students did too.
 
 That means over 170,000 students scored a 1 or 2…and most are now wondering if it’ll tank their college chances.
 

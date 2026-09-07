@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,918 likes, 2,549 comments - ultimateivyleagueguide on June 20, 2024: "Many people think that landing an internship as a high school student is nearly impossible 🚫
+"Many people think that landing an internship as a high school student is nearly impossible 🚫
 
 But here’s the truth: You CAN secure meaningful internships even before college✨
 

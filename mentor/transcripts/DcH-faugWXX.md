@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-667 likes, 117 comments - ultimateivyleagueguide on August 16, 2026: "“What if I don’t have a story worth telling?” 🤔
+"“What if I don’t have a story worth telling?” 🤔
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

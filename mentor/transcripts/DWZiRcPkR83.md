@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,778 likes, 45 comments - ultimateivyleagueguide on March 27, 2026: "My name is Elise and I help students plan and prepare to get into their dream school… I know ball 🤷‍♀️
+"My name is Elise and I help students plan and prepare to get into their dream school… I know ball 🤷‍♀️
 
 Click the link in bio to learn more 🏀".
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,442 likes, 2,681 comments - ultimateivyleagueguide on February 24, 2025: "Junior year, I thought doing everything would impress colleges:
+"Junior year, I thought doing everything would impress colleges:
 
 > Joining every club
 > Taking every AP class

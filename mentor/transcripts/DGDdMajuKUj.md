@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,851 likes, 1,163 comments - ultimateivyleagueguide on February 14, 2025: "You’ll ruin your personal statement if you try to write what you think admissions officers want to hear.
+"You’ll ruin your personal statement if you try to write what you think admissions officers want to hear.
 
 Last week, I read about a student who won a $320,000 scholarship to Dartmouth… by writing about steak. 🍴
 

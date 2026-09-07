@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,266 likes, 603 comments - ultimateivyleagueguide on April 28, 2026: "AP World History is on Thursday, May 7th at 8AM local time 🌏✅
+"AP World History is on Thursday, May 7th at 8AM local time 🌏✅
 
 Save and follow for more resources 🧠
 

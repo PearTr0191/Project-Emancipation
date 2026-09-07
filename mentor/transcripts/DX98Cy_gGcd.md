@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-19K likes, 1,438 comments - ultimateivyleagueguide on May 5, 2026: "Here are some cold email templates that helped me land internships! 🔬👩‍💼 
+"Here are some cold email templates that helped me land internships! 🔬👩‍💼 
 
 Comment RESEARCH for my full guide going over how to find research opportunities in high school! 🧠📚
 

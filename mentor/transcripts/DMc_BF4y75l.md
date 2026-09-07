@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,536 likes, 14 comments - ultimateivyleagueguide on July 8, 2025: "After my mom passed away, my grandma raised me…
+"After my mom passed away, my grandma raised me…
 
 There’s nothing I can do that could repay her for the love she gave me ❤️".
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,706 likes, 1,394 comments - ultimateivyleagueguide on March 29, 2026: "Where does your SAT score make you competitive? 🤔🏆
+"Where does your SAT score make you competitive? 🤔🏆
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

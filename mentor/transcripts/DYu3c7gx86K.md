@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,149 likes, 944 comments - ultimateivyleagueguide on May 24, 2026: "TIME MANAGEMENT.
+"TIME MANAGEMENT.
 
 Follow @ultimateivyleagueguide on Instagram to join the Top 1% of students 🧠
 

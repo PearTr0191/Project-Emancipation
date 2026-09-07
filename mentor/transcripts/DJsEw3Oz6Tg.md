@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,249 likes, 2,738 comments - ultimateivyleagueguide on May 15, 2025: "Like many of you watching this right now, I tried all the stereotypical approaches:
+"Like many of you watching this right now, I tried all the stereotypical approaches:
 
 • Maintaining perfect grades
 • Joining every available club

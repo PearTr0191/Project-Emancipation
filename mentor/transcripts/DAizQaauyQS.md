@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,474 likes, 42 comments - ultimateivyleagueguide on September 30, 2024: "WHY APPEARING “PERFECT” COULD HURT YOUR COLLEGE APPLICATION ⬇️
+"WHY APPEARING “PERFECT” COULD HURT YOUR COLLEGE APPLICATION ⬇️
 
 I remember feeling so stressed during college application season because I felt like my profile wasn’t “perfect” enough
 

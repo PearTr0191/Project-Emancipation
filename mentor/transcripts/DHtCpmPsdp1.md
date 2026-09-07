@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-658 likes, 76 comments - ultimateivyleagueguide on March 27, 2025: "The regret of not trying will always hurt more than the regret of failing.
+"The regret of not trying will always hurt more than the regret of failing.
 
 I wasn’t the smartest student in the room. 
 

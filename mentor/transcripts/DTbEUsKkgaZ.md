@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-14K likes, 3,123 comments - ultimateivyleagueguide on January 12, 2026: "At 15 Olivia was failing her classes. 
+"At 15 Olivia was failing her classes. 
 
 At 17 she got into Harvard.
 

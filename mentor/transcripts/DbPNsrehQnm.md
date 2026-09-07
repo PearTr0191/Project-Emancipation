@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-22K likes, 6,619 comments - ultimateivyleagueguide on July 25, 2026: "Should you take the SAT or ACT? 🤔 📝
+"Should you take the SAT or ACT? 🤔 📝
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

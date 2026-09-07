@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-28K likes, 6,965 comments - ultimateivyleagueguide on February 7, 2025: "What if you could know exactly what your dream college values most in an applicant—before you even apply? 🎓
+"What if you could know exactly what your dream college values most in an applicant—before you even apply? 🎓
 
 When I was applying, I wasted hours stressing about things like class rank and campus visits…
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-21K likes, 3,543 comments - ultimateivyleagueguide on December 9, 2025: "I used to think getting a higher GPA just meant studying longer. 
+"I used to think getting a higher GPA just meant studying longer. 
 
 But the older I got, the more I realized that most students aren’t struggling because they’re “lazy” or “not smart enough.” 
 

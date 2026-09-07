@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-57K likes, 20K comments - ultimateivyleagueguide on July 1, 2025: "“what extracurriculars should I do to stand out?”
+"“what extracurriculars should I do to stand out?”
 
 follow @ultimateivyleagueguide on IG to join the Top 1% 🧠
 

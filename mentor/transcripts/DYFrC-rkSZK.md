@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,405 likes, 336 comments - ultimateivyleagueguide on May 8, 2026: "Which Top 20 Public University fits you the best? 🤔✏️
+"Which Top 20 Public University fits you the best? 🤔✏️
 
 Comment CHOICE and I’ll send you my full guide on how to choose the right college and build your theme at the same time! 🎓🏆
 

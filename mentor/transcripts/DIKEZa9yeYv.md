@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,659 likes, 2,642 comments - ultimateivyleagueguide on April 7, 2025: "The Ivy League admissions process isn’t a mystery—
+"The Ivy League admissions process isn’t a mystery—
 
 Once you know how it works, you can use it to your advantage.
 

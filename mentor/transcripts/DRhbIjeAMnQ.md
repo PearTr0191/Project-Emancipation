@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-11K likes, 1,200 comments - ultimateivyleagueguide on November 22, 2025: "If you only want one study technique that actually saves time, this is it 👇
+"If you only want one study technique that actually saves time, this is it 👇
 
 Most people waste hours reviewing everything for exams. 
 

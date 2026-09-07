@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,210 likes, 23 comments - ultimateivyleagueguide on October 17, 2025: "What a privilege it is to learn ❤️
+"What a privilege it is to learn ❤️
 
 #UltimateIvyLeagueGuide #UltimateMentor #UltimateMentor".
 

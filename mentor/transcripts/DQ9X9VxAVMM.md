@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,710 likes, 741 comments - ultimateivyleagueguide on November 4, 2025: "DO NOT be the “Invisible Overachiever” 😬❌
+"DO NOT be the “Invisible Overachiever” 😬❌
 
 Follow @ultimateivyleagueguide on Instagram to get into your dream school 🌟
 

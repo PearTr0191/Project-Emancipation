@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-8,620 likes, 4,979 comments - ultimateivyleagueguide on February 22, 2026: "Senior year is not the time to start “figuring out” college apps.
+"Senior year is not the time to start “figuring out” college apps.
 
 By then, you’re either polishing something strong… or scrambling to fix something rushed.
 

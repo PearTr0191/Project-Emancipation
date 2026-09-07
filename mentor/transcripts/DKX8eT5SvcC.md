@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,166 likes, 97 comments - ultimateivyleagueguide on June 1, 2025: "⬇️ These past few weekends made me realize something:
+"⬇️ These past few weekends made me realize something:
 
 a “chill weekend” doesn’t always look like rest. 
 

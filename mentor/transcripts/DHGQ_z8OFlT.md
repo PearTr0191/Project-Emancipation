@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,830 likes, 1,145 comments - ultimateivyleagueguide on March 12, 2025: "99% of first-gen college applicants make this ONE mistake. 💥
+"99% of first-gen college applicants make this ONE mistake. 💥
 
 As the daughter of a single immigrant father who didn’t know anything about U.S. college admissions, 
 

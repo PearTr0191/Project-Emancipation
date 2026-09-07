@@ -1,6 +1,6 @@
 ﻿# Supplement Tracker � 10 Schools, Lock 2026-09-01 (ASU + Drexel dropped; Illinois Tech restored: settlement pathway)
 
-Status: prompts verified for 9/10 (Drexel exact prompt: unverified; Dartmouth supplements: verified 3 essays; GT deadline: Nov 2 verified; ASU/Drexel: removed � not clearly superior to VinUni); 3 gaps noted (Dartmouth supplement verification still open; Drexel ASU removed from active list; GT deadline discrepancy noted). PS outline: 4/5 moments drafted (M1 blank).
+Status: prompts verified for locked $30k list (Stanford REA 8, Dartmouth RD 0 — verify 2026-27, NYU RD 1, Northeastern RD 0, VinUni pivot — mentor handles PS/M1, Illinois Tech settlement-only 3 optional). Michigan/GT/Purdue supplements eliminated at $30k. NUS fee verification: Playwright headless (page loaded; expandable fee tabs present; exact 2026-27 CS tuition numbers unverified — requires manual check of `Tuition Fees +` tab or direct email to `nus.edu.sg/oam`). Supplement drafting priority: Stanford (Nov 1, 8 pieces) → Dartmouth (verify supplements) → NYU (bridge builder, RD) → Illinois Tech (optional 3). Settlement pathway assessment: US H-1B (Dartmouth/NYU only viable at $30k) vs. Switzerland (CHF 120-180k senior, strict immigration: 10yr C permit) vs. Taiwan (NTD 2-5M, easier ARC) vs. Singapore (SGD 80-150k, EP thresholds rising, PR 1-3yr). Added to `context.md` (line 34).
 
 ## Writing load by school (confirmed prompts)
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,316 likes, 112 comments - ultimateivyleagueguide on December 27, 2024: "Let’s make 2025 YOUR year ⬇️
+"Let’s make 2025 YOUR year ⬇️
 
 I’m Elise Pham — a Harvard pre-med student, Forbes-recognized entrepreneur, and founder of Ultimate Ivy League Guide, where I share free college admissions advice with over a million students worldwide ❤️
 

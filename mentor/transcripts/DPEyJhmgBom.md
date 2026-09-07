@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-18K likes, 8,116 comments - ultimateivyleagueguide on September 26, 2025: "🚨FAFSA APPLICATIONS OPENED EARLY🚨
+"🚨FAFSA APPLICATIONS OPENED EARLY🚨
 
 This is the FIRST time in history it’s ever opened this early. 
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,099 likes, 498 comments - ultimateivyleagueguide on August 29, 2025: "“What’s the secret to make my college application stand out?” 🤫
+"“What’s the secret to make my college application stand out?” 🤫
 
 Day 3 of 14 of Preparing for College Applications with Elise 🎓
 

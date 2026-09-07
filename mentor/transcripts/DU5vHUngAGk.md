@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,341 likes, 16 comments - ultimateivyleagueguide on February 18, 2026: "Having a 4.4 GPA and 1600 SAT doesn’t make you stand out anymore…
+"Having a 4.4 GPA and 1600 SAT doesn’t make you stand out anymore…
 
 Here’s what colleges are looking for in 2026 ✅
 

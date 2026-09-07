@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,456 likes, 394 comments - ultimateivyleagueguide on June 16, 2025: "This is your sign to LOCK IN this summer🔒⬇️
+"This is your sign to LOCK IN this summer🔒⬇️
 
 In highschool, I used to think summers were my time to 100% slack off
 

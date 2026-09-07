@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,811 likes, 1,682 comments - ultimateivyleagueguide on August 28, 2024: "Read ONLY IF you want to know the TRUTH about college admissions⬇️
+"Read ONLY IF you want to know the TRUTH about college admissions⬇️
 
 If you think perfect grades and test scores are your golden ticket to elite universities, think again. 🚫📚
 

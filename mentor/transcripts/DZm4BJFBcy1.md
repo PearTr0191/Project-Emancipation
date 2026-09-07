@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,031 likes, 1,534 comments - ultimateivyleagueguide on June 14, 2026: "Here’s 6 different versions of the same essay hook…can you guess when admission officers will stop reading? 😬
+"Here’s 6 different versions of the same essay hook…can you guess when admission officers will stop reading? 😬
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-39K likes, 251 comments - ultimateivyleagueguide on June 15, 2025: "Giving matcha the hype it deserves…
+"Giving matcha the hype it deserves…
 
 It’s not just a pretty drink but it contains SO many antioxidants and polyphenols that can boost your brain 🧠 
 

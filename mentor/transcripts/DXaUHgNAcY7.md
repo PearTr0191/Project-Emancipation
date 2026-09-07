@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,832 likes, 285 comments - ultimateivyleagueguide on April 21, 2026: "AP Calculus AB and BC exams are on Monday, May 11th at 8AM local time 🧮✅
+"AP Calculus AB and BC exams are on Monday, May 11th at 8AM local time 🧮✅
 
 Save and follow for more resources 🧠
 

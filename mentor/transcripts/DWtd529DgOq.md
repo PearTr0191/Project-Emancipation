@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,304 likes, 1,150 comments - ultimateivyleagueguide on April 4, 2026: "Here’s the difference between a 4.0 GPA student who gets Accepted vs. Rejected from Stanford 📝
+"Here’s the difference between a 4.0 GPA student who gets Accepted vs. Rejected from Stanford 📝
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

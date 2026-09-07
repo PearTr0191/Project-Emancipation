@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-66K likes, 137 comments - ultimateivyleagueguide on July 4, 2025: "APUSH & AP Gov students get it".
+"APUSH & AP Gov students get it".
 
 ## Page meta
 

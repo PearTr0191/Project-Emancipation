@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,317 likes, 3,398 comments - ultimateivyleagueguide on September 30, 2025: "Intellectual curiosity is one of the traits colleges WILL evaluate you on…
+"Intellectual curiosity is one of the traits colleges WILL evaluate you on…
 
 Make sure you have an extracurricular that demonstrates this quality ✅
 

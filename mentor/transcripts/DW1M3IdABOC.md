@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,163 likes, 698 comments - ultimateivyleagueguide on April 7, 2026: "When I was 16, I genuinely thought I was going to fail. 
+"When I was 16, I genuinely thought I was going to fail. 
 
 Now, I’m at my dream school Harvard building @ultimateivyleagueguide to help millions of students all across the world 🥹❤️
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,955 likes, 217 comments - ultimateivyleagueguide on May 25, 2026: "Make sure to finish the school year strong! 💪🧠
+"Make sure to finish the school year strong! 💪🧠
 
 Comment STUDY and I’ll send you all my top study hacks! 🤓📝
 

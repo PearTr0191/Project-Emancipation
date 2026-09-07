@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-8,697 likes, 2,238 comments - ultimateivyleagueguide on November 11, 2025: "In high school, everyone told me that highlighting and rewriting my notes was “the most effective way to study”
+"In high school, everyone told me that highlighting and rewriting my notes was “the most effective way to study”
 
 But I kept burning myself out spending hours “studying” only to forget them once I opened my exam. 
 

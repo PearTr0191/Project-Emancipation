@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-12K likes, 321 comments - ultimateivyleagueguide on February 15, 2026: "In high school, I thought getting into Harvard meant doing more.
+"In high school, I thought getting into Harvard meant doing more.
 
 More clubs.
 More APs.

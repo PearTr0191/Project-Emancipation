@@ -59,3 +59,11 @@ Applied to this student: a short DS/AI reading canon with brief written reaction
 - Their SAT case ladder (1400 → 1480 → 1550 over three sittings) is retake bait for students who start high; does not apply to profiles already past every target bar.
 
 Sources: DAThbx-ucy_, DA05GCQusmD, DSvcr3QAUjc, DLm6NVWpBVX, DP3vofwAPec, DSphV55gMzi, DLm6QZ5h1UJ, DD9mpYvOqoX; additions from unfiled Crimson webinar transcript (Aug 2024 paste, 2026-08-26).
+
+---
+
+## Distilled items (2026-09-05 batch)
+
+### DcvqmIKicfD [school_list, activities, recommendations]
+
+Stanford | "Cold, hard marble pressed against my paint-splattered legs as I | PRINCETON | Penn (OCR: 96 text fragments)

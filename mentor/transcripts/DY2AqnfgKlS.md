@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,625 likes, 5,728 comments - ultimateivyleagueguide on May 27, 2026: "MIT revealed the cheat sheet to get accepted…😳🚨
+"MIT revealed the cheat sheet to get accepted…😳🚨
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

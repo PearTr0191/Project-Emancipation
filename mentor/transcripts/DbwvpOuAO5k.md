@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,507 likes, 590 comments - ultimateivyleagueguide on August 7, 2026: "Worth it or not worth it: college admissions edition! 💯
+"Worth it or not worth it: college admissions edition! 💯
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

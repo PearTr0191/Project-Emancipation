@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,797 likes, 1,232 comments - ultimateivyleagueguide on May 7, 2026: "Potential > perfection
+"Potential > perfection
 
 follow @ultimateivyleagueguide to join the Top 1% 🧠
 

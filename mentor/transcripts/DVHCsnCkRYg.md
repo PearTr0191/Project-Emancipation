@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,781 likes, 122 comments - ultimateivyleagueguide on February 23, 2026: "I get asked this a lot. 
+"I get asked this a lot. 
 
 Is it worth it to invest four years and lots of money into college?
 

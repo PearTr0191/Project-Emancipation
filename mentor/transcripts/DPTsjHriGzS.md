@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,068 likes, 25 comments - ultimateivyleagueguide on September 28, 2025: "Here’s why you keep getting ghosted 😬 (by colleges)
+"Here’s why you keep getting ghosted 😬 (by colleges)
 
 Follow @ultimateivyleagueguide on Instagram to get into your dream school! ✅
 

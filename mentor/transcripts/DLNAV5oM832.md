@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,761 likes, 2,177 comments - ultimateivyleagueguide on June 22, 2025: "This interview technique has NEVER failed me…
+"This interview technique has NEVER failed me…
 
 I remember 6 months ago when I met former Google CEO Eric Schmidt, the entire time I was like “how did I even get here” 😭
 

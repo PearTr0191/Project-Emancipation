@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,347 likes, 2,050 comments - ultimateivyleagueguide on July 18, 2026: "Some of the awards you’re chasing may barely register with admissions…😬🏅
+"Some of the awards you’re chasing may barely register with admissions…😬🏅
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

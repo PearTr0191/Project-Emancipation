@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,978 likes, 3,971 comments - ultimateivyleagueguide on April 18, 2025: "Most students won’t realize they wasted their summer…
+"Most students won’t realize they wasted their summer…
 until it’s too late.
 
 They’ll scroll. They’ll “relax.”

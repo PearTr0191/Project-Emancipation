@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,881 likes, 186 comments - ultimateivyleagueguide on October 21, 2025: "College should NOT put you or your family into debt 💵
+"College should NOT put you or your family into debt 💵
 
 Here’s how I got into Ivy Leagues with hundreds of thousands in scholarships and financial aid ✅
 

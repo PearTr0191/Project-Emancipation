@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-18K likes, 742 comments - ultimateivyleagueguide on April 11, 2025: "My name is Elise Pham ⬇️
+"My name is Elise Pham ⬇️
 
 I didn’t come from legacy…
 

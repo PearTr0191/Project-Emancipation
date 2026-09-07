@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,046 likes, 1,335 comments - ultimateivyleagueguide on October 26, 2024: "Admission officers will HATE me for revealing this🤫⬇️
+"Admission officers will HATE me for revealing this🤫⬇️
 
 **Disclaimer: The admissions process is different for every school. This is a general framework many colleges follow.**
 

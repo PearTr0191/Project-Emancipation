@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,962 likes, 4,097 comments - ultimateivyleagueguide on April 23, 2026: "Make sure you’re prepared for AP exam season! 🤓🧠
+"Make sure you’re prepared for AP exam season! 🤓🧠
 
 Comment EXAM for my full guide on how to study for AP & final exams! ✅📚
 

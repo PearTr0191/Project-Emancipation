@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,524 likes, 4,871 comments - ultimateivyleagueguide on May 29, 2025: "let’s talk about this ⬇️
+"let’s talk about this ⬇️
 
 a 4.0 GPA
 a 34 ACT

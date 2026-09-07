@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,743 likes, 138 comments - ultimateivyleagueguide on March 13, 2026: "As a Harvard student, I go through this 4-step cycle to maximize my learning! 📈🧠
+"As a Harvard student, I go through this 4-step cycle to maximize my learning! 📈🧠
 
 I recommend that you follow these in order and use them altogether to maximize your studying ✅
 

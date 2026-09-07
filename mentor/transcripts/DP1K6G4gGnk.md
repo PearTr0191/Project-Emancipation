@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,769 likes, 586 comments - ultimateivyleagueguide on October 15, 2025: "Rating what AP classes, extracurriculars, and SAT/ACT exams to do in high school 📚
+"Rating what AP classes, extracurriculars, and SAT/ACT exams to do in high school 📚
 
 Day 4 of Mastering High School Parenting with Elise ✅
 

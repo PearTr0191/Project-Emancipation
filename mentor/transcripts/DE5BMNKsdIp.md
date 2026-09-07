@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,366 likes, 587 comments - ultimateivyleagueguide on January 16, 2025: "It’s time to stop making excuses and lock in 🤝 The choice is yours — will you beat procrastination or let it hinder your academic success? 
+"It’s time to stop making excuses and lock in 🤝 The choice is yours — will you beat procrastination or let it hinder your academic success? 
 
 If you want 3 recorded courses from my flagship program based on the latest college admissions criteria…
 

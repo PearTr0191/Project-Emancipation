@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-10K likes, 608 comments - ultimateivyleagueguide on April 20, 2026: "Don’t let APUSH push you to your breaking point…use this study guide! 🤩✅
+"Don’t let APUSH push you to your breaking point…use this study guide! 🤩✅
 
 Save and follow for more resources 🧠
 

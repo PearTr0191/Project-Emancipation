@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,906 likes, 318 comments - ultimateivyleagueguide on June 13, 2025: "I had a private conversation with Sam Altman, CEO of OpenAI & ChatGPT, and he told me your college essay sucks (sorry!)
+"I had a private conversation with Sam Altman, CEO of OpenAI & ChatGPT, and he told me your college essay sucks (sorry!)
 
 Believe it or not, he said that AI won’t replace human values but only enhance them…
 

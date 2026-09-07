@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,468 likes, 2,111 comments - ultimateivyleagueguide on February 20, 2026: "Bailey came to me with a dream of Stanford…
+"Bailey came to me with a dream of Stanford…
 
 But when we first met, she told me: “I don’t know how to stand out.”
 

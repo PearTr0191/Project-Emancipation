@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-47K likes, 3,163 comments - ultimateivyleagueguide on February 6, 2026: "Ranking common extracurriculars 🌟
+"Ranking common extracurriculars 🌟
 
 These are based on my conversations with admissions officers and patterns I’ve seen after analyzing thousands of successful applicants and helping students get into top colleges. 
 

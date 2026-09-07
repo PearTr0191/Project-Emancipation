@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,319 likes, 133 comments - ultimateivyleagueguide on May 27, 2026: "Read these college admissions updates before scrolling! ✋ 
+"Read these college admissions updates before scrolling! ✋ 
 
 Comment ADMISSIONS for my full document going over admissions updates in 2026! 🤓📝
 

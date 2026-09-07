@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,290 likes, 340 comments - ultimateivyleagueguide on June 24, 2025: "I secured top-tier internships without any experience or skills…
+"I secured top-tier internships without any experience or skills…
 
 Simply because I learned how to play the game of cold-emailing 📧
 

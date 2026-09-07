@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-13K likes, 19 comments - ultimateivyleagueguide on April 24, 2026: "Your satisfaction of life depends on what you focus on…
+"Your satisfaction of life depends on what you focus on…
 
 Choose gratitude ❤️".
 

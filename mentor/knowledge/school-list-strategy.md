@@ -192,3 +192,14 @@ The key positioning question is: **why apply to Drexel if you're also applying t
 - Test scores are Very Important despite test-optional status. The 1540 is a genuine asset — submit it.
 - The $32,937 average international aid is the strongest data point on the list for international affordability. Combined with co-op income, Drexel is the most financially legible co-op option.
 - **Open follow-up:** verify Drexel's ED terms do not allow concurrent REA (the source notes say ED is binding and incompatible with Stanford REA; this should be confirmed on Drexel's admissions site before submitting).
+
+---
+
+## Distilled items (2026-09-05 batch)
+
+### Dby5OqVvJCl [essays, school_list, testing]
+
+I'm going to read the beginning of my Common App essay, which I've never shared before. | But this essay got me into 20 out of 26 schools, including Harvard, Stanford, and four other | IE's. | a strategy there which I can explain if you guys want to hear. | Bye guys, love you so much. (Audio STT: 24 segments (faster-whisper medium))
+### DcvqmIKicfD [school_list, activities, recommendations]
+
+Stanford | "Cold, hard marble pressed against my paint-splattered legs as I | PRINCETON | Penn (OCR: 96 text fragments)

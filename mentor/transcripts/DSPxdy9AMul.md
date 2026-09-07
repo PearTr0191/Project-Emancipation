@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-16K likes, 9,207 comments - ultimateivyleagueguide on December 3, 2025: "Most high schoolers never get research opportunities because they email one professor, get ignored, and assume they’re “not qualified.”
+"Most high schoolers never get research opportunities because they email one professor, get ignored, and assume they’re “not qualified.”
 
 The Ladder Method has been proven to completely change that for THOUSANDS of high school students. 
 

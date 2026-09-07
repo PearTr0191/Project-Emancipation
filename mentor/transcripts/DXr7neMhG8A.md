@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,670 likes, 1,142 comments - ultimateivyleagueguide on April 28, 2026: "overcoming severe procrastination. 
+"overcoming severe procrastination. 
 
 follow @ultimateivyleagueguide on IG to join the Top 1% 🧠
 

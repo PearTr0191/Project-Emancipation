@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,843 likes, 1,074 comments - ultimateivyleagueguide on October 10, 2025: "Fix your procrastination or watch your academic performance drop by 40% 😬🧠
+"Fix your procrastination or watch your academic performance drop by 40% 😬🧠
 
 Follow @ultimateivyleagueguide on Instagram to join the Top 1% of students! ✅
 

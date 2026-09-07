@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,164 likes, 2,235 comments - ultimateivyleagueguide on May 29, 2024: "Comment “EMAIL” & I’ll DM you my EXACT cold-email template for FREE! 😉📧
+"Comment “EMAIL” & I’ll DM you my EXACT cold-email template for FREE! 😉📧
 
 #studygram #studymotivation #studytips #ivyleague #harvard #studyhacks #summerprograms #summerinternship".
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-930 likes, 273 comments - ultimateivyleagueguide on October 17, 2025: "Prestigious Colleges vs. State Schools 🎓 Which is better for success? 
+"Prestigious Colleges vs. State Schools 🎓 Which is better for success? 
 
 Day 5 of Mastering High School Parenting with Elise ✅
 

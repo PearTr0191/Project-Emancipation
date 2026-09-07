@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-631 likes, 106 comments - ultimateivyleagueguide on October 26, 2025: "How to Get on the Same Page With Your Kids for College & Life Goals 🤝
+"How to Get on the Same Page With Your Kids for College & Life Goals 🤝
 
 Day 9 of Mastering High School Parenting with Elise ✅
 

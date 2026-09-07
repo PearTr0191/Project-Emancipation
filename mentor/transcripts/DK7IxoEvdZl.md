@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,868 likes, 291 comments - ultimateivyleagueguide on June 14, 2025: "Roy Lee got suspended from Columbia for creating an AI tool that “hacks” job interviews…
+"Roy Lee got suspended from Columbia for creating an AI tool that “hacks” job interviews…
 
 His company, Cluely, reverse-engineers what top companies like Google or Tesla are actually looking for, and helps you respond based on your real story. 
 

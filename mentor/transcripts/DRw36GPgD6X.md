@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,808 likes, 1,078 comments - ultimateivyleagueguide on November 30, 2025: "Don’t submit AI essays or Common App could terminate your account and alert EVERY college you apply to😬🚨
+"Don’t submit AI essays or Common App could terminate your account and alert EVERY college you apply to😬🚨
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

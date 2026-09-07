@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-524 likes, 95 comments - ultimateivyleagueguide on August 6, 2026: "Anyone can find their college admissions spike in 5 steps! ✅
+"Anyone can find their college admissions spike in 5 steps! ✅
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

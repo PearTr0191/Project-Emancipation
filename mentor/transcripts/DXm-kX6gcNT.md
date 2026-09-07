@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,516 likes, 89 comments - ultimateivyleagueguide on April 26, 2026: "Being productive is easy if you know what to do! ✅🧠
+"Being productive is easy if you know what to do! ✅🧠
 
 Comment STUDY for all of my study secrets 📝📚
 

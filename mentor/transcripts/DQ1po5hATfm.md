@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,039 likes, 4,722 comments - ultimateivyleagueguide on October 24, 2025: "I cheated my way into Harvard 😳 Let me explain…
+"I cheated my way into Harvard 😳 Let me explain…
 
 Follow @ultimateivyleagueguide on Instagram for the latest college admissions updates 🌟
 

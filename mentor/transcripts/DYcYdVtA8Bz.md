@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,870 likes, 60 comments - ultimateivyleagueguide on May 17, 2026: "Senior week & grad season at Harvard starts today! 🥰🎓 #harvard #ultimateivyleagueguide #uilg #ultimatementor".
+"Senior week & grad season at Harvard starts today! 🥰🎓 #harvard #ultimateivyleagueguide #uilg #ultimatementor".
 
 ## Page meta
 

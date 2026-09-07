@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,166 likes, 3,421 comments - ultimateivyleagueguide on May 11, 2026: "Aim for 3-5 of these extracurriculars 🎯
+"Aim for 3-5 of these extracurriculars 🎯
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

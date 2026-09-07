@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,384 likes, 1,397 comments - ultimateivyleagueguide on September 19, 2025: "“How do I check if my essays, activities, and recommendations all line up into one strong application?” 🚀💪
+"“How do I check if my essays, activities, and recommendations all line up into one strong application?” 🚀💪
 
 Day 12 of 14 of Preparing for College Applications with Elise 🎓
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,317 likes, 1,832 comments - ultimateivyleagueguide on March 26, 2025: "MIT doesn’t reject perfect students because they aren’t smart enough.
+"MIT doesn’t reject perfect students because they aren’t smart enough.
 
 I’ve seen 4.0 GPA, 1600 SAT students get rejected over and over—
 while students with lower scores get in.

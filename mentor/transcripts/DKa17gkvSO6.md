@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,997 likes, 884 comments - ultimateivyleagueguide on May 28, 2025: "yeah I used to think I just wasn’t “one of those naturally smart kids”
+"yeah I used to think I just wasn’t “one of those naturally smart kids”
 
 but the truth is… most people aren’t
 they’re just dangerously prepared

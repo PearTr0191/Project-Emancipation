@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,663 likes, 921 comments - ultimateivyleagueguide on June 16, 2026: "Here’s how to write a winning college essay in 12 minutes!
+"Here’s how to write a winning college essay in 12 minutes!
 
 This sample essay was written by one of my students who was accepted into her dream school NYU 🎓✅
 

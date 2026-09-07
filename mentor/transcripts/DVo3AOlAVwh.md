@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-909 likes, 54 comments - ultimateivyleagueguide on March 8, 2026: "Pop Quiz: What gets you into Ivy League schools? 🤔🎓
+"Pop Quiz: What gets you into Ivy League schools? 🤔🎓
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-17K likes, 3,747 comments - ultimateivyleagueguide on August 27, 2025: "“How do I choose the right extracurriculars to get into my dream college?” 🏀🎨🎹
+"“How do I choose the right extracurriculars to get into my dream college?” 🏀🎨🎹
 
 Day 2 of 14 of Preparing for College Applications with Elise 🎓
 

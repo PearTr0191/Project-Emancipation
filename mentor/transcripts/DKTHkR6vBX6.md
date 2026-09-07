@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,604 likes, 279 comments - ultimateivyleagueguide on May 28, 2025: "I used to think writing a “perfect” essay would get me into my dream school (I was wrong…😅)
+"I used to think writing a “perfect” essay would get me into my dream school (I was wrong…😅)
 
 but the ones that actually work aren’t perfect. they’re real.
 

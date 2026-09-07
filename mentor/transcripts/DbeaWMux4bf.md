@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-65K likes, 9,776 comments - ultimateivyleagueguide on July 31, 2026: "Will your personal statement get you ACCEPTED or REJECTED? 😳📝 Let’s see… 
+"Will your personal statement get you ACCEPTED or REJECTED? 😳📝 Let’s see… 
 
 #UltimateIvyLeagueGuide #UILG #UltimateMentor".
 

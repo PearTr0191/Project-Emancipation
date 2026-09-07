@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,882 likes, 578 comments - ultimateivyleagueguide on August 14, 2026: "Personal Statement Do’s and Don’ts! ✅🙅‍♀️
+"Personal Statement Do’s and Don’ts! ✅🙅‍♀️
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

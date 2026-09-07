@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,722 likes, 1,830 comments - ultimateivyleagueguide on June 14, 2024: "Why your college app essay is BORING ⬇️
+"Why your college app essay is BORING ⬇️
 
 Admission officers read thousands of essays 😬
 

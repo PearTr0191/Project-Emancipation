@@ -1,5 +1,7 @@
 # Runtime / browser artifacts
 /.playwright-mcp
+/.playwright-ig-profile
+/.playwright_auth_profile
 /__pycache__
 *.pyc
 
@@ -22,3 +24,17 @@
 
 # Backup / safety copies
 /manifest.json.bak
+
+# Session-debug JSON (one-off extracts from authenticated IG/Playwright scrapes)
+/_auth_*.json
+/_raw_extract_*.json
+/_ocr_results_*.json
+/_carousel_ocr_*.json
+/_slide_assets_*/
+/_audio_probe.json
+/_main_reel_video_urls.json
+/_target_audio_url.txt
+
+# Ad-hoc transcripts from failed pipeline attempts (superseded by canonical transcripts)
+/post*_final*.md
+/post*_final*.png

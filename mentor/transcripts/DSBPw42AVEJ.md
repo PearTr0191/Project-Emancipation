@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-11K likes, 66 comments - ultimateivyleagueguide on December 8, 2025: "With a majority of students getting perfect 4.0 GPAs, top colleges are looking for NEW WAYS to tell students apart…
+"With a majority of students getting perfect 4.0 GPAs, top colleges are looking for NEW WAYS to tell students apart…
 
 Here’s how to use the “Purple Cow” strategy to stand out 🐮✅
 

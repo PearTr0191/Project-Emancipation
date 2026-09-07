@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,231 likes, 1,116 comments - ultimateivyleagueguide on May 28, 2025: "I didn’t realize how much institutional priorities shaped admissions until i found out MIT admits more girls in stem ⬇️
+"I didn’t realize how much institutional priorities shaped admissions until i found out MIT admits more girls in stem ⬇️
 
 not because of a quota
 

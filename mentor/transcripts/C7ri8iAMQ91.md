@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,315 likes, 1,784 comments - ultimateivyleagueguide on June 1, 2024: "The ONLY 3-Step Plan You Need To Get Into Your Dream School💪🏼✅
+"The ONLY 3-Step Plan You Need To Get Into Your Dream School💪🏼✅
 
 Comment “SENIOR” and I’ll DM you my full senior checklist for FREE 😉📝 
 

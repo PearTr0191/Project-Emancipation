@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,519 likes, 7 comments - ultimateivyleagueguide on March 6, 2025: "Most students think getting into top colleges means cramming their resumes with as many activities as possible…
+"Most students think getting into top colleges means cramming their resumes with as many activities as possible…
 
 I used to believe that too.
 

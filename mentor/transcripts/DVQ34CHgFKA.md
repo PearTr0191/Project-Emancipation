@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-30K likes, 26K comments - ultimateivyleagueguide on February 27, 2026: "Two types of 8th Graders… which one are you? 😅
+"Two types of 8th Graders… which one are you? 😅
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

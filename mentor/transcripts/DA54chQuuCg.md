@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,797 likes, 170 comments - ultimateivyleagueguide on October 9, 2024: "How to secure THOUSANDS in college scholarships 🤫⬇️
+"How to secure THOUSANDS in college scholarships 🤫⬇️
 
 I didn’t come from a wealthy family. In fact, I remember the stress of trying to pay for college… 
 

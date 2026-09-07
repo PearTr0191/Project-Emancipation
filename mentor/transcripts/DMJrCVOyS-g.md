@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-17K likes, 65 comments - ultimateivyleagueguide on July 13, 2025: "I thought I’d never be able to escape my situation…
+"I thought I’d never be able to escape my situation…
 
 I didn’t come from a wealthy family.
 

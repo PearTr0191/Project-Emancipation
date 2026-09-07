@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,179 likes, 1,809 comments - ultimateivyleagueguide on May 30, 2026: "Summer is the BEST time to launch a passion project 🚀 Have you locked in your plan? ⏰
+"Summer is the BEST time to launch a passion project 🚀 Have you locked in your plan? ⏰
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

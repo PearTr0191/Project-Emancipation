@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,207 likes, 24 comments - ultimateivyleagueguide on January 18, 2026: "Last year Jacob came to me asking for help…
+"Last year Jacob came to me asking for help…
 
 He told me his dream school was University of Florida 
 

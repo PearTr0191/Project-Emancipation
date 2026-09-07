@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-74K likes, 19K comments - ultimateivyleagueguide on September 21, 2025: "“How do I hack FAFSA and get THOUSANDS in free money?” 💵
+"“How do I hack FAFSA and get THOUSANDS in free money?” 💵
 
 Day 13 of 14 of Preparing for College Applications with Elise 🎓
 

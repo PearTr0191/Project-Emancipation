@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,789 likes, 31 comments - ultimateivyleagueguide on December 2, 2025: "Straight A’s have lost their importance…
+"Straight A’s have lost their importance…
 
 Top schools like Harvard reported ~75% of enrolled students have a perfect 4.0 GPA (Source: Common Data Set) 
 

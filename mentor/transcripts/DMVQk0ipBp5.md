@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,455 likes, 975 comments - ultimateivyleagueguide on July 6, 2025: "feeling behind is SO normal.
+"feeling behind is SO normal.
 
 but don’t self-sabotage by letting it hinder your potential.
 

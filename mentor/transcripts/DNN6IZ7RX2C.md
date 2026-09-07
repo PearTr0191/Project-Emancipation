@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,300 likes, 1,696 comments - ultimateivyleagueguide on August 10, 2025: "How a 2.7 GPA got Nabeel invited to Columbia, Purdue, & Carnegie Mellon 😳🤝
+"How a 2.7 GPA got Nabeel invited to Columbia, Purdue, & Carnegie Mellon 😳🤝
 
 Follow @ultimateivyleagueguide to join the Top 1% 🧠
 

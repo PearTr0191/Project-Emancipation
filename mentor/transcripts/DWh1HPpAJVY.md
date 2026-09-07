@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-14K likes, 253 comments - ultimateivyleagueguide on March 30, 2026: "Happy (belated) Ivy Day & 1 month until National Decision Day for Class of 2030! 🥳🏆❤️ #harvard #uilg #ultimateivyleagueguide #ultimatementor".
+"Happy (belated) Ivy Day & 1 month until National Decision Day for Class of 2030! 🥳🏆❤️ #harvard #uilg #ultimateivyleagueguide #ultimatementor".
 
 ## Page meta
 

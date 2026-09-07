@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,594 likes, 5,374 comments - ultimateivyleagueguide on June 1, 2026: "It’s officially the start of college app season 🥳 
+"It’s officially the start of college app season 🥳 
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

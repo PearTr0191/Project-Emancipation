@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,860 likes, 974 comments - ultimateivyleagueguide on March 7, 2025: "Jumping from a 1270 to a 1580 in one month? Sounds crazy, right?
+"Jumping from a 1270 to a 1580 in one month? Sounds crazy, right?
 
 That’s exactly what I thought when I first took the SAT.
 

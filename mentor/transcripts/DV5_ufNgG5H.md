@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,421 likes, 546 comments - ultimateivyleagueguide on March 15, 2026: "College essays are NOT literary analysis essays! ❌📝
+"College essays are NOT literary analysis essays! ❌📝
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

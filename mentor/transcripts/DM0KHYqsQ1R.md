@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,969 likes, 270 comments - ultimateivyleagueguide on July 21, 2025: "My secret to balancing academics, business, & life WITHOUT burning out ⚖️📚
+"My secret to balancing academics, business, & life WITHOUT burning out ⚖️📚
 
 Follow @ultimateivyleagueguide to join the Top 1% 🧠
 

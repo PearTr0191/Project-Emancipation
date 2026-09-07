@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,715 likes, 392 comments - ultimateivyleagueguide on August 12, 2026: "Make sure to ask for a Rec Letter on time! 🧑‍🏫 
+"Make sure to ask for a Rec Letter on time! 🧑‍🏫 
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

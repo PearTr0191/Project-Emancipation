@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,222 likes, 6,979 comments - ultimateivyleagueguide on May 18, 2026: "Are you doing the right things to get into your dream college? 🤔📝
+"Are you doing the right things to get into your dream college? 🤔📝
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

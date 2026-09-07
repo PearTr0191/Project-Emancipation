@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-25K likes, 572 comments - ultimateivyleagueguide on February 11, 2026: "Google hasn’t even released this yet… If you’re watching this, you’re one of the first people to know 😳📚
+"Google hasn’t even released this yet… If you’re watching this, you’re one of the first people to know 😳📚
 
 #UltimateIvyLeagueGuide #UILG #UltimateMentor".
 

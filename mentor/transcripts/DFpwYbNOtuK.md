@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,989 likes, 872 comments - ultimateivyleagueguide on February 4, 2025: "Senior year isn’t the time to start preparing for college—it’s already too late ⏰
+"Senior year isn’t the time to start preparing for college—it’s already too late ⏰
 
 So many students wait until they’re writing essays to figure out why they want to go to their dream college… 
 

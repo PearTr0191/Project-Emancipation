@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,689 likes, 333 comments - ultimateivyleagueguide on May 28, 2025: "Hi:) my name is Elise and yes, I mentor a LOT of students…
+"Hi:) my name is Elise and yes, I mentor a LOT of students…
 
 …as a Forbes-recognized college admissions counselor and current Harvard student with 0 Ivy League rejections 😅
 

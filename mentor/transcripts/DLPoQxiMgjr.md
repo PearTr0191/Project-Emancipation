@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,529 likes, 1,416 comments - ultimateivyleagueguide on June 18, 2025: "⬇️ I’m not naturally smart
+"⬇️ I’m not naturally smart
 
 I used to compare myself to classmates who picked things up in seconds
 

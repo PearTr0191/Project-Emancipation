@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,043 likes, 838 comments - ultimateivyleagueguide on June 25, 2026: "A quiet summer with nothing planned can still be effective, as long as you use it right! ☀️
+"A quiet summer with nothing planned can still be effective, as long as you use it right! ☀️
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

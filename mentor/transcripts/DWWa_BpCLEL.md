@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,890 likes, 805 comments - ultimateivyleagueguide on March 26, 2026: "The best college essays do not start senior year…👇
+"The best college essays do not start senior year…👇
 
 They are built through consistent reflection on what you observe and what you realize about yourself over time.
 

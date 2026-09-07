@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,890 likes, 99 comments - ultimateivyleagueguide on March 20, 2026: "At 15 Lana was unsure how to stand out.
+"At 15 Lana was unsure how to stand out.
 
 At 17 she got into her dream college, Rice University.
 

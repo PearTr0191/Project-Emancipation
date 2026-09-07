@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,194 likes, 42 comments - ultimateivyleagueguide on December 16, 2025: "With a majority of students getting perfect 4.0 GPAs, top colleges are looking for NEW WAYS to tell students apart…
+"With a majority of students getting perfect 4.0 GPAs, top colleges are looking for NEW WAYS to tell students apart…
 
 Here’s what you & your friends need to know✅
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,203 likes, 131 comments - ultimateivyleagueguide on January 1, 2026: "The “Dead Zone” Strategy is BEST used during the first 6 weeks of every new year…
+"The “Dead Zone” Strategy is BEST used during the first 6 weeks of every new year…
 
 Day 1 starts today ⏰ 
 

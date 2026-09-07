@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,335 likes, 980 comments - ultimateivyleagueguide on December 23, 2024: "Getting into Harvard taught me one thing: timing is everything ⬇️
+"Getting into Harvard taught me one thing: timing is everything ⬇️
 
 Most students waste winter break— and it costs them big.
 

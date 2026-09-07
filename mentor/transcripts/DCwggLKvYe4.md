@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-969 likes, 264 comments - ultimateivyleagueguide on November 24, 2024: "Let me guess — you’re a high school student who’s overwhelmed trying to juggle classes, exams, extracurriculars, and personal goals. 
+"Let me guess — you’re a high school student who’s overwhelmed trying to juggle classes, exams, extracurriculars, and personal goals. 
 
 Trust me — I’ve been there. 
 

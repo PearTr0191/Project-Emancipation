@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,615 likes, 724 comments - ultimateivyleagueguide on November 18, 2025: "Revealing the 4-Part structure to nail ANY interview question 🗣️
+"Revealing the 4-Part structure to nail ANY interview question 🗣️
 
 Follow @ultimateivyleagueguide on Instagram to get into your dream school! 🏆
 

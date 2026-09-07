@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,782 likes, 10 comments - ultimateivyleagueguide on March 5, 2025: "Most students are wasting so much time on the wrong extracurriculars…
+"Most students are wasting so much time on the wrong extracurriculars…
 
 I almost did too—
 

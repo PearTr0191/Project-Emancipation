@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,185 likes, 519 comments - ultimateivyleagueguide on April 15, 2026: "Interviews DOs and DON’Ts 🗣️
+"Interviews DOs and DON’Ts 🗣️
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

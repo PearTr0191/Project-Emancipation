@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,779 likes, 408 comments - ultimateivyleagueguide on March 9, 2026: "When top colleges read your application, they’re mentally grouping your activities into three buckets:
+"When top colleges read your application, they’re mentally grouping your activities into three buckets:
 
 🌟Tier 1 (you want 1): These are identity-defining activities like passion projects, startups, research, nonprofits, or truly impressive awards. They show what motivates you and give admissions a clear reason to remember you.
 

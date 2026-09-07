@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,785 likes, 977 comments - ultimateivyleagueguide on March 5, 2026: "Your college list is either your biggest advantage…or your biggest mistake. 
+"Your college list is either your biggest advantage…or your biggest mistake. 
 
 And most students don’t even realize how important it is…
 

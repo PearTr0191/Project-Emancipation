@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-49K likes, 6,344 comments - ultimateivyleagueguide on July 7, 2025: "study smarter, not harder. 
+"study smarter, not harder. 
 
 follow @ultimateivyleagueguide to join the Top 1% of students🧠
 

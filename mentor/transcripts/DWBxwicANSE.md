@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-8,012 likes, 3,390 comments - ultimateivyleagueguide on March 18, 2026: "If you don’t actually know how to write a college essay…it’s not your fault.
+"If you don’t actually know how to write a college essay…it’s not your fault.
 
 You’re told to “be unique” and “tell your story,” but no one shows you how to do that in a way that actually makes an admissions officer stop and care.
 

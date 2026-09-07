@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,555 likes, 539 comments - ultimateivyleagueguide on November 22, 2025: "I felt so lost in high school.
+"I felt so lost in high school.
 
 I had no idea how to stand out, no idea what colleges really wanted, and I definitely didn’t think I’d ever end up at Harvard.
 

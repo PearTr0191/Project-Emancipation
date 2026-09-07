@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,472 likes, 1,339 comments - ultimateivyleagueguide on April 11, 2026: "Make sure you’re preparing for your upcoming AP exams! 🤓🧠
+"Make sure you’re preparing for your upcoming AP exams! 🤓🧠
 
 Comment EXAM and I’ll send you my full course for setting up an effective study schedule for exams! 📝✅
 

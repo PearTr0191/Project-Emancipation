@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,597 likes, 236 comments - ultimateivyleagueguide on March 3, 2026: "Sometimes the difference between an average student and a top student isn’t intelligence…
+"Sometimes the difference between an average student and a top student isn’t intelligence…
 
 It’s strategy 👇
 

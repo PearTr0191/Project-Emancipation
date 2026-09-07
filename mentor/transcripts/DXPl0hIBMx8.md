@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-13K likes, 1,012 comments - ultimateivyleagueguide on April 17, 2026: "If you struggle with studying, it’s not your fault. It most likely means you were not taught the right approach to studying.
+"If you struggle with studying, it’s not your fault. It most likely means you were not taught the right approach to studying.
 
 Here’s the difference between each student:
 

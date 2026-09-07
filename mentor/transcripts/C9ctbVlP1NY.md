@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,325 likes, 1,624 comments - ultimateivyleagueguide on July 15, 2024: "Your competition is ahead of you. But it’s not too late! 
+"Your competition is ahead of you. But it’s not too late! 
 
 If you’re procrastinating on your college apps, let me guess — it’s because you don’t even know how to start🫠
 

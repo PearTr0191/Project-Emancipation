@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,805 likes, 334 comments - ultimateivyleagueguide on December 7, 2024: "If you currently don’t feel like studying for that next exam or completing that homework due tomorrow…you’re not alone ⬇️
+"If you currently don’t feel like studying for that next exam or completing that homework due tomorrow…you’re not alone ⬇️
 
 I used to think motivation was something you waited for —but that mindset held me back. 🛑
 

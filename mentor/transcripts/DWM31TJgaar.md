@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-12K likes, 131 comments - ultimateivyleagueguide on March 22, 2026: "You don’t have to love studying to be good at it…😅 Here’s how to rewire your brain to be addicted to studying 🧠
+"You don’t have to love studying to be good at it…😅 Here’s how to rewire your brain to be addicted to studying 🧠
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

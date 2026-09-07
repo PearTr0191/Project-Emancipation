@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,236 likes, 26 comments - ultimateivyleagueguide on June 9, 2025: "wait until they hear I take matcha shots before every exam lmao".
+"wait until they hear I take matcha shots before every exam lmao".
 
 ## Page meta
 

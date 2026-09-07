@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,332 likes, 84 comments - ultimateivyleagueguide on June 17, 2025: "hot take: non-Ivy League men >>> Ivy League men".
+"hot take: non-Ivy League men >>> Ivy League men".
 
 ## Page meta
 

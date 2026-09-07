@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-49K likes, 453 comments - ultimateivyleagueguide on July 31, 2025: "navigating complicated friendships.
+"navigating complicated friendships.
 
 Follow @ultimateivyleagueguide to join the Top 1% of students 🧠 
 

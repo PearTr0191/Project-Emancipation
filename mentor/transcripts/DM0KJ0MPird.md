@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-11K likes, 5,517 comments - ultimateivyleagueguide on July 24, 2025: "5 days. 1240 to 1580. Steal my method. 
+"5 days. 1240 to 1580. Steal my method. 
 
 Follow @ultimateivyleagueguide to join the Top 1% 🧠
 

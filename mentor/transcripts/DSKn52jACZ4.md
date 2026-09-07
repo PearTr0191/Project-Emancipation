@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,532 likes, 1,239 comments - ultimateivyleagueguide on December 3, 2025: "Chasing impressive leadership titles and prestigious internships is the OLD SCHOOL way of standing out to top colleges… ❌
+"Chasing impressive leadership titles and prestigious internships is the OLD SCHOOL way of standing out to top colleges… ❌
 
 There’s now only 3 types of activities colleges ACTUALLY want…let’s go over them ✅
 

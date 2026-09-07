@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,797 likes, 3,508 comments - ultimateivyleagueguide on July 12, 2024: "Avoid the BIGGEST College Application Mistake⬇️❌
+"Avoid the BIGGEST College Application Mistake⬇️❌
 
 If you haven’t begun your college apps yet, you’re already falling behind. 😬📅
 

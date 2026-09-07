@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,418 likes, 111 comments - ultimateivyleagueguide on April 20, 2026: "The most important part of studying is learning HOW to properly study, instead of simply putting in more time without using proper strategies.🤓📝
+"The most important part of studying is learning HOW to properly study, instead of simply putting in more time without using proper strategies.🤓📝
 
 Here are 4 of my favorite study hacks I use to save me hours of time every week! ✅🧠
 

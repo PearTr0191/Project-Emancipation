@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,965 likes, 31 comments - ultimateivyleagueguide on June 21, 2025: "my matcha addiction is actually soooo bad😭
+"my matcha addiction is actually soooo bad😭
 
 but at least I can blame it on science… 
 

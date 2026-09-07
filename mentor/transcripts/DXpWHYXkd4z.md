@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,303 likes, 1,544 comments - ultimateivyleagueguide on April 27, 2026: "This essay got L into UCLA + UC Berkeley 😮
+"This essay got L into UCLA + UC Berkeley 😮
 
 Comment ESSAY for my full Personal Statement guide! ✅📝
 

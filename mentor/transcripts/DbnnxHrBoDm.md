@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,649 likes, 798 comments - ultimateivyleagueguide on July 30, 2026: "The students who do well after high school all build the same handful of skills early 🎓
+"The students who do well after high school all build the same handful of skills early 🎓
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

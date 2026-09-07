@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-15K likes, 1,764 comments - ultimateivyleagueguide on March 18, 2025: "There’s no “right” way to approach college admissions…
+"There’s no “right” way to approach college admissions…
 
 But there’s definitely a wrong way.
 

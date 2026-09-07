@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-28K likes, 3,783 comments - ultimateivyleagueguide on December 20, 2025: "Yesterday, I asked my sister how much she studies at UT Austin and was surprised she studies way more than I do at Harvard.
+"Yesterday, I asked my sister how much she studies at UT Austin and was surprised she studies way more than I do at Harvard.
 
 When we talked it through, we realized it wasn’t wasn’t about how hard our classes were…
 

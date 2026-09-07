@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,158 likes, 210 comments - ultimateivyleagueguide on February 3, 2026: "A letter to my 17 year old self ❤️
+"A letter to my 17 year old self ❤️
 
 Comment MENTOR for all my free college admission guides 🌟
 

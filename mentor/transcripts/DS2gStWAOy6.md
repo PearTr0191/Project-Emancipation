@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-11K likes, 14K comments - ultimateivyleagueguide on December 29, 2025: "January is the month when applications for top summer programs will begin creeping in…
+"January is the month when applications for top summer programs will begin creeping in…
 
 How you spend your summer signals to colleges what you care about and how much initiative you have…and these can make the difference between an acceptance or a rejection! 
 

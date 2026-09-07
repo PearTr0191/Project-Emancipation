@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-15K likes, 6,356 comments - ultimateivyleagueguide on May 25, 2026: "Can you guess which student will get into Harvard? 😳✅ Stay until the end… 
+"Can you guess which student will get into Harvard? 😳✅ Stay until the end… 
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

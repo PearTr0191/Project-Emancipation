@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,802 likes, 164 comments - ultimateivyleagueguide on May 29, 2025: "you say you’d do anything for your parents…
+"you say you’d do anything for your parents…
 
 but are you actually doing what matters most to them?
 

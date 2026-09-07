@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,755 likes, 1,206 comments - ultimateivyleagueguide on May 28, 2025: "the admissions game in 2026 isn’t the same ⬇️
+"the admissions game in 2026 isn’t the same ⬇️
 
 what used to work doesn’t hit the same way anymore.
 and most students are still following advice that’s outdated.

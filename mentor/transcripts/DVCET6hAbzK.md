@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,571 likes, 2,055 comments - ultimateivyleagueguide on February 21, 2026: "I remember feeling sooo lost in high school…and now I’m at my dream school Harvard 🥹❤️ 
+"I remember feeling sooo lost in high school…and now I’m at my dream school Harvard 🥹❤️ 
 
 If you feel burned out…
 If you feel unsure if you’re doing the ‘right’ things…

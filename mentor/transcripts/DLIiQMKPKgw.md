@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,306 likes, 1,374 comments - ultimateivyleagueguide on June 20, 2025: "The US government will resume processing international student visa applications but under the caveat that your social media will be analyzed
+"The US government will resume processing international student visa applications but under the caveat that your social media will be analyzed
 
 So if you’re an international student, make sure you pay attention so you know exactly what to do ✅
 

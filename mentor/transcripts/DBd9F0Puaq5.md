@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,134 likes, 115 comments - ultimateivyleagueguide on October 23, 2024: "If you’re in 9th Grade and unsure about how to navigate high school STRATEGICALLY, you’re not alone. 
+"If you’re in 9th Grade and unsure about how to navigate high school STRATEGICALLY, you’re not alone. 
 
 The biggest mistake most students make is NOT BUILDING A STRONG FOUNDATION ⚠️😬
 

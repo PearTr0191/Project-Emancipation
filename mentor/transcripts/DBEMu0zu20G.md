@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,883 likes, 27 comments - ultimateivyleagueguide on October 13, 2024: "When I was in high school, I didn’t even think I could get into a top college, let alone an Ivy League like Harvard…
+"When I was in high school, I didn’t even think I could get into a top college, let alone an Ivy League like Harvard…
 
 I was raised by a single immigrant father who had no familiarity with the US College Admissions System,
 

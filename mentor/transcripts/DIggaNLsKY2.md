@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,639 likes, 1,064 comments - ultimateivyleagueguide on April 16, 2025: "Most people see a headline about tariffs and think,
+"Most people see a headline about tariffs and think,
 “That has nothing to do with college admissions”
 
 But as a Harvard student who works with international applicants—

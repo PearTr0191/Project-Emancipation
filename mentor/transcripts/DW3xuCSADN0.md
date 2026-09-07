@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,992 likes, 1,300 comments - ultimateivyleagueguide on April 8, 2026: "Episode 8 of The Ultimate College Blueprint: If I Grew Up Without Money📘".
+"Episode 8 of The Ultimate College Blueprint: If I Grew Up Without Money📘".
 
 ## Page meta
 

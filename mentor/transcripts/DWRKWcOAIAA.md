@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,826 likes, 168 comments - ultimateivyleagueguide on March 24, 2026: "Pop Quiz: Which student got into Harvard? 🤔
+"Pop Quiz: Which student got into Harvard? 🤔
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

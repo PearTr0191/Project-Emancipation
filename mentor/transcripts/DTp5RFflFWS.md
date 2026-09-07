@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,039 likes, 2,011 comments - ultimateivyleagueguide on January 6, 2026: "The “Self Direction Test” explains why perfect GPA students are getting rejected by top colleges…
+"The “Self Direction Test” explains why perfect GPA students are getting rejected by top colleges…
 
 Here’s what you need to know 📝
 

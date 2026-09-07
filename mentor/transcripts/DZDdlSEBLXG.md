@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,747 likes, 1,256 comments - ultimateivyleagueguide on June 1, 2026: "EVERYTHING You Need To Do During Junior Year⬇️‼️
+"EVERYTHING You Need To Do During Junior Year⬇️‼️
 
 Most students don’t start thinking about college applications until senior year, and that’s why they get rejected from top universities. ⏰📚
 

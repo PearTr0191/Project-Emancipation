@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,239 likes, 2,664 comments - ultimateivyleagueguide on April 8, 2025: "There are two types of students…
+"There are two types of students…
 
 	1.	Those who use summer to get ahead in college admissions.
 	2.	And those who waste it—without even realizing it.

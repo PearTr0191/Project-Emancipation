@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,470 likes, 2,000 comments - ultimateivyleagueguide on June 8, 2026: "If you’re a junior, here’s what you need to know 👇
+"If you’re a junior, here’s what you need to know 👇
 
 Two students with the same GPA, the same SAT, and the same school list will have completely different Yale outcomes, and the difference doesn’t show up in the application.
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-18K likes, 601 comments - ultimateivyleagueguide on July 5, 2025: "Most students don’t actually know how to study. I didn’t either.
+"Most students don’t actually know how to study. I didn’t either.
 
 At 16, I was constantly behind even though I was working harder than everyone around me.
 

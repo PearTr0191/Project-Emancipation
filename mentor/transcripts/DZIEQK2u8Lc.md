@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,315 likes, 2,705 comments - ultimateivyleagueguide on June 3, 2026: "How to AVOID getting rejected from Harvard (and other top schools) 😳❌
+"How to AVOID getting rejected from Harvard (and other top schools) 😳❌
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

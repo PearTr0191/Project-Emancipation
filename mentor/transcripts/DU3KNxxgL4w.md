@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,432 likes, 3,870 comments - ultimateivyleagueguide on February 17, 2026: "The best summer programs close earlier than students realize.
+"The best summer programs close earlier than students realize.
 
 Programs like the ones listed are already reviewing applications right now, not in May.
 

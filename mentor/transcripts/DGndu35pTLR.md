@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,695 likes, 2 comments - ultimateivyleagueguide on February 28, 2025: "If I could redo high school, here’s exactly what I’d focus on to stand out to top colleges…
+"If I could redo high school, here’s exactly what I’d focus on to stand out to top colleges…
 
 Because the truth is—
 

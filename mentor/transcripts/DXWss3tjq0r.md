@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,184 likes, 274 comments - ultimateivyleagueguide on April 20, 2026: "Do you know the 3 core parts of a college application? 🤔📝
+"Do you know the 3 core parts of a college application? 🤔📝
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,686 likes, 959 comments - ultimateivyleagueguide on January 21, 2026: "A lot of students think their application problem is that they’re “not impressive enough.”
+"A lot of students think their application problem is that they’re “not impressive enough.”
 
 Usually, the real issue is that their application doesn’t explain where they’re headed.
 

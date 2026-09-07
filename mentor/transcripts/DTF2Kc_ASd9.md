@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-15K likes, 12K comments - ultimateivyleagueguide on December 31, 2025: "Most students think summer internships are something you figure out in May.
+"Most students think summer internships are something you figure out in May.
 
 That’s already too late.
 

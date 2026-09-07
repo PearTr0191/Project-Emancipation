@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,118 likes, 16 comments - ultimateivyleagueguide on March 26, 2026: "As a Harvard Pre-Med student (who got Straight A’s in organic chemistry & high-level biology classes!!) here are my favorite science study tips! 🧬🥰🧪
+"As a Harvard Pre-Med student (who got Straight A’s in organic chemistry & high-level biology classes!!) here are my favorite science study tips! 🧬🥰🧪
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

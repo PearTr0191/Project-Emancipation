@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-558 likes, 143 comments - ultimateivyleagueguide on May 29, 2025: "Let me explain ⬇️
+"Let me explain ⬇️
 
 Most students think college apps are just about listing achievements.
 But what actually sets you apart is how you tell your story.

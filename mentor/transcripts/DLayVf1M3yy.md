@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,112 likes, 365 comments - ultimateivyleagueguide on June 22, 2025: "⬇️ Nothing hits like making your immigrant parents proud…
+"⬇️ Nothing hits like making your immigrant parents proud…
 
 not the test score
 not the college acceptance

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,452 likes, 131 comments - ultimateivyleagueguide on November 12, 2024: "I used to think studying hard was just about getting into a top school. But now, as a Harvard Pre-Med student & Forbes-recognized entrepreneur, I’ve realized it’s so much more than that. 
+"I used to think studying hard was just about getting into a top school. But now, as a Harvard Pre-Med student & Forbes-recognized entrepreneur, I’ve realized it’s so much more than that. 
 
 It’s about using your success to take care of the people who matter most — your family, your roots, your community.
 

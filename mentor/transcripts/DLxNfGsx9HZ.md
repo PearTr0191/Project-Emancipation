@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,565 likes, 5 comments - ultimateivyleagueguide on June 29, 2025: "My brutally honest review of Harvard…
+"My brutally honest review of Harvard…
 
 For me, success isn’t defined by a resume
 

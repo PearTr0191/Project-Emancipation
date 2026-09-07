@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,477 likes, 2,607 comments - ultimateivyleagueguide on June 6, 2026: "“How do I get an internship?”
+"“How do I get an internship?”
 
 Follow @ultimateivyleagueguide on Instagram to join the Top 1% of students 🧠
 

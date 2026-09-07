@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,580 likes, 450 comments - ultimateivyleagueguide on April 11, 2026: "Junior year is when most students accidentally lower their chances before applications even open….
+"Junior year is when most students accidentally lower their chances before applications even open….
 
 The GPA obsession is natural if you’re ambitious, but colleges aren’t comparing you to a 4.0 standard 😬
 

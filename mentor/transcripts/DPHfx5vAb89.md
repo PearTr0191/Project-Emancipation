@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,679 likes, 97 comments - ultimateivyleagueguide on September 27, 2025: "How I turned $0 into over $1,000,000 in financial aid and made college completely free ✅
+"How I turned $0 into over $1,000,000 in financial aid and made college completely free ✅
 
 Follow @ultimateivyleagueguide to get into your dream college! 
 

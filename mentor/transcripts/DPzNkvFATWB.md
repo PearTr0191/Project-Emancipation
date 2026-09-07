@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-9,339 likes, 1,523 comments - ultimateivyleagueguide on October 14, 2025: "Hate to break it to you…but you’re probably blending in 😬
+"Hate to break it to you…but you’re probably blending in 😬
 
 Here’s what to do to stand out ✅
 

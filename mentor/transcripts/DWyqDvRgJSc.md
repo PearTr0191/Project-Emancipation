@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,270 likes, 295 comments - ultimateivyleagueguide on April 6, 2026: "Episode 7 of The Ultimate College Blueprint: If I Got Rejected From My Dream School 📘".
+"Episode 7 of The Ultimate College Blueprint: If I Got Rejected From My Dream School 📘".
 
 ## Page meta
 

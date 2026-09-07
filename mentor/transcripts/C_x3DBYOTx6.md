@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,199 likes, 1,001 comments - ultimateivyleagueguide on September 11, 2024: "Read if you’re in *10TH GRADE* ⬇️
+"Read if you’re in *10TH GRADE* ⬇️
 
 As a Harvard student and Forbes-recognized college admissions counselor, I’m going to tell you the truth:
 

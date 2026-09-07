@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,237 likes, 3,680 comments - ultimateivyleagueguide on July 19, 2024: "Hi! My name is Elise. I’m a current Harvard student and recognized as one of the nation’s TOP college admission counselors by Forbes magazine and Microsoft. 
+"Hi! My name is Elise. I’m a current Harvard student and recognized as one of the nation’s TOP college admission counselors by Forbes magazine and Microsoft. 
 
 I’ve spent YEARS studying the college admissions process and I’ve developed a formula that has proven to work for THOUSANDS of students TIME AFTER TIME ✅
 

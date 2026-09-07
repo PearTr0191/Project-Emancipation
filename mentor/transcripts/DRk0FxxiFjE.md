@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,284 likes, 672 comments - ultimateivyleagueguide on November 27, 2025: "If I didn’t prepare early, I wouldn’t have been able to afford my dream schools…
+"If I didn’t prepare early, I wouldn’t have been able to afford my dream schools…
 
 Luckily, I’m now at Harvard & will graduate debt-free! ✅🎓
 

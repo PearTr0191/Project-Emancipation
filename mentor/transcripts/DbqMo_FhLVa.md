@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,973 likes, 3,124 comments - ultimateivyleagueguide on July 30, 2026: "The strongest applicants start one thing early and never let go of it 🎓
+"The strongest applicants start one thing early and never let go of it 🎓
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

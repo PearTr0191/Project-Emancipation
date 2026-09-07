@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,625 likes, 246 comments - ultimateivyleagueguide on December 31, 2025: "College admissions is changing faster than most students realize. 
+"College admissions is changing faster than most students realize. 
 
 What worked just a few years ago isn’t holding up in 2026.
 

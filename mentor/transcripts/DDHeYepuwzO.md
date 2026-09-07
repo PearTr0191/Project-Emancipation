@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,925 likes, 340 comments - ultimateivyleagueguide on December 3, 2024: "I’m Elise Pham — a 20-year-old Harvard pre-med student, Forbes-recognized entrepreneur, and founder of Ultimate Ivy League Guide. 
+"I’m Elise Pham — a 20-year-old Harvard pre-med student, Forbes-recognized entrepreneur, and founder of Ultimate Ivy League Guide. 
 
 This is probably the most vulnerable I’ve been on the internet, but my journey here wasn’t easy…
 

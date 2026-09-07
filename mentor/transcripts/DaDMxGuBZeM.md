@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,473 likes, 645 comments - ultimateivyleagueguide on June 22, 2026: "The Stanford study every college applicant should know! 💭
+"The Stanford study every college applicant should know! 💭
  
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

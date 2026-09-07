@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,695 likes, 2,051 comments - ultimateivyleagueguide on July 15, 2026: "The first line of your personal statement decides whether an admissions officer reads the rest ✍️
+"The first line of your personal statement decides whether an admissions officer reads the rest ✍️
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

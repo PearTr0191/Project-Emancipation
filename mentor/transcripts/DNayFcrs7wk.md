@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-22K likes, 7,027 comments - ultimateivyleagueguide on July 28, 2025: "This one decision can either 3x your odds of getting into a top school OR make you stuck at the wrong school for 4 years…choose wisely 😬
+"This one decision can either 3x your odds of getting into a top school OR make you stuck at the wrong school for 4 years…choose wisely 😬
 
 Follow @ultimateivyleagueguide to join the Top 1% of students 🧠
 

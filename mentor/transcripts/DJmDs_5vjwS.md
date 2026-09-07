@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,035 likes, 106 comments - ultimateivyleagueguide on May 3, 2025: "Most students have no idea what actually matters in college admissions ⬇️
+"Most students have no idea what actually matters in college admissions ⬇️
 
 So they waste years stressing over the wrong things.
 

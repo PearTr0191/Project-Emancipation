@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,778 likes, 694 comments - ultimateivyleagueguide on September 12, 2024: "Read if you’re a FRESHMAN ⬇️
+"Read if you’re a FRESHMAN ⬇️
 
 When I was a freshman in high school, I felt completely lost 🫠
 

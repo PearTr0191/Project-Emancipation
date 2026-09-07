@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,037 likes, 6 comments - ultimateivyleagueguide on September 28, 2025: "Most students think better grades = more study time.
+"Most students think better grades = more study time.
 But I got top exam scores by studying less.
 
 Here’s how I stopped overstudying and started outscoring everyone around me without pulling all-nighters or giving up my free time.

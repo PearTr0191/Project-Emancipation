@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,962 likes, 5,706 comments - ultimateivyleagueguide on November 18, 2025: "Be aware of the 9th Grade Visibility Gap 🚨
+"Be aware of the 9th Grade Visibility Gap 🚨
 
 Follow @ultimateivyleagueguide on Instagram to get into your dream school! ✅
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,027 likes, 89 comments - ultimateivyleagueguide on October 26, 2025: "T-3 days until Early Applications are due 😬⏰
+"T-3 days until Early Applications are due 😬⏰
 
 Follow @ultimateivyleagueguide to get into your dream college! ✅
 

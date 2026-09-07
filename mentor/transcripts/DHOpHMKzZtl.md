@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-620 likes, 100 comments - ultimateivyleagueguide on March 15, 2025: "Most students try to impress. Top applicants make admissions officers remember them.
+"Most students try to impress. Top applicants make admissions officers remember them.
 
 If your application feels like a list instead of a story, you’re doing it wrong.
 

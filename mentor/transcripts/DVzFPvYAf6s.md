@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,445 likes, 34 comments - ultimateivyleagueguide on March 12, 2026: "Master any math class by applying these 5 steps! 🤓🧮
+"Master any math class by applying these 5 steps! 🤓🧮
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

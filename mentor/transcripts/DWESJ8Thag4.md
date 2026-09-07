@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,536 likes, 1,494 comments - ultimateivyleagueguide on March 19, 2026: "How admission officers view 3 different types of students 📝🍎
+"How admission officers view 3 different types of students 📝🍎
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

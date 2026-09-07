@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,771 likes, 820 comments - ultimateivyleagueguide on May 3, 2025: "Starting high school can feel overwhelming ⬇️
+"Starting high school can feel overwhelming ⬇️
 
 Everyone talks about college, but no one tells you how to prepare. 
 

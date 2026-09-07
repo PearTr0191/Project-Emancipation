@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,620 likes, 72 comments - ultimateivyleagueguide on August 14, 2024: "I’M LEAVING HARVARD… here’s why ⬇️
+"I’M LEAVING HARVARD… here’s why ⬇️
 
 At the start of 2024, I set a goal: to make a meaningful impact on as many students as possible ⭐️
 

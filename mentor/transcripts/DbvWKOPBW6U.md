@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,192 likes, 179 comments - ultimateivyleagueguide on July 30, 2026: "Make sure to stay informed for college admissions! 💯
+"Make sure to stay informed for college admissions! 💯
 
 Comment STANDOUT for my full guide on building a standout application!
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-973 likes, 23 comments - ultimateivyleagueguide on April 15, 2025: "Colleges literally tell you what they care about most in admissions… but almost no one knows where to look ⬇️
+"Colleges literally tell you what they care about most in admissions… but almost no one knows where to look ⬇️
 
 I wasted hours stressing over things that didn’t even matter—until I found this resource that showed me exactly what top schools actually value
 

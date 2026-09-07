@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,410 likes, 129 comments - ultimateivyleagueguide on October 20, 2025: "The LATEST stats on how much it costs to live “comfortably” in the United States 🤯🏠
+"The LATEST stats on how much it costs to live “comfortably” in the United States 🤯🏠
 
 Follow @ultimateivyleagueguide for the newest college admissions updates! ✅
 

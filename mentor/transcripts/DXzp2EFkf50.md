@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,059 likes, 186 comments - ultimateivyleagueguide on May 1, 2026: "Beware these college admission myths! ❌🙅‍♀️
+"Beware these college admission myths! ❌🙅‍♀️
 
 Comment MYTH for my full guide going over common college admissions myths + tips on what to do instead! 🧠📚
 

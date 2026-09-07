@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,369 likes, 2,235 comments - ultimateivyleagueguide on March 6, 2026: "Here’s how to make sure your application is MEMORABLE in under 8 minutes! 🤗✅
+"Here’s how to make sure your application is MEMORABLE in under 8 minutes! 🤗✅
 
 #ultimateivyleagueguide #ultimatementor #uilg".
 

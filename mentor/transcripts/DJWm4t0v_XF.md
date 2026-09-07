@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-42K likes, 19K comments - ultimateivyleagueguide on May 3, 2025: "If your college essay starts with
+"If your college essay starts with
 “Ever since I was a child…”
 …it’s already forgettable.
 

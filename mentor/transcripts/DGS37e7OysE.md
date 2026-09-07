@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-938 likes, 460 comments - ultimateivyleagueguide on February 20, 2025: "Think a passion project alone will make you stand out in college applications?
+"Think a passion project alone will make you stand out in college applications?
 
 Here’s the truth: 
 

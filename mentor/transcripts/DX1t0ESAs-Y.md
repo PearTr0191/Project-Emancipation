@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,020 likes, 1,721 comments - ultimateivyleagueguide on May 2, 2026: "Are you an average or an accepted applicant? 🤔
+"Are you an average or an accepted applicant? 🤔
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

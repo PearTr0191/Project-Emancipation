@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,056 likes, 3,144 comments - ultimateivyleagueguide on August 29, 2024: "If you’re in 10th Grade and feeling overwhelmed by college app prep, you’re not alone. 
+"If you’re in 10th Grade and feeling overwhelmed by college app prep, you’re not alone. 
 
 The biggest mistake most students make is NOT STARTING EARLY. 🤯⚠️
 

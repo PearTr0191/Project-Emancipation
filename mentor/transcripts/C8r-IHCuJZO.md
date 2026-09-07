@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-8,236 likes, 4,116 comments - ultimateivyleagueguide on June 26, 2024: "Yes, it’s true. Your personal qualities and values are literally a category universities evaluate you on 😳
+"Yes, it’s true. Your personal qualities and values are literally a category universities evaluate you on 😳
 
 This means that if you don’t know how to convey your values CORRECTLY in your essays….well, start expecting yet another “We regret to inform you” decision🫠
 

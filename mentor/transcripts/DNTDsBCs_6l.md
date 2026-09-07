@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-12K likes, 10K comments - ultimateivyleagueguide on August 2, 2025: "Don’t make the mistake I did. Follow these 4 steps NOW.
+"Don’t make the mistake I did. Follow these 4 steps NOW.
 
 Follow @ultimateivyleagueguide to join the Top 1% 🧠
 

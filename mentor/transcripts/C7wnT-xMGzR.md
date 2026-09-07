@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,785 likes, 1,925 comments - ultimateivyleagueguide on June 3, 2024: "Comment “DSAT” and I’ll DM you my Top 5 tips to get a perfect score on the Digital SAT for free😉
+"Comment “DSAT” and I’ll DM you my Top 5 tips to get a perfect score on the Digital SAT for free😉
 
 #studygram #studymotivation #studytips #ivyleague #harvard #collegeapps #collegeapplications #studyhacks #digitalsat".
 

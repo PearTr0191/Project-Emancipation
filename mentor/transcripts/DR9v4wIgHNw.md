@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,508 likes, 528 comments - ultimateivyleagueguide on December 1, 2025: "There’s actually 2 TYPES of college interviews, and each one requires a different strategy 🗣️
+"There’s actually 2 TYPES of college interviews, and each one requires a different strategy 🗣️
 
 Make sure you & your friends are aware of how to approach each one! ✍️
 

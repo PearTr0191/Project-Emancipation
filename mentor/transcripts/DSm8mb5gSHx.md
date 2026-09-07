@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,043 likes, 1,172 comments - ultimateivyleagueguide on December 15, 2025: "I used to think grades were the most important part of college applications… now I know it has zero effect in differentiating top applicants. 
+"I used to think grades were the most important part of college applications… now I know it has zero effect in differentiating top applicants. 
 
 Perfect grades are out, the Narrative Method is in. 
 

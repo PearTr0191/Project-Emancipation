@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,360 likes, 185 comments - ultimateivyleagueguide on May 28, 2025: "I’m a Harvard pre-med student now
+"I’m a Harvard pre-med student now
 
 but the reason why started way before college apps ever opened…
 

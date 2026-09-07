@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-43K likes, 13K comments - ultimateivyleagueguide on August 25, 2024: "Read if you’re in HIGH SCHOOL ⬇️
+"Read if you’re in HIGH SCHOOL ⬇️
 
 When I was in high school, I felt completely lost 🫠 
 

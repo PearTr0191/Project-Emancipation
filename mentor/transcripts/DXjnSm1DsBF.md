@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,116 likes, 1,277 comments - ultimateivyleagueguide on April 25, 2026: "Where does your GPA make you competitive? 💯🧠
+"Where does your GPA make you competitive? 💯🧠
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

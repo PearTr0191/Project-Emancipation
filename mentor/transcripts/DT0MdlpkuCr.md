@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,224 likes, 559 comments - ultimateivyleagueguide on January 10, 2026: "Grind culture misunderstands how success actually works.".
+"Grind culture misunderstands how success actually works.".
 
 ## Page meta
 

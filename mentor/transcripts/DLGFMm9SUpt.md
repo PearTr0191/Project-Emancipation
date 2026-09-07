@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,115 likes, 1,166 comments - ultimateivyleagueguide on June 17, 2025: "As a Harvard student, I AVOID these 3 study habits…
+"As a Harvard student, I AVOID these 3 study habits…
 
 Instead I like to practice: 
 → Feynman Technique 

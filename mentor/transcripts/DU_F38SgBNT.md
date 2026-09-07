@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-73K likes, 2,160 comments - ultimateivyleagueguide on February 20, 2026: "Rating popular extracurriculars 🌟👇
+"Rating popular extracurriculars 🌟👇
 
 This is based on years of direct conversations with admissions officers, thousands of real application files I’ve analyzed, and repeated patterns I’ve seen while helping students earn spots at top universities.
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,983 likes, 2,459 comments - ultimateivyleagueguide on July 26, 2025: "Do these 3 steps the first week of school to ace all your classes this semester ✅🧠
+"Do these 3 steps the first week of school to ace all your classes this semester ✅🧠
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

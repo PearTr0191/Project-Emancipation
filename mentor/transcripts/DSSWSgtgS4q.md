@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,048 likes, 965 comments - ultimateivyleagueguide on December 5, 2025: "Your TikTok addiction is costing you more than just attention span 😬
+"Your TikTok addiction is costing you more than just attention span 😬
 
 #UltimateIvyLeagueGuide #UILG #UltimateMentor".
 

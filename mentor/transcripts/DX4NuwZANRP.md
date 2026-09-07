@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,664 likes, 233 comments - ultimateivyleagueguide on May 3, 2026: "May 4 is Day 1 of The Waitlist Movement 🚨
+"May 4 is Day 1 of The Waitlist Movement 🚨
 
 If you got waitlisted, follow these steps before May 14 ✅
 

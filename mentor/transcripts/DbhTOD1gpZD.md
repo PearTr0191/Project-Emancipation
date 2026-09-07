@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,982 likes, 1,032 comments - ultimateivyleagueguide on August 1, 2026: "🚨The Common App just opened!
+"🚨The Common App just opened!
 
 #ultiamteivyleagueguide #uilg #ultimatementor".
 

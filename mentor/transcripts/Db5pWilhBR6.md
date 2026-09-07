@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-703 likes, 103 comments - ultimateivyleagueguide on August 9, 2026: "Most students do the right things in the wrong order 🎓
+"Most students do the right things in the wrong order 🎓
 
 Here is the full four-year roadmap, jar by jar. Save this and start where you are.
 

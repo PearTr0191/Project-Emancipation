@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,826 likes, 1,349 comments - ultimateivyleagueguide on June 10, 2025: "don’t make the same mistake I did w/ college apps😅 hopefully this saves you all some time (and energy) 
+"don’t make the same mistake I did w/ college apps😅 hopefully this saves you all some time (and energy) 
 
 save this video & comment MENTOR for all my free college admission guides!
 

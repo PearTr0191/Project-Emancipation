@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,462 likes, 1,733 comments - ultimateivyleagueguide on November 1, 2025: "Straight As are NOT ENOUGH anymore to stand out to colleges 😬🚨
+"Straight As are NOT ENOUGH anymore to stand out to colleges 😬🚨
 
 Follow these steps to make sure you get into your dream school without having to worry about your GPA ✅
 

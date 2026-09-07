@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,149 likes, 1,417 comments - ultimateivyleagueguide on June 15, 2025: "⬇️ I wish someone told me this in middle school
+"⬇️ I wish someone told me this in middle school
 
 I didn’t get into Harvard because I was perfect or joined 15 clubs.
 

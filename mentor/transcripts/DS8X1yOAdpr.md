@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,609 likes, 50 comments - ultimateivyleagueguide on December 31, 2025: "claiming success all 2026.
+"claiming success all 2026.
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

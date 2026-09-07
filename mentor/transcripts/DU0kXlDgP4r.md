@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,612 likes, 3,832 comments - ultimateivyleagueguide on February 16, 2026: "Two students can take the same classes, join similar clubs, and earn similar grades…and still get very different admissions results.
+"Two students can take the same classes, join similar clubs, and earn similar grades…and still get very different admissions results.
 
 The difference often comes down to alignment.
 Colleges don’t just evaluate what you did, 

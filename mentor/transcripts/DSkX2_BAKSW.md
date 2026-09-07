@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-20K likes, 2,192 comments - ultimateivyleagueguide on December 14, 2025: "If you struggle with effective studying, it’s not your fault. It most likely means you were not taught the right approach to studying. 
+"If you struggle with effective studying, it’s not your fault. It most likely means you were not taught the right approach to studying. 
 
 Here’s the difference between each student:
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-10K likes, 445 comments - ultimateivyleagueguide on March 6, 2026: "At only 12 years old, Suborno Bari became the youngest student to attend NYU 🤯
+"At only 12 years old, Suborno Bari became the youngest student to attend NYU 🤯
 
 He scored a 1500 SAT at age 10, authored two books, and is now the world’s youngest professor…
 

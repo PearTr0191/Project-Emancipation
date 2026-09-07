@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-11K likes, 1,013 comments - ultimateivyleagueguide on June 25, 2026: "If you dislike your AP exam scores, follow these steps to make sure it doesn’t hurt your college apps ✅🏆
+"If you dislike your AP exam scores, follow these steps to make sure it doesn’t hurt your college apps ✅🏆
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

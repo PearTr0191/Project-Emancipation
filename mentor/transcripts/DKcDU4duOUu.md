@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,497 likes, 4,095 comments - ultimateivyleagueguide on June 3, 2025: "⬇️ I thought I was way too late to land something for the summer
+"⬇️ I thought I was way too late to land something for the summer
 
 I had no connections
 no perfect resume

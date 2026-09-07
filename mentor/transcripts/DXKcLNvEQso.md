@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-11K likes, 377 comments - ultimateivyleagueguide on April 15, 2026: "If you’re only looking at the Ivies, you’re missing out on many schools that are just as amazing 👀🎓
+"If you’re only looking at the Ivies, you’re missing out on many schools that are just as amazing 👀🎓
 
 Save this post and comment LIST for my full guide on how to build a high fit college list ✅🧠
 

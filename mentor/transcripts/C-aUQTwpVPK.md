@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,649 likes, 1,692 comments - ultimateivyleagueguide on August 8, 2024: "HOW I WROTE A SUCCESSFUL STANFORD ESSAY IN ONE HOUR⬇️
+"HOW I WROTE A SUCCESSFUL STANFORD ESSAY IN ONE HOUR⬇️
 
 Hi! I’m Elise, a current Harvard student and a Forbes-recognized college admissions counselor 👩🏻‍🎓
 

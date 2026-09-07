@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,443 likes, 2,501 comments - ultimateivyleagueguide on November 19, 2025: "How to create an Ivy League-level passion project in 11th Grade 🎨⚽️👩‍⚕️
+"How to create an Ivy League-level passion project in 11th Grade 🎨⚽️👩‍⚕️
 
 Follow @ultimateivyleagueguide on Instagram to get into your dream school 🌟
 

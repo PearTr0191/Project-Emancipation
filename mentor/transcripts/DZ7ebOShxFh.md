@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-14K likes, 4,195 comments - ultimateivyleagueguide on June 22, 2026: "If you’re a rising senior who hasn’t started your college essays yet 👇
+"If you’re a rising senior who hasn’t started your college essays yet 👇
 
 The students who end up at their dream schools usually start way earlier than most people realize.
 

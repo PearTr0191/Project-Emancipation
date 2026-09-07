@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,528 likes, 316 comments - ultimateivyleagueguide on March 1, 2026: "College essays are a LOT different than your typical high school essays…
+"College essays are a LOT different than your typical high school essays…
 
 They don’t have a 5-part structure, and you do not need a thesis and facts to back up your arguments. 
 

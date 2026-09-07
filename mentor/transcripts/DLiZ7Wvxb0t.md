@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,329 likes, 58 comments - ultimateivyleagueguide on June 30, 2025: "The student journey isn’t easy…
+"The student journey isn’t easy…
 
 But I’m here to support you every step of the way to achieve your goals ❤️
 

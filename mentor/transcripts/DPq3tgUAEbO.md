@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,363 likes, 520 comments - ultimateivyleagueguide on October 3, 2025: "🚨JUNIORS🚨 Avoid “prestige fatigue” by following these 3 steps!!! 
+"🚨JUNIORS🚨 Avoid “prestige fatigue” by following these 3 steps!!! 
 
 Follow @ultimateivyleagueguide on Instagram for the latest college admissions updates! ✅
 

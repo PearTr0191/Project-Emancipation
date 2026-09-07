@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,832 likes, 26 comments - ultimateivyleagueguide on October 3, 2024: "This is my story…⬇️
+"This is my story…⬇️
 
 My name is Elise. 
 

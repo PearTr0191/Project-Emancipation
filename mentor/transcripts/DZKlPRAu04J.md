@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,844 likes, 1,848 comments - ultimateivyleagueguide on June 4, 2026: "What extracurriculars should you do based on your academic interests? 🤔✅ 
+"What extracurriculars should you do based on your academic interests? 🤔✅ 
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

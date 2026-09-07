@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-21K likes, 35K comments - ultimateivyleagueguide on March 13, 2025: "Getting into an Ivy League as an international student is a whole different game.
+"Getting into an Ivy League as an international student is a whole different game.
 
 But when you know exactly what to do, you can win the admissions process.
 

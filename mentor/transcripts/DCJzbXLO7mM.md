@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,208 likes, 205 comments - ultimateivyleagueguide on November 9, 2024: "My name is Elise Pham I’m a current 4.0 GPA Harvard Pre-Med student & Forbes-recognized entrepreneur and college counselor👩‍🎓 
+"My name is Elise Pham I’m a current 4.0 GPA Harvard Pre-Med student & Forbes-recognized entrepreneur and college counselor👩‍🎓 
 
 In this video, I explain one of my core mindset principles I use to minimize stress 🧠
 

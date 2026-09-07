@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,501 likes, 732 comments - ultimateivyleagueguide on May 26, 2025: "i used to always say i’d start later…
+"i used to always say i’d start later…
 
 but the truth is… there’s always something.
 

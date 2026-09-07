@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,422 likes, 545 comments - ultimateivyleagueguide on November 19, 2025: "How Bailey got into Stanford in 4 HOURS using the Narrative Method 🤯✅
+"How Bailey got into Stanford in 4 HOURS using the Narrative Method 🤯✅
 
 Follow @ultimateivyleagueguide on Instagram to get into your dream school 🌟
 

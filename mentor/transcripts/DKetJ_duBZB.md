@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,081 likes, 113 comments - ultimateivyleagueguide on June 3, 2025: "Read if you want high grades ⬇️
+"Read if you want high grades ⬇️
 
 Every time I sat down to study, my phone ruined my focus 📱
 

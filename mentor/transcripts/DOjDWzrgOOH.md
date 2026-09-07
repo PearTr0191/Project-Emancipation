@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,380 likes, 74 comments - ultimateivyleagueguide on September 13, 2025: "⚠️SENIORS — Make sure you’re aware of these college application deadlines ⚠️
+"⚠️SENIORS — Make sure you’re aware of these college application deadlines ⚠️
 
 Follow @ultimateivyleagueguide to get into your dream college ✅
 

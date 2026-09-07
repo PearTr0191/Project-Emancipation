@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-924 likes, 212 comments - ultimateivyleagueguide on April 17, 2025: "They told us multitasking is the key to productivity.
+"They told us multitasking is the key to productivity.
 
 But here’s the truth: It’s not just unproductive—it’s damaging your brain. 🧠
 

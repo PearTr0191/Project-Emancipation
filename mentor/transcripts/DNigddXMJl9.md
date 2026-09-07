@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-14K likes, 5,511 comments - ultimateivyleagueguide on July 28, 2025: "The most USEFUL lesson I learned after 3 years at Harvard is that to get perfect grades
+"The most USEFUL lesson I learned after 3 years at Harvard is that to get perfect grades
 
 It doesn’t matter how much you study, it’s about WHEN you study…
 

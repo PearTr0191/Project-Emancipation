@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,679 likes, 547 comments - ultimateivyleagueguide on October 13, 2025: "Here’s EVERY important date you need to know to help your kid get into college 📆
+"Here’s EVERY important date you need to know to help your kid get into college 📆
 
 Day 3 of Mastering High School Parenting with Elise ✅
 

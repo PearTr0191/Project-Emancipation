@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,013 likes, 1,566 comments - ultimateivyleagueguide on March 1, 2026: "Waiting until senior year to start college apps can leave you rushing to finish a low-quality application. 
+"Waiting until senior year to start college apps can leave you rushing to finish a low-quality application. 
 
 The most successful Ivy League applications I’ve read were prepared months, or even years, in advance.
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-149K likes, 232 comments - ultimateivyleagueguide on July 3, 2025: "I used to chase friendships that felt one-sided…constantly giving, hoping they’d give back. 
+"I used to chase friendships that felt one-sided…constantly giving, hoping they’d give back. 
 
 But the peace came when I surrounded myself with people who poured into me the way I pour into them…
 

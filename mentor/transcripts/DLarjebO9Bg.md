@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,852 likes, 28 comments - ultimateivyleagueguide on June 26, 2025: "As a Harvard Pre-Med student, I fuel my study sessions with these brain-boosting foods! 🥦🍊🍵
+"As a Harvard Pre-Med student, I fuel my study sessions with these brain-boosting foods! 🥦🍊🍵
 
 My challenge to you: begin incorporating at least 3 of these into your daily meals! Let me know which ones are your favorite:)
 

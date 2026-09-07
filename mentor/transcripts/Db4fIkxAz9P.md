@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,506 likes, 744 comments - ultimateivyleagueguide on August 10, 2026: "What actually matters for college admissions? 🤔 
+"What actually matters for college admissions? 🤔 
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

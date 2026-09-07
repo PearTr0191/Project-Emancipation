@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,324 likes, 609 comments - ultimateivyleagueguide on June 6, 2026: "Do you know your PIP? 🤔
+"Do you know your PIP? 🤔
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

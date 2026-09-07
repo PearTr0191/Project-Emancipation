@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,143 likes, 338 comments - ultimateivyleagueguide on May 31, 2026: "You make a first impression to your interviewer within the first 30 seconds…
+"You make a first impression to your interviewer within the first 30 seconds…
 
 Body language and facial expressions play a HUGE role in their judgement of whether you have what it takes.
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,274 likes, 2,285 comments - ultimateivyleagueguide on March 25, 2026: "Episode 2 of The Ultimate College Blueprint: If I Had No Awards 📘".
+"Episode 2 of The Ultimate College Blueprint: If I Had No Awards 📘".
 
 ## Page meta
 

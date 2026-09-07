@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,076 likes, 1,771 comments - ultimateivyleagueguide on June 18, 2025: "It’s impossible for you to not get a 1500+ if you use these 3 SAT strategies 🤝📘
+"It’s impossible for you to not get a 1500+ if you use these 3 SAT strategies 🤝📘
 
 #ultimateivyleagueguide #uilg #ultimatementor #sat #digitalsat".
 

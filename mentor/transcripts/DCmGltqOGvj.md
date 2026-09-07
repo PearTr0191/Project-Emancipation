@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,365 likes, 290 comments - ultimateivyleagueguide on November 20, 2024: "THE TRUTH ABOUT COLLEGE ADMISSIONS ⬇️
+"THE TRUTH ABOUT COLLEGE ADMISSIONS ⬇️
 
 It’s unfair. 
 

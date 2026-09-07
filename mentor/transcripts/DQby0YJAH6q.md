@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,541 likes, 8 comments - ultimateivyleagueguide on October 10, 2025: "International students are getting SCAMMED by fake schools 🚨 Here’s what you need to know! 
+"International students are getting SCAMMED by fake schools 🚨 Here’s what you need to know! 
 
 Follow @ultimateivyleagueguide on Instagram to get into your dream school ✅
 

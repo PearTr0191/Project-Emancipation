@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-11K likes, 3,524 comments - ultimateivyleagueguide on June 24, 2025: "I don’t take Ls so I had to turn that 1240 into a 1580 😘 
+"I don’t take Ls so I had to turn that 1240 into a 1580 😘 
 
 But tbh, I was not a good test taker…I remember when I kept plateauing every single practice exam
 

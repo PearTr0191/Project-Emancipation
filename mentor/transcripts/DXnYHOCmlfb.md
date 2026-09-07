@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,055 likes, 820 comments - ultimateivyleagueguide on April 26, 2026: "AP Human Geography is on Tuesday, May 5, 2026, at 8AM local time 🗺️
+"AP Human Geography is on Tuesday, May 5, 2026, at 8AM local time 🗺️
 
 Save and follow for more resources 🧠
 

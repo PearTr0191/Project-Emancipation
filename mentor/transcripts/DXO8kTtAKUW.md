@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,621 likes, 357 comments - ultimateivyleagueguide on April 17, 2026: "Ranking Parts of College Apps 🤓👇
+"Ranking Parts of College Apps 🤓👇
 
 The thing most students get wrong is they spend months stressing over the B and C tier stuff while completely ignoring the S tier.
 

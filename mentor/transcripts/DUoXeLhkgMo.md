@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,031 likes, 971 comments - ultimateivyleagueguide on February 11, 2026: "Nobody loves school at 2PM.
+"Nobody loves school at 2PM.
 
 Not the accepted student or the rejected student.
 

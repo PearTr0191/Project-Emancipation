@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,166 likes, 1,416 comments - ultimateivyleagueguide on October 19, 2025: "The Echo Technique that increased my SAT score by 200 points 🔊
+"The Echo Technique that increased my SAT score by 200 points 🔊
 
 Follow @ultimateivyleagueguide on Instagram to get into your dream school ✅
 

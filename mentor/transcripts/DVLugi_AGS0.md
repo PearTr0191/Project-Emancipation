@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-12K likes, 8,282 comments - ultimateivyleagueguide on February 25, 2026: "Steal this template for your extracurricular profile! ✅
+"Steal this template for your extracurricular profile! ✅
 
 Of course, your resume does not need to match this directly because each student’s activities list is unique to their own interests and time availability!
 

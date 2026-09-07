@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,942 likes, 248 comments - ultimateivyleagueguide on July 15, 2026: "Summer is the only stretch before applications where you control all of your own time 😴
+"Summer is the only stretch before applications where you control all of your own time 😴
 
 How you spend the next month decides how far ahead you start in September…
 

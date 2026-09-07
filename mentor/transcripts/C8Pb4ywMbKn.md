@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-12K likes, 1,345 comments - ultimateivyleagueguide on June 15, 2024: "Read ONLY IF you want to AVOID THE MOST COMMON MISTAKE high school students make⬇️
+"Read ONLY IF you want to AVOID THE MOST COMMON MISTAKE high school students make⬇️
 
 If you’re focusing solely on grades and essays for college applications, you’re missing a crucial piece that’s the key to your dream school…🫠🔑
 

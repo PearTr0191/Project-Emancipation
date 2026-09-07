@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,235 likes, 1,642 comments - ultimateivyleagueguide on June 23, 2026: "These three applications received three different decisions from Stanford! 🌲
+"These three applications received three different decisions from Stanford! 🌲
  
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

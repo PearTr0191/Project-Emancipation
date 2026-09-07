@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,196 likes, 165 comments - ultimateivyleagueguide on May 30, 2026: "Know these differences before starting your college applications! 🧠✅
+"Know these differences before starting your college applications! 🧠✅
 
 Comment PASS for my full guide going over how to make sure your application is memorable to admissions officers! 📝📚
 

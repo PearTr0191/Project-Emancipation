@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,985 likes, 71 comments - ultimateivyleagueguide on March 10, 2026: "A conversation with my past self ❤️
+"A conversation with my past self ❤️
 
 Comment MENTOR for all my free college admissions guides + courses! 🥰🎓 
 

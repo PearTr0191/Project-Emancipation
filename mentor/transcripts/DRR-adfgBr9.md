@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,467 likes, 508 comments - ultimateivyleagueguide on November 14, 2025: "Most high school students think applying Early Decision gives you an advantage…
+"Most high school students think applying Early Decision gives you an advantage…
 
 But it can actually LOWER your chances if you don’t check 3 things first 🚨🫣
 

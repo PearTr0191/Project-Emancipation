@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,459 likes, 565 comments - ultimateivyleagueguide on April 2, 2025: "Sophomore year can make or break your college application ⬇️
+"Sophomore year can make or break your college application ⬇️
 
 When I was in 10th grade, I thought doing everything would impress colleges—
 

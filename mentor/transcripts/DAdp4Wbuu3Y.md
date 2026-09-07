@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-23K likes, 15K comments - ultimateivyleagueguide on September 28, 2024: "READ IF YOU’RE IN HIGH SCHOOL ⬇️
+"READ IF YOU’RE IN HIGH SCHOOL ⬇️
 
 When I was 15, I knew I was ambitious. 
 

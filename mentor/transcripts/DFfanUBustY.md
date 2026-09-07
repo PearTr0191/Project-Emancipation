@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,038 likes, 254 comments - ultimateivyleagueguide on January 31, 2025: "They told us multitasking is the key to productivity…
+"They told us multitasking is the key to productivity…
 
 But here’s the truth: 
 

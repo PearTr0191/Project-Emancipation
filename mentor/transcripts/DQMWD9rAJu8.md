@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,736 likes, 1,360 comments - ultimateivyleagueguide on October 24, 2025: "How to Help Your Kids Grow & Develop Passions 🌱
+"How to Help Your Kids Grow & Develop Passions 🌱
 
 Day 8 of Mastering High School Parenting with Elise ✅
 

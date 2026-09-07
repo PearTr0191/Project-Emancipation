@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-19K likes, 3,090 comments - ultimateivyleagueguide on December 30, 2025: "Winter is PEAK season for summer program applications!
+"Winter is PEAK season for summer program applications!
 
 Don’t be the student that says “I’ll apply next month” and then miss deadlines for the best programs 😬⏰
 

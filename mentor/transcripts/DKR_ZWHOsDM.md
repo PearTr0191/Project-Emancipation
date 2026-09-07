@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-951 likes, 353 comments - ultimateivyleagueguide on May 30, 2025: "“It’s test optional, so I don’t need the SAT… right?”
+"“It’s test optional, so I don’t need the SAT… right?”
 
 not exactly.
 

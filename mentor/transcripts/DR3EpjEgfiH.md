@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,571 likes, 83 comments - ultimateivyleagueguide on December 4, 2025: "Breaking down Common App’s Fraud Policy
+"Breaking down Common App’s Fraud Policy
 
 I’m super thankful we’ve been able to clarify these statements and ensure this information is shared in a way that minimizes misinterpretation 💙
 

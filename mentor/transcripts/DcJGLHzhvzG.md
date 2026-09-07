@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,418 likes, 419 comments - ultimateivyleagueguide on August 12, 2026: "If you’re building your activities list for top schools, here’s what most students get wrong 👇
+"If you’re building your activities list for top schools, here’s what most students get wrong 👇
 
 Three students applied to Princeton with perfect 4.0 GPAs and 1550-plus SATs.
 

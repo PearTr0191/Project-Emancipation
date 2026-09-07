@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,481 likes, 1,687 comments - ultimateivyleagueguide on December 21, 2025: "Ivy League acceptance rates are already LOW….
+"Ivy League acceptance rates are already LOW….
 
 But for the typical applicant, they’re even LOWER😭
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,595 likes, 388 comments - ultimateivyleagueguide on July 27, 2026: "“Why Yale?” 🤔
+"“Why Yale?” 🤔
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

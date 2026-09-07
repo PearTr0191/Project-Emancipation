@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,266 likes, 18 comments - ultimateivyleagueguide on January 10, 2026: "Your watch history tells colleges who you are…
+"Your watch history tells colleges who you are…
 
 Here’s how to control it ✅👩‍💻
 

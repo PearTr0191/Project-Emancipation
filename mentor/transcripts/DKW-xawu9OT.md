@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,458 likes, 123 comments - ultimateivyleagueguide on May 28, 2025: "lately i’ve been thinking less about what looks good
+"lately i’ve been thinking less about what looks good
 and more about the kind of life i actually want to build.
 
 not just college apps…

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-826 likes, 854 comments - ultimateivyleagueguide on October 24, 2025: "If you’re in 10th or 11th grade, here’s the blueprint to follow to get a YES from every Ivy League ✅📘
+"If you’re in 10th or 11th grade, here’s the blueprint to follow to get a YES from every Ivy League ✅📘
 
 Follow @ultimateivyleagueguide on Instagram to get into your dream school 🌟
 

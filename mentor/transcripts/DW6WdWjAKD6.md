@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,216 likes, 1,077 comments - ultimateivyleagueguide on April 9, 2026: "Never say these phrases in college essays".
+"Never say these phrases in college essays".
 
 ## Page meta
 

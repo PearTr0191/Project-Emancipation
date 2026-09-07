@@ -30,3 +30,14 @@ Topics covered across 2023 posts: active recall, exam prep, memorization techniq
 - **MERIT Act**: reintroduced in the Senate late July 2026; would stop accreditors from weighing race-related factors (captured in recent-cycle carousel DcRdrxWmLAM — see batch-2 knowledge integration for context). Relevant to affirmative-action-adjacent planning; monitor status rather than treating as law.
 
 Sources: DIBoicsMYY3, C82DnKrM_Lm, DLm6QZ5h1UJ, DJ_zrMtsMZM, DK3FjmGShqM, DCzLzGMv6Kc, C_IyP02uTTV, DLC3HBqMQpC, DLU38sUxwF5.
+
+---
+
+## Distilled items (2026-09-05 batch)
+
+### Dby5OqVvJCl [essays, school_list, testing]
+
+I'm going to read the beginning of my Common App essay, which I've never shared before. | But this essay got me into 20 out of 26 schools, including Harvard, Stanford, and four other | IE's. | a strategy there which I can explain if you guys want to hear. | Bye guys, love you so much. (Audio STT: 24 segments (faster-whisper medium))
+### DcvqmIKicfD [school_list, activities, recommendations]
+
+Stanford | "Cold, hard marble pressed against my paint-splattered legs as I | PRINCETON | Penn (OCR: 96 text fragments)

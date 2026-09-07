@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,512 likes, 267 comments - ultimateivyleagueguide on October 8, 2025: "The A-Z blueprint on how to be the best parent possible for your future college graduate 📃
+"The A-Z blueprint on how to be the best parent possible for your future college graduate 📃
 
 Day 1 of Mastering High School Parenting with Elise ✅
 

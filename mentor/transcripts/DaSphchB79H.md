@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-734 likes, 101 comments - ultimateivyleagueguide on June 25, 2026: "Going into senior year, the habits you build right now decide how the whole fall goes 📚
+"Going into senior year, the habits you build right now decide how the whole fall goes 📚
 
 Comment SENIOR and I’ll send you my senior year game plan for college apps!
 

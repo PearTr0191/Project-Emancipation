@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,884 likes, 5,558 comments - ultimateivyleagueguide on June 11, 2025: "If you think you can’t transform your entire academic future in just 22 days…
+"If you think you can’t transform your entire academic future in just 22 days…
 
 Bailey is an example that you can. 
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,939 likes, 1,514 comments - ultimateivyleagueguide on January 18, 2026: "“Signal Week” starts in 2 days…do NOT be the student who’s not ready 🚨
+"“Signal Week” starts in 2 days…do NOT be the student who’s not ready 🚨
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

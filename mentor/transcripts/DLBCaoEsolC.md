@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,508 likes, 1,716 comments - ultimateivyleagueguide on June 16, 2025: "This might be the biggest shift in college admissions we’ve seen in years ⬇️
+"This might be the biggest shift in college admissions we’ve seen in years ⬇️
 
 And almost no one is talking about it.
 

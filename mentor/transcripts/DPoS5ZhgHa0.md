@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,566 likes, 1,184 comments - ultimateivyleagueguide on October 10, 2025: "What Harvard, Yale, and Stanford looks for in your kids & how to help them meet these standards 🌟
+"What Harvard, Yale, and Stanford looks for in your kids & how to help them meet these standards 🌟
 
 Day 2 of Mastering High School Parenting with Elise ✅
 

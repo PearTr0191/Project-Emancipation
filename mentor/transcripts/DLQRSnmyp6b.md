@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,955 likes, 341 comments - ultimateivyleagueguide on June 23, 2025: "use these and you’ll join the 1% of top students…
+"use these and you’ll join the 1% of top students…
 
 I’ve helped thousands of students take control of their academic journey — studying, college apps, unlocking their success. 
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,996 likes, 6 comments - ultimateivyleagueguide on November 4, 2025: "Midterm season is currently in full swing 🥴🍵".
+"Midterm season is currently in full swing 🥴🍵".
 
 ## Page meta
 

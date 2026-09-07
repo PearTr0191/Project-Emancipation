@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,545 likes, 868 comments - ultimateivyleagueguide on March 13, 2026: "Are these on your to-do list for March? ✍️✅
+"Are these on your to-do list for March? ✍️✅
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

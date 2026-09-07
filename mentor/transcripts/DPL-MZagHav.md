@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,345 likes, 2,232 comments - ultimateivyleagueguide on September 28, 2025: "International students — make sure to follow this Dual Impact Framework 🫡
+"International students — make sure to follow this Dual Impact Framework 🫡
 
 Follow @ultimateivyleagueguide on Instagram to get into your dream college! 🎓
 

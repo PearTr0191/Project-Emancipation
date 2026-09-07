@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,527 likes, 517 comments - ultimateivyleagueguide on April 29, 2026: "It’s time to upgrade the tools you use ✅🧠
+"It’s time to upgrade the tools you use ✅🧠
 
 Follow & comment MENTOR for all my free college admissions guides! 
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,176 likes, 1,215 comments - ultimateivyleagueguide on July 10, 2026: "Admissions officers spend seconds on each line of your activities list 📝
+"Admissions officers spend seconds on each line of your activities list 📝
 
 Save this before college apps open on August 1! 
 

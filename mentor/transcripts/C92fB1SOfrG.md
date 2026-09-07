@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,159 likes, 796 comments - ultimateivyleagueguide on July 25, 2024: "How You’ll Be Evaluated During Your College Interview👀⬇️
+"How You’ll Be Evaluated During Your College Interview👀⬇️
 
 Interviews can be a make-or-break part of the admissions process, ESPECIALLY for Ivy League schools. 🎓
 

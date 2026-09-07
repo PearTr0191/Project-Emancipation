@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,856 likes, 2,857 comments - ultimateivyleagueguide on March 11, 2025: "At 16, I had no connections and zero experience…
+"At 16, I had no connections and zero experience…
 
 But I still landed internships that changed the game.
 

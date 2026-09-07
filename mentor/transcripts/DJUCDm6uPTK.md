@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,747 likes, 668 comments - ultimateivyleagueguide on May 3, 2025: "It’s wild how one tiny mistake can cost you your dream school ⬇️
+"It’s wild how one tiny mistake can cost you your dream school ⬇️
 
 Not because admissions officers are “out to get you.”
 But because when everyone has the grades, the bar shifts.

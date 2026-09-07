@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,801 likes, 1,571 comments - ultimateivyleagueguide on June 2, 2025: "Make sure to remember this ⬇️
+"Make sure to remember this ⬇️
 
 you don’t need to be the smartest person in the room.
 you just need to be the one they remember.

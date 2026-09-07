@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,006 likes, 468 comments - ultimateivyleagueguide on May 28, 2025: "I used to stare at a blank doc for hours
+"I used to stare at a blank doc for hours
 thinking I had nothing meaningful to say
 
 but the truth is — it wasn’t about the story itself

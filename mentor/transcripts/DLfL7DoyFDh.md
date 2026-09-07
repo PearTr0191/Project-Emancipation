@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,519 likes, 1,649 comments - ultimateivyleagueguide on June 26, 2025: "In highschool, I thought overstudying an extra 5 hours for an exam was productive…
+"In highschool, I thought overstudying an extra 5 hours for an exam was productive…
 
 But it was actually hurting my college chances. 
 

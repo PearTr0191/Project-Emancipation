@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,541 likes, 868 comments - ultimateivyleagueguide on March 23, 2026: "Episode 1 of The Ultimate College Blueprint: If I Had a Low GPA 📘".
+"Episode 1 of The Ultimate College Blueprint: If I Had a Low GPA 📘".
 
 ## Page meta
 

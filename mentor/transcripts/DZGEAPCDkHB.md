@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,662 likes, 395 comments - ultimateivyleagueguide on June 2, 2026: "Make sure to stay ahead by knowing everything about college applications! 🤓📝
+"Make sure to stay ahead by knowing everything about college applications! 🤓📝
 
 Comment PLAN for my full guide going over how to plan high school courses and extracurriculars! ✅🧠
 

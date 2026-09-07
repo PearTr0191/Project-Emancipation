@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,433 likes, 141 comments - ultimateivyleagueguide on March 23, 2026: "Juniors…college app season is starting in less than 3 months and if you’re unsure what to do…
+"Juniors…college app season is starting in less than 3 months and if you’re unsure what to do…
 
 Do not worry! 🙌
 

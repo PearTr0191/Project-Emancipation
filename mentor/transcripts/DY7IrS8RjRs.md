@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,851 likes, 1,037 comments - ultimateivyleagueguide on May 29, 2026: "Here’s how I secured internships at Microsoft, Google, Harvard Medical School, and more! ✅👩‍💻
+"Here’s how I secured internships at Microsoft, Google, Harvard Medical School, and more! ✅👩‍💻
 
 #ultimatementor #uilg #ultimateivyleagueguide".
 

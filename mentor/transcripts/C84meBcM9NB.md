@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-37K likes, 20K comments - ultimateivyleagueguide on July 1, 2024: "How CollegeBoard designs their SAT Questions ⬇️
+"How CollegeBoard designs their SAT Questions ⬇️
 
 ❌ STOP wasting time on ineffective study methods!
 

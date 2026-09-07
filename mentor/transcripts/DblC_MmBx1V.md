@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-599 likes, 115 comments - ultimateivyleagueguide on July 30, 2026: "Does this sound a bit like your situation? 😅
+"Does this sound a bit like your situation? 😅
 
 Here’s the advice I’d give! 
 

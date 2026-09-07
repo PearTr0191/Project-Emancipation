@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-15K likes, 6,613 comments - ultimateivyleagueguide on January 5, 2026: "Whether you have past experience or not, winter is PEAK season for summer program apps.
+"Whether you have past experience or not, winter is PEAK season for summer program apps.
 
 Every year I see students say “I’ll apply next month”… and then realize the best programs already closed 😬⏰
 

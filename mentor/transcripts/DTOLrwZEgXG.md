@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,867 likes, 182 comments - ultimateivyleagueguide on January 7, 2026: "Most students spend all of high school stressing about the wrong things..
+"Most students spend all of high school stressing about the wrong things..
 
 Acceptance rates.
 Other applicants. 

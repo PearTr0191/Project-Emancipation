@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,381 likes, 1,002 comments - ultimateivyleagueguide on March 4, 2026: "Here’s what top colleges want for extracurriculars 👇
+"Here’s what top colleges want for extracurriculars 👇
 
 1. Focus & commitment
 2. Leadership & impact

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,335 likes, 2,963 comments - ultimateivyleagueguide on April 12, 2026: "Remember these rules for your upcoming SAT exam! 🧠💯
+"Remember these rules for your upcoming SAT exam! 🧠💯
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

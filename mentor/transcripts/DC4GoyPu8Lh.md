@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,434 likes, 269 comments - ultimateivyleagueguide on November 27, 2024: "HOW TO CORRECTLY SHOW “INTELLECTUAL CURIOSITY” ON YOUR COLLEGE APPLICATION ⬇️ 
+"HOW TO CORRECTLY SHOW “INTELLECTUAL CURIOSITY” ON YOUR COLLEGE APPLICATION ⬇️ 
 
 Everyone always talks about how important “intellectual curiosity” is for getting into Ivy Leagues but no one reveals how to demonstrate it. 
 

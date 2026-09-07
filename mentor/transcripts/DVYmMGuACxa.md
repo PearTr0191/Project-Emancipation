@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,118 likes, 1,311 comments - ultimateivyleagueguide on March 2, 2026: "Have you heard of The Purple Cow method? 🐮
+"Have you heard of The Purple Cow method? 🐮
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

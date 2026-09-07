@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,827 likes, 74 comments - ultimateivyleagueguide on March 16, 2026: "If you’re currently procrastinating by scrolling through Instagram, here’s how to stop 🧠😬
+"If you’re currently procrastinating by scrolling through Instagram, here’s how to stop 🧠😬
 
 #uilg #ultimateivyleagueguide #ultimatementor".
 

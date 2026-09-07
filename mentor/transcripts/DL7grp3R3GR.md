@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,670 likes, 954 comments - ultimateivyleagueguide on June 30, 2025: "This is the one question that makes or breaks interviews…and winning candidates strategize. 
+"This is the one question that makes or breaks interviews…and winning candidates strategize. 
 
 As a current Harvard student who works in the admissions space, I realized that this question matters WAY more than you think:
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,774 likes, 256 comments - ultimateivyleagueguide on June 22, 2025: "I call it the drain and train technique 👍
+"I call it the drain and train technique 👍
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

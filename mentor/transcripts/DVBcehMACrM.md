@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-21K likes, 5,601 comments - ultimateivyleagueguide on February 21, 2026: "These 3 hook techniques have consistently shown up in successful Ivy League essays…
+"These 3 hook techniques have consistently shown up in successful Ivy League essays…
 
 Make sure you know them ✅
 

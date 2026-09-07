@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-945 likes, 306 comments - ultimateivyleagueguide on August 9, 2026: "Most students collect a dozen random activities and wonder why it does not work 🎓 
+"Most students collect a dozen random activities and wonder why it does not work 🎓 
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-33K likes, 5,413 comments - ultimateivyleagueguide on September 10, 2025: "“How do I MAXIMIZE my scholarships and financial aid for college?” 💰
+"“How do I MAXIMIZE my scholarships and financial aid for college?” 💰
 
 Day 8 of 14 of Preparing for College Applications with Elise 🎓
 

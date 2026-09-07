@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-13K likes, 962 comments - ultimateivyleagueguide on July 4, 2025: "Congress just passed Trump’s “Big, Beautiful Bill,” which includes the following:
+"Congress just passed Trump’s “Big, Beautiful Bill,” which includes the following:
 
 - Student undergrad loans capped at $50,000 total (previously could borrow more annually)
 - Must take 15+ credit hours/semester for Pell Grants → disqualifies many part-time, working, and parenting students

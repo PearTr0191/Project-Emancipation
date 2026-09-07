@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,732 likes, 1,710 comments - ultimateivyleagueguide on October 19, 2025: "The note-taking method that got me a 4.0 GPA at Harvard 📝
+"The note-taking method that got me a 4.0 GPA at Harvard 📝
 
 Follow @ultimateivyleagueguide on Instagram to get into your dream school ✅
 

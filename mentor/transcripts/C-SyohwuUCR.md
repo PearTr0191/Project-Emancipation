@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,158 likes, 2,277 comments - ultimateivyleagueguide on August 5, 2024: "The TOP-SECRET Strategy to ACE Your College Interview🤫⬇️
+"The TOP-SECRET Strategy to ACE Your College Interview🤫⬇️
 
 Interviews can be a make-or-break part of the admissions process, ESPECIALLY for Ivy League schools. 🎓
 

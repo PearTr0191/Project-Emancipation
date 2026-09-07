@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-43K likes, 2,714 comments - ultimateivyleagueguide on May 19, 2026: "Top colleges view student awards on different tiers…not all are equal🏆🎓 
+"Top colleges view student awards on different tiers…not all are equal🏆🎓 
 
 The honor that gets you a school certificate is rarely the same one that wins an admissions reader’s attention. 
 

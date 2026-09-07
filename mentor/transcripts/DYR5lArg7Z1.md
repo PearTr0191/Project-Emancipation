@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,117 likes, 474 comments - ultimateivyleagueguide on May 13, 2026: "You can have a national award and still get rejected from Harvard 😬 
+"You can have a national award and still get rejected from Harvard 😬 
 
 Admissions officers at top schools are scoring every single extracurricular on two specific questions, and most students don’t even know they’re being asked. 
 

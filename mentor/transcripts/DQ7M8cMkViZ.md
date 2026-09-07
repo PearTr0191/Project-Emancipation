@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,394 likes, 672 comments - ultimateivyleagueguide on November 11, 2025: "College is getting MORE EXPENSIVE than ever 😭
+"College is getting MORE EXPENSIVE than ever 😭
 
 Here’s how to make sure you don’t graduate with debt ❌📉
 

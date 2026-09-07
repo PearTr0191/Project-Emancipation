@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,022 likes, 1,887 comments - ultimateivyleagueguide on March 25, 2025: "If you’re an international student dreaming of getting into a top U.S. college—read this carefully ⬇️
+"If you’re an international student dreaming of getting into a top U.S. college—read this carefully ⬇️
 
 I’ve worked with students across Asia, Europe, the Middle East, South America—
 

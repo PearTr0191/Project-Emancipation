@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-29K likes, 2,964 comments - ultimateivyleagueguide on March 10, 2026: "Accepted vs. Rejected Essay Hooks for Harvard, MIT, and Cornell 📝 
+"Accepted vs. Rejected Essay Hooks for Harvard, MIT, and Cornell 📝 
 
 Save and follow for more college admissions tips! ✅".
 

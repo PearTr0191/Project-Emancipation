@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,593 likes, 4,334 comments - ultimateivyleagueguide on July 26, 2026: "When should you start college apps? 💭 
+"When should you start college apps? 💭 
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,573 likes, 1,314 comments - ultimateivyleagueguide on January 20, 2026: "After getting zero Ivy League rejections, here’s what I wish I knew at 14. 
+"After getting zero Ivy League rejections, here’s what I wish I knew at 14. 
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

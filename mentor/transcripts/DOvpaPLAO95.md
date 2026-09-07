@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,809 likes, 823 comments - ultimateivyleagueguide on September 18, 2025: "The 20/5 Rule that got me into Harvard 🤯
+"The 20/5 Rule that got me into Harvard 🤯
 
 Follow @ultimateivyleagueguide to join of the Top 1% of students🧠
 

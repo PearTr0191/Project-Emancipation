@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-31K likes, 11K comments - ultimateivyleagueguide on October 10, 2025: "This is THE middle school checklist to get into your dream college without worrying about GPA 📕
+"This is THE middle school checklist to get into your dream college without worrying about GPA 📕
 
 Follow @ultimateivyleagueguide on Instagram to get into your dream school ✅
 

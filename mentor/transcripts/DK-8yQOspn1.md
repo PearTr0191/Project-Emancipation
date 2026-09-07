@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-10K likes, 48 comments - ultimateivyleagueguide on June 16, 2025: "Here’s the one morning habit I AVOID as a Harvard Pre-Med student
+"Here’s the one morning habit I AVOID as a Harvard Pre-Med student
 
 If you’re doing this…you could be setting your brain up for failure 🧠 
 

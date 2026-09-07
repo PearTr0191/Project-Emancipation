@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,053 likes, 473 comments - ultimateivyleagueguide on June 21, 2026: "Financial freedom, scholarships, & paying for college (without stressing!) 💰👩‍🎓
+"Financial freedom, scholarships, & paying for college (without stressing!) 💰👩‍🎓
 
 Follow @ultimateivyleagueguide to join the Top 1% 🧠
 

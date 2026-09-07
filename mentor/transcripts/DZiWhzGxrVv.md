@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,636 likes, 4,746 comments - ultimateivyleagueguide on June 13, 2026: "Getting good grades isn’t enough.
+"Getting good grades isn’t enough.
 
 Having a 1600 SAT isn’t enough.
 

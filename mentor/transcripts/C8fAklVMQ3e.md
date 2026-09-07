@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-29K likes, 7,888 comments - ultimateivyleagueguide on June 21, 2024: "WHY you’re going to get REJECTED because you care WAY TOO MUCH about grades⬇️
+"WHY you’re going to get REJECTED because you care WAY TOO MUCH about grades⬇️
 
 So you have a good GPA, test scores, an impressive resume…but you still feel nervous about college apps.
 

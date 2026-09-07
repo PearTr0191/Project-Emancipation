@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,504 likes, 1,349 comments - ultimateivyleagueguide on February 9, 2026: "An essay about STEAK secured Bentley $320,000 and an acceptance to Dartmouth 🥩💰
+"An essay about STEAK secured Bentley $320,000 and an acceptance to Dartmouth 🥩💰
 
 Here’s how he did it…
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-25K likes, 10K comments - ultimateivyleagueguide on February 5, 2025: "Jumping from a 1270 to a 1580 on the SAT in just one month sounds impossible, right?
+"Jumping from a 1270 to a 1580 on the SAT in just one month sounds impossible, right?
 
 When I first took the SAT, the Reading section felt impossible. 
 

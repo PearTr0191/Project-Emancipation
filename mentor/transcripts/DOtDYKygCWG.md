@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,114 likes, 1,035 comments - ultimateivyleagueguide on September 17, 2025: "“What’s the secret to getting a PERFECT score on my SAT/ACT?” 🤫 
+"“What’s the secret to getting a PERFECT score on my SAT/ACT?” 🤫 
 
 Day 11 of 14 of Preparing for College Applications with Elise 🎓
 

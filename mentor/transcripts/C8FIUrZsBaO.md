@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,235 likes, 1,401 comments - ultimateivyleagueguide on June 11, 2024: "Read ONLY if you want your experiences to *STAND OUT* to admission officers ⬇️
+"Read ONLY if you want your experiences to *STAND OUT* to admission officers ⬇️
 
 ⭐️ Pursuing a passion project demonstrates qualities highly valued by Ivy League schools, such as initiative, leadership, self-motivation, and a commitment to making a difference.
 

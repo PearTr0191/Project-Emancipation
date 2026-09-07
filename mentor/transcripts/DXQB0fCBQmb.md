@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,916 likes, 81 comments - ultimateivyleagueguide on April 17, 2026: "How do I tell Harvard my passion is matcha? 😅🍵".
+"How do I tell Harvard my passion is matcha? 😅🍵".
 
 ## Page meta
 

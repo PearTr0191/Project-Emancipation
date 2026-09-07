@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-18K likes, 230 comments - ultimateivyleagueguide on October 7, 2025: "What if I told you following these 5 steps could save you THOUSANDS of dollars? 😳💰
+"What if I told you following these 5 steps could save you THOUSANDS of dollars? 😳💰
 
 Follow @ultimateivyleagueguide to get into your dream school! ✅
 

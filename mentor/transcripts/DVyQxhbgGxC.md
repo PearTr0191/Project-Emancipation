@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-61K likes, 29K comments - ultimateivyleagueguide on March 12, 2026: "Be honest…which 10th Grader are you? 😅
+"Be honest…which 10th Grader are you? 😅
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

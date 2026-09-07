@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-12K likes, 609 comments - ultimateivyleagueguide on June 11, 2025: "my Harvard transcript says otherwise… 
+"my Harvard transcript says otherwise… 
 
 follow & comment STUDY & I’ll send you a 30+ doc of all the strategies I use to stay on top of my class at Harvard".
 

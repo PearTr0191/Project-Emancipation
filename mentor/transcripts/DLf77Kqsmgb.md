@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,121 likes, 12 comments - ultimateivyleagueguide on June 22, 2025: "send this to a friend who needs these brain boosting benefits 😬🍵".
+"send this to a friend who needs these brain boosting benefits 😬🍵".
 
 ## Page meta
 

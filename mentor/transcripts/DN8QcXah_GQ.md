@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,774 likes, 3,492 comments - ultimateivyleagueguide on August 22, 2025: "The #1 mistake that gets 50% of Ivy League applicants rejected before their essays are even read 🤯
+"The #1 mistake that gets 50% of Ivy League applicants rejected before their essays are even read 🤯
 
 Follow @ultimateivyleagueguide to join the Top 1% of students 🧠 
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,425 likes, 66 comments - ultimateivyleagueguide on October 17, 2024: "HOW I RECEIVED NO IVY LEAGUE REJECTIONS WITHOUT CHANGING MY RESUME⬇️
+"HOW I RECEIVED NO IVY LEAGUE REJECTIONS WITHOUT CHANGING MY RESUME⬇️
 
 After I got into Harvard, I read my admissions file thinking there’d be a specific list of reasons why I got accepted 📋
  

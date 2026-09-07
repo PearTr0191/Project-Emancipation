@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,140 likes, 991 comments - ultimateivyleagueguide on April 7, 2026: "Here’s how to get a 5 on all of your AP exams with MINIMAL studying! 📚 📖 
+"Here’s how to get a 5 on all of your AP exams with MINIMAL studying! 📚 📖 
 
 Comment EXAM and I’ll send you my free course on how to build a study schedule for AP/IB exams and finals ✅💯
 

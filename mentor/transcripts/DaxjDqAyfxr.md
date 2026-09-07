@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,758 likes, 1,239 comments - ultimateivyleagueguide on July 6, 2026: "Your personal statement is the one place an admissions officer actually meets you! ✍️
+"Your personal statement is the one place an admissions officer actually meets you! ✍️
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

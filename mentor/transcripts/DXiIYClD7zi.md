@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,601 likes, 184 comments - ultimateivyleagueguide on April 24, 2026: "AP Lang is scheduled for Wednesday, May 13, 2026, at 8 AM local time ⏰
+"AP Lang is scheduled for Wednesday, May 13, 2026, at 8 AM local time ⏰
 
 Save and follow for more resources 🧠
 

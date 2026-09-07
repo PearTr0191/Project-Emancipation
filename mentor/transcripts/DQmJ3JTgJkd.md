@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,719 likes, 859 comments - ultimateivyleagueguide on November 3, 2025: "An essay about STEAK secured Nguyen $320,000 and an acceptance to Dartmouth 🥩💰
+"An essay about STEAK secured Nguyen $320,000 and an acceptance to Dartmouth 🥩💰
 
 Here’s how he did it…
 

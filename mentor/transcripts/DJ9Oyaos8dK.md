@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,969 likes, 839 comments - ultimateivyleagueguide on May 4, 2025: "Most students think Ivy League admissions is about being perfect…
+"Most students think Ivy League admissions is about being perfect…
 
 A 100 in every class. A stacked resume. A flawless track record.
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,471 likes, 771 comments - ultimateivyleagueguide on August 15, 2026: "10/10 Passion Projects for college admissions! 💯🧠
+"10/10 Passion Projects for college admissions! 💯🧠
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

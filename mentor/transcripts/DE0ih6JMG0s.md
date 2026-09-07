@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,057 likes, 318 comments - ultimateivyleagueguide on January 14, 2025: "When colleges ask, “Why this school?” they want to hear this ⬇️
+"When colleges ask, “Why this school?” they want to hear this ⬇️
 
 Most students say:
 

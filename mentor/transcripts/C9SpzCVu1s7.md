@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,504 likes, 268 comments - ultimateivyleagueguide on July 11, 2024: "How to Get Into Your Dream School With LOW AP SCORES⬇️👀
+"How to Get Into Your Dream School With LOW AP SCORES⬇️👀
 
 Worried that a low AP score will ruin your chances of getting into your dream school? 
 

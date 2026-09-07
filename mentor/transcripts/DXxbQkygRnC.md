@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,389 likes, 218 comments - ultimateivyleagueguide on April 30, 2026: "The 2026 AP U.S. Government and Politics exam is scheduled for Tuesday, May 5, 2026, at 12 p.m. local time 🇺🇸⏰
+"The 2026 AP U.S. Government and Politics exam is scheduled for Tuesday, May 5, 2026, at 12 p.m. local time 🇺🇸⏰
 
 Save and follow for more resources 🧠
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,578 likes, 321 comments - ultimateivyleagueguide on May 22, 2026: "Liberal Arts vs. State School: Which one fits you better? 🤔📚
+"Liberal Arts vs. State School: Which one fits you better? 🤔📚
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

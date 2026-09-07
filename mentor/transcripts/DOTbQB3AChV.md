@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,344 likes, 5,125 comments - ultimateivyleagueguide on September 7, 2025: "The one PDF that saved me $72,000 per year on college 😳💰
+"The one PDF that saved me $72,000 per year on college 😳💰
 
 Follow @ultimateivyleagueguide to join the Top 1% of students 🧠
 

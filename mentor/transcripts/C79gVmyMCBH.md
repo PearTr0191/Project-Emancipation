@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,071 likes, 949 comments - ultimateivyleagueguide on June 8, 2024: "Read ONLY if you want to learn how to build a UNIQUE passion project ⬇️
+"Read ONLY if you want to learn how to build a UNIQUE passion project ⬇️
 
 ⭐️ Passion projects are driven by genuine curiosity, passion, and a desire to contribute to a field or cause.
 

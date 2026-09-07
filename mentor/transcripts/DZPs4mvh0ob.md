@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,889 likes, 380 comments - ultimateivyleagueguide on June 5, 2026: "If you do NOT want to get rejected, comment PLAN for our free guide on how to plan your courses and extracurriculars to get into top colleges 📕✅
+"If you do NOT want to get rejected, comment PLAN for our free guide on how to plan your courses and extracurriculars to get into top colleges 📕✅
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

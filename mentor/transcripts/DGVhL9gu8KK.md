@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,687 likes, 688 comments - ultimateivyleagueguide on February 21, 2025: "Think about your favorite Netflix series.
+"Think about your favorite Netflix series.
 
 Every episode builds toward an unforgettable story. 
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,335 likes, 2,707 comments - ultimateivyleagueguide on September 15, 2025: "“How do I get AMAZING letters of recommendation?” 📝
+"“How do I get AMAZING letters of recommendation?” 📝
 
 Day 10 of 14 of Preparing for College Applications with Elise 🎓
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,535 likes, 3,585 comments - ultimateivyleagueguide on April 27, 2026: "Nobody tells you this, but most rejected Ivy applicants look exactly the same on paper 👇
+"Nobody tells you this, but most rejected Ivy applicants look exactly the same on paper 👇
 
 4.0. Great SATs….President of three clubs….Volunteer hours
 

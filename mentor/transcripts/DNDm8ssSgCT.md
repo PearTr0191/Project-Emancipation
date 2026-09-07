@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,658 likes, 14 comments - ultimateivyleagueguide on July 24, 2025: "maturing is realizing matcha is not a want, it’s a need".
+"maturing is realizing matcha is not a want, it’s a need".
 
 ## Page meta
 

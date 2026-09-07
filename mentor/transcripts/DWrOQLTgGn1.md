@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-18K likes, 1,234 comments - ultimateivyleagueguide on April 3, 2026: "Comment CHOICE for my full guide on how to build a strategic college list that reflects your preferences, goals, and values! 🎓✅
+"Comment CHOICE for my full guide on how to build a strategic college list that reflects your preferences, goals, and values! 🎓✅
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

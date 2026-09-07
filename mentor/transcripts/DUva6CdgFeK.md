@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-988 likes, 267 comments - ultimateivyleagueguide on February 14, 2026: "The past four years I’ve studied thousands of successful applications…
+"The past four years I’ve studied thousands of successful applications…
 
 And I’ve noticed the same patterns over and over. 
 

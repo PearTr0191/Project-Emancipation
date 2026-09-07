@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,396 likes, 16 comments - ultimateivyleagueguide on October 1, 2024: "The Activities Admission Officers ACTUALLY Want⬇️
+"The Activities Admission Officers ACTUALLY Want⬇️
 
 I remember how I used to think that perfect grades and a 1600 SAT score were enough to get into a top school…
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,901 likes, 1,417 comments - ultimateivyleagueguide on September 22, 2025: "Revealing the strategy that got my tuition covered 100% at Harvard and any other college I wanted 🤯
+"Revealing the strategy that got my tuition covered 100% at Harvard and any other college I wanted 🤯
 
 Follow @ultimateivyleagueguide on Instagram to get into your dream college! ✅
 

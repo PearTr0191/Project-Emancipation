@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-18K likes, 9,959 comments - ultimateivyleagueguide on March 20, 2025: "This is the exact essay that got me ZERO Ivy League rejections ⬇️
+"This is the exact essay that got me ZERO Ivy League rejections ⬇️
 
 But here’s the thing: it wasn’t because I had the most impressive achievements or the perfect story.
 

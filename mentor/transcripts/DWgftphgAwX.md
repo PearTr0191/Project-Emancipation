@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,303 likes, 1,262 comments - ultimateivyleagueguide on March 30, 2026: "Episode 4 of The Ultimate College Blueprint: If I Was Starting Late 📘".
+"Episode 4 of The Ultimate College Blueprint: If I Was Starting Late 📘".
 
 ## Page meta
 

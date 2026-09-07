@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,496 likes, 174 comments - ultimateivyleagueguide on May 7, 2026: "Final exams are right around the corner and most students are about to find out their study method doesn’t actually work 😬📚
+"Final exams are right around the corner and most students are about to find out their study method doesn’t actually work 😬📚
 
 If you’ve been rereading your notes and rewatching your lectures all semester thinking that’s enough… I have some bad news.
 

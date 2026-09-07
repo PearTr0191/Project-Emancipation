@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-9,006 likes, 5,010 comments - ultimateivyleagueguide on April 23, 2026: "Which student are you? 😅
+"Which student are you? 😅
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

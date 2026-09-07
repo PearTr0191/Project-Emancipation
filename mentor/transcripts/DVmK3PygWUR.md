@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,551 likes, 1,209 comments - ultimateivyleagueguide on March 7, 2026: "These 4 factors are college app essentials! 🌟🎓
+"These 4 factors are college app essentials! 🌟🎓
 
 Send this to someone you want to go to succeed with 🏆
 

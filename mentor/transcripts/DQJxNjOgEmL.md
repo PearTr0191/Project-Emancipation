@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,453 likes, 868 comments - ultimateivyleagueguide on October 7, 2025: "The neuroscience behind studying 🧠
+"The neuroscience behind studying 🧠
 
 Follow @ultimateivyleagueguide on Instagram to join the Top 1% of students! ✅
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-9,425 likes, 8,700 comments - ultimateivyleagueguide on November 13, 2025: "Most students don’t realize that NOW is the best time to strategize your summer plans…
+"Most students don’t realize that NOW is the best time to strategize your summer plans…
 
 Applications for the summer programs that colleges actually care about have already opened
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,622 likes, 739 comments - ultimateivyleagueguide on June 18, 2024: "Read ONLY IF you want to get a 1580+ SAT score ⬇️
+"Read ONLY IF you want to get a 1580+ SAT score ⬇️
 
 ⭐️The truth is, a high SAT score will help you get into your dream university—even if that college says that it is “test-optional.”
 

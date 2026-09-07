@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-11K likes, 3,213 comments - ultimateivyleagueguide on March 27, 2026: "Episode 3 of The Ultimate College Blueprint: If I Had No Extracurricular Spike 📘".
+"Episode 3 of The Ultimate College Blueprint: If I Had No Extracurricular Spike 📘".
 
 ## Page meta
 

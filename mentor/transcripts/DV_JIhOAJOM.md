@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,375 likes, 2,536 comments - ultimateivyleagueguide on March 17, 2026: "How to use the psychology of cold emails to land your first internship 🧠✅👩‍💻
+"How to use the psychology of cold emails to land your first internship 🧠✅👩‍💻
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

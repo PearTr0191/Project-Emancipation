@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,620 likes, 300 comments - ultimateivyleagueguide on February 26, 2026: "Registration deadline for the March 14th SAT closes TOMORROW ⏰
+"Registration deadline for the March 14th SAT closes TOMORROW ⏰
 
 We’re about to enter peak SAT testing season, and the easiest way to get your goal score fast is to learn the right strategies! 🙌
 

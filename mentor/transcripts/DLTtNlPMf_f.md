@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-904 likes, 1,595 comments - ultimateivyleagueguide on June 22, 2025: "⬇️ Pay close attention
+"⬇️ Pay close attention
 
 Freshman year me was not the smartest in the room
 But I was the most locked in

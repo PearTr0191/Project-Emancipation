@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,690 likes, 1,207 comments - ultimateivyleagueguide on April 28, 2025: "April is make-or-break…
+"April is make-or-break…
 
 Whether you’re in middle school, high school, or preparing for applications
 

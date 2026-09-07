@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-8,375 likes, 5,018 comments - ultimateivyleagueguide on July 1, 2025: "This interview technique got me into Harvard, Google, and Microsoft with ZERO experience…
+"This interview technique got me into Harvard, Google, and Microsoft with ZERO experience…
 
 Do NOT forget it. 
 

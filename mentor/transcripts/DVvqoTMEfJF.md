@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-14K likes, 6,696 comments - ultimateivyleagueguide on March 11, 2026: "Use these steps to secure your first high school internship 👩‍💼🏆✅
+"Use these steps to secure your first high school internship 👩‍💼🏆✅
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

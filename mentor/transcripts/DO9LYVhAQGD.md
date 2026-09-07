@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,908 likes, 11 comments - ultimateivyleagueguide on September 23, 2025: "Make sure you’re NOT one of these students 😬
+"Make sure you’re NOT one of these students 😬
 
 Follow @ultimateivyleagueguide to get into your dream college ✅
 

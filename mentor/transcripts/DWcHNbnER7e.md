@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-13K likes, 3,341 comments - ultimateivyleagueguide on March 28, 2026: "Accepted vs. Rejected Essay Hooks for Yale, NYU, and Duke 📝
+"Accepted vs. Rejected Essay Hooks for Yale, NYU, and Duke 📝
 
 Save and follow for more college admissions tips! ✅".
 

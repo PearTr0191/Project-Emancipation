@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,050 likes, 206 comments - ultimateivyleagueguide on June 19, 2026: "If you’re a high school student and top schools like Harvard feel out of reach, here’s what I wish I’d known sooner 👇
+"If you’re a high school student and top schools like Harvard feel out of reach, here’s what I wish I’d known sooner 👇
 
 I used to think the same thing.
 

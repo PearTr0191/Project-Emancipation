@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,012 likes, 73 comments - ultimateivyleagueguide on October 15, 2024: "Admission officers DON’T want you to know this ONE HACK🤯⬇️
+"Admission officers DON’T want you to know this ONE HACK🤯⬇️
 
 I get hundreds of DMs every day of students asking me, “How much does class rank or demonstrated interest matter to colleges?”
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-12K likes, 5,704 comments - ultimateivyleagueguide on May 30, 2024: "Revealing the application strategy that got my student into Stanford with a 3.0 GPA and NO extracurriculars 👀🏆
+"Revealing the application strategy that got my student into Stanford with a 3.0 GPA and NO extracurriculars 👀🏆
 
 Comment “ESSAY” and I’ll DM you my full essay guide for FREE 😉📝 
 

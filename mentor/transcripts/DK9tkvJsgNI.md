@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,521 likes, 4,806 comments - ultimateivyleagueguide on June 15, 2025: "Don’t sleep on the Narrative Method 😴
+"Don’t sleep on the Narrative Method 😴
 
 Diana had a 22 ACT
 

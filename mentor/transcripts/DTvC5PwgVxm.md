@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,288 likes, 932 comments - ultimateivyleagueguide on January 19, 2026: "Read this if you have good grades but still feel unsure if you’re doing the “right” things ⬇️
+"Read this if you have good grades but still feel unsure if you’re doing the “right” things ⬇️
 
 Harvard reported that ~70% of students have straight-A averages
 

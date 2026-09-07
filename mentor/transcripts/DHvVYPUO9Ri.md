@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,018 likes, 880 comments - ultimateivyleagueguide on March 28, 2025: "Regular decisions are coming out — and if you got waitlisted, don’t lose hope.
+"Regular decisions are coming out — and if you got waitlisted, don’t lose hope.
 
 A waitlist isn’t a rejection. It’s a second chance.
 

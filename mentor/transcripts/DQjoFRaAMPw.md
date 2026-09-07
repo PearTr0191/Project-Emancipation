@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,477 likes, 757 comments - ultimateivyleagueguide on October 16, 2025: "If you fall into one of these 3 categories, chances are that Ivy Leagues will reject you 🥴❌
+"If you fall into one of these 3 categories, chances are that Ivy Leagues will reject you 🥴❌
 
 Follow @ultimateivyleagueguide on Instagram for the latest college admissions updates! ✅
 

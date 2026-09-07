@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,334 likes, 417 comments - ultimateivyleagueguide on September 20, 2024: "My BIGGEST life advice as a Harvard student ⬇️
+"My BIGGEST life advice as a Harvard student ⬇️
 
 Hi! My name is Elise and I’m currently pursuing a degree in Molecular & Cellular Biology + Global Health & Health Policy (Pre-Med track) at Harvard University 👩‍🔬
 

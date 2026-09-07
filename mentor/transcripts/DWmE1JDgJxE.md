@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,788 likes, 147 comments - ultimateivyleagueguide on April 1, 2026: "Here’s how to make make sure you’re prepared for your upcoming AP exams! 📚🧠
+"Here’s how to make make sure you’re prepared for your upcoming AP exams! 📚🧠
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

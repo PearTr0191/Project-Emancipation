@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,348 likes, 272 comments - ultimateivyleagueguide on July 1, 2025: "According to science, emotional intelligence is a bigger predictor of success than high grades…here’s why 🧠 
+"According to science, emotional intelligence is a bigger predictor of success than high grades…here’s why 🧠 
 
 #UltimateMentor #UltimateIvyLeagueGuide #UILG".
 

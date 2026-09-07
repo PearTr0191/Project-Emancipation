@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,267 likes, 209 comments - ultimateivyleagueguide on January 3, 2025: "My name is Elise Pham ⬇️ 
+"My name is Elise Pham ⬇️ 
 
 I’m a current 4.0 GPA Harvard Pre-Med student 
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,768 likes, 1,177 comments - ultimateivyleagueguide on April 30, 2025: "Most students try to look flawless on their college applications.
+"Most students try to look flawless on their college applications.
 
 Polished essays.
 Safe activities.

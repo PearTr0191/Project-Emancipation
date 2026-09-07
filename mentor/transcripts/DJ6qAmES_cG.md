@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-13K likes, 4,397 comments - ultimateivyleagueguide on May 4, 2025: "I know what you’re thinking…
+"I know what you’re thinking…
 
 “7th grade? Isn’t that WAY too early to think about college?”
 

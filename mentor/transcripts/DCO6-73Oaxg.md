@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,424 likes, 713 comments - ultimateivyleagueguide on November 11, 2024: "IF YOU HAVE THIS, YOU’LL AUTOMATICALLY BE SUCCESSFUL ⬇️
+"IF YOU HAVE THIS, YOU’LL AUTOMATICALLY BE SUCCESSFUL ⬇️
 
 No it’s not money. Nor is it resources. 
 

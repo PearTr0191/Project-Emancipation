@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,048 likes, 93 comments - ultimateivyleagueguide on June 28, 2025: "Looking rich is easy but being mentally wealthy enough not to care is hard…up to you to decide what path to take 🤝".
+"Looking rich is easy but being mentally wealthy enough not to care is hard…up to you to decide what path to take 🤝".
 
 ## Page meta
 

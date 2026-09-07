@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,772 likes, 935 comments - ultimateivyleagueguide on May 3, 2025: "Everyone’s asking:
+"Everyone’s asking:
 “Can I use AI to write my college essays?”
 
 And honestly… you can.

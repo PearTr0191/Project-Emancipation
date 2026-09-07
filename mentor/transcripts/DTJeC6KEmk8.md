@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,998 likes, 79 comments - ultimateivyleagueguide on January 5, 2026: "In my room, I wrote a quote that says,
+"In my room, I wrote a quote that says,
 “If you knew you were 10 failures away from success, why would you ever run away from chances to fail?”
 
 For years, all I could remember were long nights of studying and the fear that none of it would matter if I failed…

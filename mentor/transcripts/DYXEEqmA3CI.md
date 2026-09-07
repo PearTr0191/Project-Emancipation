@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,705 likes, 1,041 comments - ultimateivyleagueguide on May 15, 2026: "May SAT scores are out and most students who studied for months still didn’t hit the score they wanted 😬
+"May SAT scores are out and most students who studied for months still didn’t hit the score they wanted 😬
 
 Most students think the answer is more hours…
 

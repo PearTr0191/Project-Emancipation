@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,126 likes, 919 comments - ultimateivyleagueguide on July 15, 2025: "My name is Elise and I’m a 4.0 GPA Harvard Pre-Med student
+"My name is Elise and I’m a 4.0 GPA Harvard Pre-Med student
 
 I’m the founder of a 7-figure Forbes business
 

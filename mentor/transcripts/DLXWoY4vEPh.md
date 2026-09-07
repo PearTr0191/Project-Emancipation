@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,769 likes, 2,232 comments - ultimateivyleagueguide on June 21, 2025: "The #1 mistake students make that get them rejected from top schools is that they write from the wrong POV…
+"The #1 mistake students make that get them rejected from top schools is that they write from the wrong POV…
 
 Implement this simple trick before you begin writing your college essay and it’ll save you SOOOO much time 🤗📝
 

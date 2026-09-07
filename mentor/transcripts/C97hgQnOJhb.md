@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,801 likes, 1,927 comments - ultimateivyleagueguide on July 27, 2024: "Read ONLY IF you want to know the mental qualities admission officers look for⬇️
+"Read ONLY IF you want to know the mental qualities admission officers look for⬇️
 
 Did you know that the mental qualities you exhibit can be JUST AS INFLUENTIAL as your academic performance when it comes to college admissions? 🧠🎓
 

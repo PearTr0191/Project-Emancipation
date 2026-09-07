@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,987 likes, 912 comments - ultimateivyleagueguide on April 10, 2026: "Episode 9 of The Ultimate College Blueprint: If I Lived an “Average” Life 📘".
+"Episode 9 of The Ultimate College Blueprint: If I Lived an “Average” Life 📘".
 
 ## Page meta
 

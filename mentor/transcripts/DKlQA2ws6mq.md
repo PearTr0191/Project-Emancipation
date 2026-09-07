@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,088 likes, 1,472 comments - ultimateivyleagueguide on June 6, 2025: "Read for Ivy League college app secrets ⬇️
+"Read for Ivy League college app secrets ⬇️
 
 Most people spend months trying to make their college app stand out…
 

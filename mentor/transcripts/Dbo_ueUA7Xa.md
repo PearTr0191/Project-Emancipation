@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,329 likes, 1,117 comments - ultimateivyleagueguide on August 4, 2026: "Getting into a top school comes down to the small actions you repeat every single week ☀️
+"Getting into a top school comes down to the small actions you repeat every single week ☀️
 
 The students applying this fall already started these…
 

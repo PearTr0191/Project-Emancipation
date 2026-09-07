@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,525 likes, 525 comments - ultimateivyleagueguide on November 7, 2024: "You’re WASTING Your Time By Joining a Bunch of Extracurriculars ⬇️
+"You’re WASTING Your Time By Joining a Bunch of Extracurriculars ⬇️
 
 Here’s the truth: colleges look for quality over quantity. 🌟
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-26K likes, 2,187 comments - ultimateivyleagueguide on December 12, 2025: "Here’s what this means for you ⬇️
+"Here’s what this means for you ⬇️
 
 There’s now 100,000+ apps to schools that used to feel “reachable.”
 

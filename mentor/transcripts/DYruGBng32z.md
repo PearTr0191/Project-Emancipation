@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-13K likes, 4,898 comments - ultimateivyleagueguide on May 23, 2026: "Do you know the differences between the SAT and ACT? 🤔✅
+"Do you know the differences between the SAT and ACT? 🤔✅
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

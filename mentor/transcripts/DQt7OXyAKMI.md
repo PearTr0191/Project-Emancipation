@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,555 likes, 2,423 comments - ultimateivyleagueguide on October 19, 2025: "Colleges can predict who gets accepted because top students use The Momentum Formula 🏆
+"Colleges can predict who gets accepted because top students use The Momentum Formula 🏆
 
 Follow @ultimateivyleagueguide on Instagram to get into your dream school ✅
 

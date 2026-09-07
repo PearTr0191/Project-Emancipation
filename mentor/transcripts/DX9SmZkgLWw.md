@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,347 likes, 1,151 comments - ultimateivyleagueguide on May 5, 2026: "If you’re applying to Yale, here’s what you need to know 👇
+"If you’re applying to Yale, here’s what you need to know 👇
 
 The committee’s take was that the old mission contained “worthy goals” but those goals “are not what makes a university a university.”
 

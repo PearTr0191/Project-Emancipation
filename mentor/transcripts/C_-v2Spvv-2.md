@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,168 likes, 1,098 comments - ultimateivyleagueguide on September 16, 2024: "AVOID THIS ACADEMIC MISTAKE⬇️
+"AVOID THIS ACADEMIC MISTAKE⬇️
 
 When I was in high school, I remember wasting SO MUCH TIME over-studying and over-stressing for exams because I thought that’s what was necessary to get into a top college🫠
  

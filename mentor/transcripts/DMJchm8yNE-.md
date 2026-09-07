@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-7,106 likes, 2,014 comments - ultimateivyleagueguide on July 15, 2025: "The CRAZIEST college app update TODAY🤯🤯🤯
+"The CRAZIEST college app update TODAY🤯🤯🤯
 
 Follow @ultimateivyleagueguide to get into your dream school 🎓
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,375 likes, 962 comments - ultimateivyleagueguide on November 3, 2024: "Why you SHOULD NOT join a bunch of extracurriculars ⬇️
+"Why you SHOULD NOT join a bunch of extracurriculars ⬇️
 
 Here’s the truth: colleges look for quality over quantity. 🌟
 

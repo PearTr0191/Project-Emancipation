@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,452 likes, 809 comments - ultimateivyleagueguide on May 21, 2026: "The ONLY way to take notes if you want to ace exams…
+"The ONLY way to take notes if you want to ace exams…
 
 Follow @ultimateivyleagueguide to join the Top 1% of students 🧠 
 

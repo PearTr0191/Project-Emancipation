@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,027 likes, 4,137 comments - ultimateivyleagueguide on April 1, 2026: "This is LITERALLY your last chance to apply to summer programs…
+"This is LITERALLY your last chance to apply to summer programs…
 
 After this month, no credible summer programs have open applications (these deadlines were super hard to find!)
 

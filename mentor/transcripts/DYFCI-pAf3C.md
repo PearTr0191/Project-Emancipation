@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-40K likes, 2,724 comments - ultimateivyleagueguide on May 8, 2026: "Maintaining a 4.0 at Harvard isn’t actually about how many hours you study 😬📚
+"Maintaining a 4.0 at Harvard isn’t actually about how many hours you study 😬📚
 
 Most students are grinding way harder than they need to and still falling behind, and the real reason has way more to do with your system than your effort.
 

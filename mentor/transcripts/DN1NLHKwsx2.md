@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,401 likes, 160 comments - ultimateivyleagueguide on August 26, 2025: "What if I told you grades stop mattering after a certain point? 😳
+"What if I told you grades stop mattering after a certain point? 😳
 
 Hear it from the MIT Dean of Admissions himself…
 

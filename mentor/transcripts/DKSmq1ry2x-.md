@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,165 likes, 1,194 comments - ultimateivyleagueguide on May 30, 2025: "⬇️ I didn’t get a 4.0 GPA at Harvard because i’m naturally smart…
+"⬇️ I didn’t get a 4.0 GPA at Harvard because i’m naturally smart…
 
 to be honest, I struggled a lot in my high school classes
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,754 likes, 15 comments - ultimateivyleagueguide on March 19, 2026: "Make sure you’re prepared this AP season! 🤓📚💯
+"Make sure you’re prepared this AP season! 🤓📚💯
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

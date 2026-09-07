@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-14K likes, 7,808 comments - ultimateivyleagueguide on November 30, 2025: "December is the MOST IMPORTANT month of your entire school year! ⏰ 
+"December is the MOST IMPORTANT month of your entire school year! ⏰ 
 
 Make sure you & your friends know these deadlines ✍️
 

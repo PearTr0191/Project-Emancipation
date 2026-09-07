@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-6,360 likes, 1,446 comments - ultimateivyleagueguide on June 12, 2024: "Read ONLY IF you want to get into your dream school ⬇️
+"Read ONLY IF you want to get into your dream school ⬇️
 
 With JUST 6 WEEKS until the Common App opens, you NEED to lock in 🔒 
 

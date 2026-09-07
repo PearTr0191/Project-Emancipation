@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-674 likes, 167 comments - ultimateivyleagueguide on May 28, 2025: "everyone shares the story of the kid who built a coding project and got suspended from Colombia
+"everyone shares the story of the kid who built a coding project and got suspended from Colombia
 
 but what they forget is this: context is everything
 

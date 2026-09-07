@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,659 likes, 714 comments - ultimateivyleagueguide on April 1, 2026: "Episode 5 of The Ultimate College Blueprint: If I Had No Leadership Roles📘".
+"Episode 5 of The Ultimate College Blueprint: If I Had No Leadership Roles📘".
 
 ## Page meta
 

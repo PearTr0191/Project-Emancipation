@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-9,803 likes, 645 comments - ultimateivyleagueguide on May 2, 2026: "These are my real stats after 4 years at Harvard…
+"These are my real stats after 4 years at Harvard…
 
 A couple went down. Most went up in ways I didn’t expect freshman year.
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-24K likes, 11K comments - ultimateivyleagueguide on June 9, 2026: "PASSION PROJECTS. 
+"PASSION PROJECTS. 
 
 Follow @ultimateivyleagueguide to join the Top 1% of students 🧠
 

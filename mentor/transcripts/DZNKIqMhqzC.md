@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-34K likes, 8,740 comments - ultimateivyleagueguide on June 5, 2026: "What’s the difference in essay hooks that were Accepted vs. Waitlisted vs. Rejected to Yale? ✍️
+"What’s the difference in essay hooks that were Accepted vs. Waitlisted vs. Rejected to Yale? ✍️
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-102K likes, 5,621 comments - ultimateivyleagueguide on December 6, 2025: "How you answer “Why do you want to attend XYZ school?” can make the difference between an acceptance, waitlist, or rejection ⬇️
+"How you answer “Why do you want to attend XYZ school?” can make the difference between an acceptance, waitlist, or rejection ⬇️
 
 Here’s how each answer differs:
 

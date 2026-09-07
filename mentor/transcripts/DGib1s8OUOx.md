@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-911 likes, 507 comments - ultimateivyleagueguide on February 26, 2025: "They say you need privilege to get into the Ivy League.
+"They say you need privilege to get into the Ivy League.
 
 But I grew up with every odd stacked against me…
 

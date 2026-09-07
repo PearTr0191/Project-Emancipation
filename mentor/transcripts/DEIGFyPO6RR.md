@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-5,685 likes, 2,113 comments - ultimateivyleagueguide on December 28, 2024: "As someone who got zero Ivy League rejections
+"As someone who got zero Ivy League rejections
 
 I learned that winter break can set applicants apart. 
 

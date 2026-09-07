@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,034 likes, 522 comments - ultimateivyleagueguide on June 13, 2026: "Are you following the accepted applicants? 😳✅
+"Are you following the accepted applicants? 😳✅
 
 #UltimateIvyLeagueGuide #UltimateMentor #UILG".
 

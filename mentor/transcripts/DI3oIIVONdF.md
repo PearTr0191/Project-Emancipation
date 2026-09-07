@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,501 likes, 560 comments - ultimateivyleagueguide on April 25, 2025: "Stanford and UC schools are now being targeted over alleged racial quotas.
+"Stanford and UC schools are now being targeted over alleged racial quotas.
 
 With affirmative action gone, a lot of students are asking:
 “Do I still have a shot?”

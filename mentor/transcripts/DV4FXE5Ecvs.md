@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,089 likes, 76 comments - ultimateivyleagueguide on March 14, 2026: "My 4 Non-Negotiables for Junior Year…
+"My 4 Non-Negotiables for Junior Year…
 
 Comment JUNIOR for my full junior year checklist 📋✅
 

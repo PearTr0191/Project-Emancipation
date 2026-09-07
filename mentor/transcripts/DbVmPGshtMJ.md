@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,242 likes, 609 comments - ultimateivyleagueguide on July 23, 2026: "Most students assume getting ahead in school means paying for the premium version of everything 💰
+"Most students assume getting ahead in school means paying for the premium version of everything 💰
 
 Use these tools to help secure a 4.0 next semester!
 

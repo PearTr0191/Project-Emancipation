@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-1,174 likes, 392 comments - ultimateivyleagueguide on May 4, 2026: "Save and share this with a friend to ace your final exams! 💯
+"Save and share this with a friend to ace your final exams! 💯
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-2,470 likes, 276 comments - ultimateivyleagueguide on March 16, 2026: "How did Eileen Gu get into Stanford? ⛷️📚 (Hint: It’s not just skiing) 
+"How did Eileen Gu get into Stanford? ⛷️📚 (Hint: It’s not just skiing) 
 
 #ultimateivyleagueguide #uilg #ultimatementor".
 

@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-73K likes, 1,956 comments - ultimateivyleagueguide on December 15, 2025: "There’s a reason why these answers have different outcomes…and it all comes down to institutional priorities and fit:
+"There’s a reason why these answers have different outcomes…and it all comes down to institutional priorities and fit:
 
 ✅ACCEPTED: This student started with something they already did, then shows how a specific Harvard opportunity helps them think more carefully about impact before scaling it beyond their own community. That signals judgment, responsibility, and direction, which are three values Harvard cares deeply about.
 

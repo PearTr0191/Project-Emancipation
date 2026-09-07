@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-8,654 likes, 4,642 comments - ultimateivyleagueguide on February 13, 2026: "We’re entering peak SAT season — make sure you’re studying correctly! ✅
+"We’re entering peak SAT season — make sure you’re studying correctly! ✅
 
 COPA (Reading):
 Context → Own answer → Process of elimination → Answer — read for meaning first, come up with your own answer, then eliminate choices that don’t truly match the passage.

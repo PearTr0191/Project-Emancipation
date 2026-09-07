@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-3,225 likes, 853 comments - ultimateivyleagueguide on February 24, 2026: "One of the biggest things I’ve learned after reading so many applications is that admissions officers can feel when a student rushed…
+"One of the biggest things I’ve learned after reading so many applications is that admissions officers can feel when a student rushed…
 
 versus when they’ve been building intentionally over time.
 

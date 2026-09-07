@@ -6,7 +6,7 @@ themes:
 
 ## Caption
 
-4,214 likes, 255 comments - ultimateivyleagueguide on April 26, 2026: "The difference between a good and bad answer is specificity ⬇️
+"The difference between a good and bad answer is specificity ⬇️
 
 ❌ What the Rejected Answer Does: It lists traits the student wants the interviewer to associate with them, but never shows proof of how this student actually engages with the subject.
 
