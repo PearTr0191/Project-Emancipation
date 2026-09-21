@@ -30,7 +30,7 @@ type: profile_synthesis_deep
 
 **Framework:** The profile uses a **rating-scale framework** (X out of 10) to evaluate scholarship value. The ratings don't correspond to objective metrics (e.g., "QuestBridge 10/10" = full ride for families under $65k; "Presidential Scholars 1/10" = prestige only, $0). This is a strategic assessment framework: the profile teaches students to evaluate scholarships by **real financial value**, not prestige.
 
-**Relationship to the student's budget ($50k total, updated 2026-09-01):** This profile's framework directly supports the school's list construction. High-value full-ride awards (QuestBridge, Cameron Impact, Stamps, Jack Kent Cook) can eliminate the budget gap entirely. The profile's emphasis on deadlines (`Deadline is October 1st`) aligns with the timeline (`timelines-deadlines.md`) and reinforces the importance of the November 1 application cycle.
+**Relationship to the student's budget ($30k total, $7.5k/yr over 4 years, updated 2026-09-07):** This profile's framework directly supports the school's list construction. High-value full-ride awards (QuestBridge, Cameron Impact, Stamps, Jack Kent Cook) can eliminate the budget gap entirely. The profile's emphasis on deadlines (`Deadline is October 1st`) aligns with the timeline (`timelines-deadlines.md`) and reinforces the importance of the November 1 application cycle.
 
 ---
 
@@ -43,7 +43,7 @@ type: profile_synthesis_deep
 - **Award value relative to effort** (high-value awards like Chick-fil-A $25k vs. low-value like Toll Clubs $1k)
 - **Accessibility** (low barriers: "zero essays", "90-second duck call", "being tall")
 
-**Strategic insight for the student:** The `rakhimoff_amir` profile's unconventional scholarship framework supports the school's list strategy (`school-list-strategy.md`) by providing real scholarship targets that could supplement institutional aid. For a Vietnamese international student with a $50k budget, these scholarship targets provide a concrete layer of financial planning that complements (but does not replace) institutional need-based aid.
+**Strategic insight for the student:** The `rakhimoff_amir` profile's unconventional scholarship framework supports the school's list strategy (`school-list-strategy.md`) by providing real scholarship targets that could supplement institutional aid. For a Vietnamese international student with a $30k budget ($7.5k/yr), these scholarship targets provide a concrete layer of financial planning that complements (but does not replace) institutional full-need aid. At $7.5k/yr, only full-ride awards or full institutional need-meeting (Dartmouth/NYU) can close the $45-93k/yr gap.
 
 ---
 

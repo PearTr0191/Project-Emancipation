@@ -4,7 +4,7 @@
 **Theme (locked):** The 5% Gap (translation / latency / quantified utility)
 **Tier 1 asset:** ViDrive (shipped, quantified, ~750 MAU, 30M VND saved/user, 2 days research cut)
 **Priorities (ranked):** co-op > technical brand > cost
-**Budget:**  total
+**Budget:** $30k total ($7,500/yr)
 
 ---
 
@@ -22,7 +22,7 @@ Each school gets 1–2 supplements (varies by school). The strategy is: **one Co
 
 ## School-by-school supplement plan
 
-### Stanford (REA, Nov 1) — Reach
+### Stanford (RD, early Jan — verify) — Reach
 - **Supplements required:** Stanford asks for 3 short essays (50–250 words each) + the Common App personal statement.
 - **C7 emphasis:** Extracurriculars, talent, character all Very Important. Your 1540 is below median (1550); your 800 Math is at 75th. ViDrive + character narrative carry the file.
 - **Likely prompts (from prior years, verify against 2026-27 application):**
@@ -32,8 +32,8 @@ Each school gets 1–2 supplements (varies by school). The strategy is: **one Co
 - **ViDrive deployment:** Center the first supplement on the "5% Gap" as a societal challenge (the gap between data and decision-makers in emerging markets). ViDrive is the proof you can build the bridge.
 - **Open research:** Stanford's specific CS/DS programs (Symbolic Systems, HCI group, Stanford AI Lab), faculty you'd want to work with, and culture details (founder culture, Silicon Valley proximity).
 
-### Dartmouth (RD, Jan 1) — Reach
-- **Supplements required:** Dartmouth asks for 2 supplements (~100 words + ~250 words) + Common App personal statement.
+### Dartmouth (ED, Nov 1) — Reach — **PRIORITY 1 (early slot, confirmed 2026-09-21)**
+- **Supplements required:** 3 short essays (verified 2026-09: 1×100w "Why Dartmouth" + 2×250w from a prompt menu) + Common App personal statement. Due Nov 1 (ED).
 - **C7 emphasis:** Nearly identical to Stanford but talent/ability is Important (one tier down). Extracurriculars and character Very Important.
 - **Likely prompts (verify against 2026-27):**
   1. "Please briefly elaborate on one of your extracurricular activities or work experiences." (150–250 words) — ViDrive.
@@ -130,20 +130,15 @@ Each school gets 1–2 supplements (varies by school). The strategy is: **one Co
 
 ---
 
-## Priority order for drafting (Nov 1 → Jan 15 deadlines)
+## Priority order for drafting (rewritten 2026-09-21 — active list only)
 
-1. **Stanford (Nov 1)** — REA deadline. Draft first. This is the hardest supplement on the list.
-2. **Michigan EA (Nov 1)** — second Nov 1 deadline. Simpler supplement (thinnest C7 tier).
-3. **Georgia Tech EA II (Nov 1)** — third Nov 1 deadline.
-4. **Purdue EA (Nov 1)** — fourth Nov 1 deadline.
-5. **NYU (Jan 1)** — first RD deadline. Most supplement-heavy on the list.
-6. **Dartmouth (Jan 1)** — second RD deadline.
-7. **Case Western (Jan 1)** — third RD deadline.
-8. **RPI (Jan 1)** — fourth RD deadline.
-9. **Northeastern (Jan 15)** — co-op essay. ViDrive is natural here.
-10. **Drexel (Jan 15)** — co-op backup. Essay-first strategy.
-11. **Illinois Tech** — RD.
-12. **ASU / Barrett** — RD.
+1. **Dartmouth (Nov 1)** — ED deadline. Draft first — the early file, max quality. 3 supplements (1×100w + 2×250w).
+2. **NYU (early Jan)** — first RD deadline. Most supplement-heavy on the active list.
+3. **Northeastern (Jan 15)** — co-op essay. ViDrive is natural here.
+4. **Stanford (early Jan)** — RD. 3 short essays; ViDrive + character narrative carry the file.
+5. **Illinois Tech** — RD. One "why Illinois Tech" supplement.
+
+(Dropped 2026-09-07: Michigan, Georgia Tech, Purdue, Case, RPI, Drexel, ASU/Barrett — no full-need for internationals at $7.5k/yr or not clearly superior to VinUni.)
 
 ---
 

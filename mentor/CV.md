@@ -120,9 +120,9 @@ Taught two 1-on-1 SAT classes over nearly 20 hours, raising both students from a
 **Long-term goal lens: stay in the US → employment → green card → naturalization.**
 Schools ranked on three things beyond admit odds: (1) co-op / work-integrated learning, (2) location near H-1B-sponsoring employers, (3) cost & aid (you fund years of limited student-income before a green card).
 
-**Reach (REA):**
-- Stanford — REA, Nov 1. Bay Area, top employer pipeline, meets full need.
-- Dartmouth — small Ivy, strong CS, generous aid. Hanover is rural; NYC/Boston recruiting still strong.
+**Reach (updated 2026-09-21 — Dartmouth ED, Stanford RD):**
+- Dartmouth — **ED, Nov 1 (binding)**. Small Ivy, strong CS, generous aid, need-blind for internationals. Hanover is rural; NYC/Boston recruiting still strong.
+- Stanford — RD (early Jan). Bay Area, top employer pipeline, meets full need; need-aware for internationals.
 - +1: Cornell / Rice / Vanderbilt / Duke / Notre Dame
 
 **Targets:**
@@ -170,14 +170,14 @@ What each school rates **Very Important** — the factors that actually move a d
 
 ## Portal Setup — do this first (one evening)
 
-**Key fact: you need ~2–3 accounts, not 12.** One Common App account covers most schools. The exceptions are Stanford and Georgia Tech, which use their own systems. If you only set up Common App, you will silently miss Stanford — the school you're applying to early.
+**Key fact (updated 2026-09-21):** One Common App account covers the entire active list, Stanford and Dartmouth included (user-confirmed: "Stanford + all targets on Common App"). The early file is Dartmouth ED — Common App covers it. Georgia Tech (own portal) was dropped from the list 2026-09-07.
 
 ### Accounts to create (in this order)
 
 | # | Portal | Covers these schools |
 |---|---|---|
 | 1 | **Common App** (commonapp.org) | Dartmouth, NYU, USC, Michigan, Northeastern, CMU, Purdue, Maryland, + Cornell/Rice/Vanderbilt/Duke/Notre Dame if added |
-| 2 | **Stanford Quest** (stanford.edu/apply) | Stanford — REA, Nov 1. NOT on Common App. |
+| 2 | Stanford — Common App | Stanford — RD, early Jan (verify). On Common App per user confirmation. |
 | 3 | **Georgia Tech** portal (apply.gatech.edu) | Georgia Tech — uses its own system. Verify. |
 
 **Verify before relying on it:** Georgia Tech's portal system. Confirm at apply.gatech.edu.
@@ -202,14 +202,14 @@ What each school rates **Very Important** — the factors that actually move a d
 | Aug 25 | Portal cleanup: remove 4 TBDs, add rescue + museum, submit real entries |
 | Aug 28 | SAT registration closes — **do not register** (1540 is sufficient) |
 | Sep 1–7 | Personal statement draft |
-| Sep 8–14 | Stanford + Dartmouth supplements; ask recommenders (one-pager protocol) |
-| Sep 15–21 | NYU, Michigan, Georgia Tech supplements |
+| Sep 8–14 | Dartmouth supplements (ED priority); ask recommenders (one-pager protocol) |
+| Sep 15–21 | NYU, Northeastern, Illinois Tech supplements |
 | Sep 22–28 | Revise all; feedback |
-| Sep 29 – Oct 5 | Submit Stanford REA + Dartmouth EA |
+| Sep 29 – Oct 5 | Submit Dartmouth ED |
 | Oct 1 | FAFSA opens — **not applicable** (international); use CSS Profile where required |
 | Oct | Startup + Innovator competition results |
-| Nov 1 | Stanford REA + Michigan EA due |
-| Jan | Regular Decision deadlines |
+| Nov 1 | **Dartmouth ED due** |
+| Early Jan | Stanford RD + NYU RD due; Jan 15 Northeastern RD |
 
 ---
 

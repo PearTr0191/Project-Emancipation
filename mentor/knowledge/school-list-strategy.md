@@ -137,7 +137,7 @@ Drexel offers **binding Early Decision** (not Restrictive EA). ED admit rate is 
 | Books & other expenses | $3,200 |
 | **Total COA** | **$86,243** |
 
-At a $50k total budget, this is $345k over 4 years against a $50k budget — **the gap is even larger than at Northeastern**. Aid or co-op income is required. Private nonprofit, so tuition is the same regardless of state residency.
+At a $30k total budget ($7.5k/yr), this is $345k over 4 years against a $30k budget — the gap is even larger. Drexel was dropped at $30k (not clearly superior to VinUni on education/settlement pathway). Aid or co-op income would be required for any remaining consideration; private nonprofit, tuition same regardless of state residency.
 
 ### Financial aid — international students
 
@@ -147,7 +147,7 @@ At a $50k total budget, this is $345k over 4 years against a $50k budget — **t
 - **FAFSA priority date:** February 1
 - **Aid reply deadline:** May 1
 
-This is the most concrete international-aid data on the list. **Drexel does give institutional aid to nonresidents**, and the average award is $32,937. Combined with co-op income, the $50k budget becomes plausible — but only if the aid package + co-op income covers the full gap. This is better aid transparency than most schools on the list.
+**Drexel is not on the locked $30k list** (dropped 2026-09-01: not clearly superior to VinUni; co-op mechanism duplicates Northeastern at lower brand/research depth). The international aid data ($32,937 average) is retained for reference only.
 
 ### Co-op structure
 
@@ -174,7 +174,7 @@ Drexel is a **High Target**, not a safety. The 70% admit rate looks generous, bu
 
 The key positioning question is: **why apply to Drexel if you're also applying to Northeastern?** The honest answer: Drexel is the co-op backup. If Northeastern rejects, Drexel preserves the #1 stated priority (early US work experience). The essay should be honest about that — the co-op model is what you're choosing, and Drexel's co-op is the same mechanism at lower selectivity and lower aid risk (because the average international aid is published at $32,937, which is the most concrete data point on the list).
 
-**Drexel is not a safety by admit rate, but it is a lower-risk choice than the reaches on the cost dimension.** At $50k budget, the international aid data ($32,937 average) is the strongest single argument for Drexel's place on the list.
+**Note (updated 2026-09-07):** Drexel was dropped from the locked $30k list. This file's CDS data is retained for reference only; the $50k-era rationale (co-op backup + published international aid) does not apply at $7.5k/yr.
 
 ### Data-quality flags
 

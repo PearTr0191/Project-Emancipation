@@ -99,7 +99,7 @@ The profile also includes a structural recommendation for verification: "there h
 
 ### 6.2 `rakhimoff_amir` — strategic use
 - **School list / financial-aid strategy:** The scholarship listings (`DcdzE3yt-25`: Presidential Scholars, QuestBridge, Park Scholarships, Dell Scholars, Cameron Impact, Stamps Scholarship, Jack Kent Cook Foundation; `DcbFv67NXaZ`: Chick-fil-A, Zombie Apocalypse Scholarship, Duck Calling Contest, NCA Bowling, Vegetarian Resource Group) provide concrete scholarship targets that could be added to the student's `school-list-strategy.md` or `recommendations-and-testing.md` files.
-- **Supplement context:** The scholarship listings support the student's budget awareness ($50k total) and validate the school's list construction — these are real, verifiable scholarship programs, not speculative. The profile's focus on scholarship strategy aligns with the updated budget (updated 2026-09-01 to $50k total, expanded list size).
+- **Supplement context:** The scholarship listings support budget awareness ($30k total, $7.5k/yr over 4 years) and validate scholarship strategy as a required mechanism — only full-ride or full-need institutional aid can close the gap at this budget. The profile's focus aligns with the updated budget (2026-09-07).
 - **Reference only:** No direct essay use; the profile's promotional/branding content (`QUASAR &CO` slides) is not substantive for the PS.
 
 ---

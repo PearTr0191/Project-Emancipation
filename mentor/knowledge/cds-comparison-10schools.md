@@ -2,7 +2,7 @@
 
 Sources: each institution's Common Data Set 2025–26, as reported by College Transitions, Collegedata.fyi, Koppelman Group, NextGen Admit, and collegestatistics.org. For the CDS definition and section map, see `knowledge/cds-explainer.md`. The Stanford/Dartmouth comparison with full C7 grid is in `knowledge/school-list-strategy.md`.
 
-> **2026-09-01 budget revision note.** The school list was re-balanced when the budget moved from $15–20k to **$50k total**. Michigan and Georgia Tech were re-added (previously dropped on high remaining-balance risk for internationals — now absorbable). Cornell was added as a third Ivy-tier reach. USC stays off-list on cost + aid uncertainty. The CDS grids below are unchanged by the budget revision; what changed is which rows are decision-relevant. This file covers the 10 schools with CDS data available on the final list (Drexel and ASU Barrett dropped 2026-09-01; their CDS data is retained for reference only).
+> **2026-09-01 budget revision note.** The school list was re-balanced when the budget moved from $15-20k to **$30k total** ($7.5k/yr over 4 years). Michigan and Georgia Tech were dropped (previously dropped on high remaining-balance risk — now unabsorbable at $7.5k/yr). Cornell was not added (no published full-need-for-internationals policy; CDS unsourced). USC stays off-list. The CDS grids below are unchanged; what changed is which rows are decision-relevant: only Stanford, Dartmouth, NYU (full-need), Northeastern (co-op structural only), Illinois Tech (settlement-only), VinUni (primary), and NUS (unverified) remain on the locked list. This file covers the 10 schools with CDS data available; Drexel and ASU Barrett data is retained for reference only.
 
 ## Data-quality flags
 
@@ -65,7 +65,7 @@ Required schools: Stanford, Dartmouth, Georgia Tech, Purdue. Your 1540 clears th
 
 ## Michigan and Georgia Tech — re-added 2026-09-01
 
-Both were dropped from the list at the $50k total budget on high remaining-balance risk for international applicants. At **$50k total** that risk is absorbable, and both are strong DS/AI fits worth re-admitting:
+Both were dropped from the list at the $30k total budget ($7.5k/yr) on high remaining-balance risk for international applicants. At $30k, the gap ($47-57k/yr) is unbacked debt — neither has full-need for internationals.
 
 - **Michigan** has the thinnest Very Important tier of any school here: only rigor of secondary school record and GPA. Everything else — essay, recommendations, test scores, extracurriculars, character — is Important or Considered. For an applicant with a strong upward GPA trend (G10 9.5 to G11 ~9.6–9.7) and a rigorous schedule, that grid is unusually readable. Your ViDrive is not wasted there, but it is not what the decision turns on. Ann Arbor's tech corridor is a real post-grad employer base.
 - **Georgia Tech** rates character/personal qualities Very Important alongside rigor and GPA — one of the few schools here that explicitly elevates non-academic factors to the top tier. Its grid also rates state residency Very Important, which is a direct signal that it is built around Georgia residents: the headline admit rate overstates the odds for non-residents and internationals substantially. Test scores are only Considered at Georgia Tech despite being required — a strong score helps but will not rescue a thin transcript. Atlanta is a genuine tech hiring market.
@@ -73,7 +73,7 @@ Both were dropped from the list at the $50k total budget on high remaining-balan
 **Manage expectations at both:** as out-of-state/international applicants your odds sit below the published rates. Neither is a safety. They are strong-fit targets whose cost risk is now within budget.
 ## What each grid means for your profile
 
-Your Tier 1 asset is **ViDrive** — a shipped, quantified product (build/do, not a competition award or art/athletic talent). Your score is **1540 with 800 Math**. You are a **Vietnamese international** needing large scholarships on a **$50k total budget**. Read each grid through those three lenses.
+Your Tier 1 asset is **ViDrive** — a shipped, quantified product (build/do, not a competition award or art/athletic talent). Your score is **1540 with 800 Math**. You are a **Vietnamese international** needing large scholarships or full-need institutional aid on a **$30k total budget ($7.5k/yr)**. Read each grid through those three lenses.
 
 ### Where ViDrive carries the most weight
 
@@ -95,7 +95,7 @@ Only **Stanford** and **Dartmouth** rate extracurricular activities as Very Impo
 
 **NYU** is the only school here that has actively reshuffled its C7 in a coherent direction: it demoted class rank, standardized test scores, and the interview (all things the applicant cannot fully control), and elevated the application essay, recommendations, and character/personal qualities (all things the file the applicant builds). That grid rewards what you can write and what teachers say about you — which, given your quantified shipped product and your upward trend, is a reasonably good match.
 
-It is also the only school on this list confirmed to **meet full demonstrated financial need for first-year students**. On a $50k total budget that is the single most financially relevant fact in this table — far more decision-relevant than the 9% admit rate. Verify the exact international-student packaging before treating it as decisive, but no other school here has a published need-meeting policy.
+It is also the only school on this list confirmed to **meet full demonstrated financial need for first-year students**. On a $30k total budget ($7.5k/yr) that is the single most financially relevant fact in this table — the gap is $83.5k/yr ($100,998 COA - $7.5k budget), and only full-need policy can close it by guarantee (not estimate). Verify the exact international-student packaging before treating it as decisive, but no other school here has a published need-meeting policy.
 
 ### The public/private and aid split
 
@@ -130,7 +130,7 @@ Sourced from NYU's own financial-aid pages (nyu.edu/admissions/financial-aid-and
 - **No FAFSA** — federal aid (Pell Grants, subsidized loans) is reserved for U.S. citizens and eligible non-citizens, so an international student gets no federal dollars. The NYU Promise is funded entirely from NYU's own institutional budget.
 - Financial aid deadlines: ED I = Nov 10, ED II = Feb 1, RD = Feb 1 (CSS Profile).
 
-**Bottom line for a $50k total budget:**
+**Bottom line for a $30k total budget ($7.5k/yr):**
 - NYU is the **only school on this list confirmed to meet full demonstrated need for first-years**, and that promise explicitly covers internationals. No other school here has a published equivalent.
 - Whether it makes NYU affordable depends entirely on the CSS Profile's estimated family contribution. A Vietnamese family with modest assets and income will almost certainly get a large institutional grant — but the exact number cannot be known without filing. The CSS Profile fee-waiver path exists if cost is itself a barrier.
 - **This is the single most budget-relevant fact in the entire comparison**, and it outweighs the 9% admit rate for decision-making purposes. It does not make NYU a safety — it makes it the only school on the list where the cost question is answerable in advance rather than discovered after an admit.
