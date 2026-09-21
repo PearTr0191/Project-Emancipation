@@ -66,3 +66,17 @@ The `ivy_roadmap` profile (`knowledge/ivy_roadmap_profile.md`) provides an autho
 - If a supplement asks about motivation or "why this school," the profile's framework can be referenced indirectly: the school's specific program/fit is what matters, not its prestige tier. This is the same structural argument the profile makes, but in the student's own voice.
 
 **Source:** `knowledge/ivy_roadmap_profile.md` (digest-level material from `distill_digest_refresh.txt`; author: Andreas Dematakis, *The Ivy League Roadmap*). Not a new crawl; treat as reference, not verified.
+
+---
+
+## What AOs actually read for (Ivy Brothers crawl, 2026-09-21)
+
+The account's "what X is really looking for" series gives the corpus its sharpest articulation of the reader-side of the theme claim:
+
+- **They admit the adult, not the student** — Harvard picks the person it wants carrying the name in 30 years; that is why IMO gold medalists get cut and kids with fewer awards get in. Being the most accomplished teenager does not say who you become; where you are headed does. The file is read for the adult, not the student. [DbTmhWFCamJ]
+- **People skills is the score unhooked applicants live or die on** — generosity, humor, humility, whether you make the people around you better; the one score you cannot grind for. [DbTmhWFCamJ]
+- **Voice contrast (theme-adjacent):** MIT wants people obsessed with ideas; Harvard wants people who move ideas through other people. Princeton kids write "I became fascinated by"; Harvard kids write "I built, I organized, I convinced." The lone genius who cannot pull people in loses. [DbTmhWFCamJ]
+- **Judgment over effort:** everyone in the pile worked hard — "I spent 2,000 hours" loses to "I realized everyone was solving the wrong problem." They bet on judgment because judgment is what matters after you leave. [DbTmhWFCamJ]
+- **They often reject the finished product** — the kid who already looks done gives less to work with; they bet on the person whose next 10 years their network can change. Stop looking accomplished; start looking still on the way up. [DbTmhWFCamJ]
+
+How this supports `The 5% Gap` without changing it: the theme's core value (translation) and the ViDrive position — "already doing the work somewhere, at any scale, and can say plainly what the work was" (the Hopkins lens [DdhJwCZCSt4]) — both answer the reader-side question directly. The "move ideas through other people" line also supports the Julience HR thread (60% man-hour cut, 40 members across 3 departments) as a people-through-systems story, not a title story.

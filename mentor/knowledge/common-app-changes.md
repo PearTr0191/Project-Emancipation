@@ -26,4 +26,13 @@ Status: legislation — not law at capture time. For admissions planning this ma
 - Institutional priorities change annually; re-read a school's current supplement prompts each cycle as the signal of what they now weight (see school-list-strategy.md)
 - Test-optional policies and Digital SAT rollout were referenced across her content but without captured position statements — verify per-school current policy during list finalization rather than relying on cached advice
 
-Sources: DLU38sUxwF5 (speech), DcRdrxWmLAM (2026-08-20).
+## Supplement diffs captured from the Ivy Brothers crawl (2026-09-21)
+
+- **Columbia 2026-27 supplement quietly tripled** — most guides still describe the old one. Now six pieces: one 100-word comma-separated list (no explanations allowed) + five 150-word essays (unique perspective / engaging a disagreeing viewpoint / navigating adversity / why Columbia / specific academic interest). Applicants working from old guides are planning for a shorter, easier supplement than the one they will face. [DctksHBgCyE]
+- **Notre Dame supplement got shorter** — 3 of 5 short answers → 2 of 4 + the 150-word essay; compliment prompt cut, "what would you fight for" kept. [DdXRg64CcDP]
+- **Notre Dame added a video portion** (last November) — the essays are no longer the only place they hear the applicant's voice. Watch whether other top schools follow; a video ask changes prep time. [DdXRg64CcDP]
+- **Test-optional end dates (as captured):** Columbia — required again starting 2027-28; Notre Dame — optional holds this cycle, ends next year; Hopkins — required for fall 2026 entry; Brown — mandatory since the Class of 2029. [DctksHBgCyE, DdXRg64CcDP, DdhJwCZCSt4, Dc_S2DFCW__]
+- **USC added binding Early Decision** (Feb 2026, Fall 2027 applicants) — a new round at a major non-Ivy; mechanics in `ivybrothers-school-intel.md`. [DcjGGRFFnRl]
+- The cross-school rule is reaffirmed with new evidence: re-read a school's CURRENT supplement prompts each cycle as the signal of what they now weight — **the prompts are the agenda** (Hopkins' bridge-builder prompt = its SNF Agora dialogue institute turned into a question). [DctksHBgCyE, DdhJwCZCSt4]
+
+Sources: DLU38sUxwF5 (speech), DcRdrxWmLAM (2026-08-20), DctksHBgCyE, DdXRg64CcDP, DdhJwCZCSt4, Dc_S2DFCW__, DcjGGRFFnRl.

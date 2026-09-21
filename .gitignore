@@ -14,6 +14,10 @@
 /manifest_delta.json
 /cookies.json
 /cookies.meta.json
+/ib_state.json
+
+# Ivy Brothers extraction run (2026-09-21): slide image downloads, ~1GB
+/ivybrothers_assets/
 
 # Per-code download directories (pipeline creates <CODE>/<timestamp>.mp4)
 /[A-Za-z][A-Za-z0-9_-]{8,16}/

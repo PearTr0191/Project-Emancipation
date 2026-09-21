@@ -58,11 +58,41 @@ Applied to this student: a short DS/AI reading canon with brief written reaction
 - Same webinar repeats the fabricated-precision pattern: fixed US weights of 40% academics / 30% activities / 30% essays+interview. Directional use only — see myths-red-flags.md on holistic review.
 - Their SAT case ladder (1400 → 1480 → 1550 over three sittings) is retake bait for students who start high; does not apply to profiles already past every target bar.
 
-Sources: DAThbx-ucy_, DA05GCQusmD, DSvcr3QAUjc, DLm6NVWpBVX, DP3vofwAPec, DSphV55gMzi, DLm6QZ5h1UJ, DD9mpYvOqoX; additions from unfiled Crimson webinar transcript (Aug 2024 paste, 2026-08-26).
+Sources: DAThbx-ucy_, DA05GCQusmD, DSvcr3QAUjc, DLm6NVWpBVX, DP3vofwAPec, DSphV55gMzi, DLm6QZ5h1UJ, DD9mpYvOqoX; additions from unfiled Crimson webinar transcript (Aug 2024 paste, 2026-08-26), DmUXUFiYZY, DWYdukiFkR0, Dby15sGCb1v.
 
 ---
 
-## Distilled items (2026-09-05 batch)
+## The Boring Extracurricular Hall of Shame (Ivy Brothers crawl, 2026-09-21) [DbmUXUFiYZY]
+
+Seven entries the account calls out as the most common placeholders on competitive applications — each with the mechanism of why it fails:
+
+1. **NHS member** — not an achievement, an attendance record: no application, no selection, no output attached to your name.
+2. **Key Club** — signals you joined, not that you did anything; without an event you ran or a chapter you grew, it reads as a placeholder.
+3. **Bench varsity sport** — reads WORSE than not playing at all: four years of effort with no result to show; sitting out with no accolade suggests the time wasn't spent building anything else either.
+4. **1,000 hours community service** — measures your calendar, not your impact; one project with a measurable outcome beats a four-digit number every time.
+5. **"Passionate about helping others"** — the sentence they skip; read hundreds of times a cycle; if it were true, you'd describe what you built or fixed — not how it made you feel. Vague passion language = the single most common tell of a generic application.
+6. **Student government (secretary)** — the title nobody else wanted; taking minutes isn't leadership; without a policy passed or an event launched, the title does nothing for you.
+7. **Piano, no accolades** — an instrument with no result is a hobby, not a credential; years of lessons don't translate to evidence without a competition, recording, or performance; talent not demonstrated publicly doesn't exist to an admissions officer.
+
+*This student: all three products pass the test (each has output attached to the name — shipped app, demo site, quantified HR system). The Julience HR entry must lead with the OUTPUT (tracking system, 60% man-hour cut, 13% attendance boost), not the title — "Head of HR" without the project is the secretary trap.*
+
+## Why colleges pick students with lower grades (Ivy Brothers crawl, 2026-09-21) [DWYdukiFkR0]
+
+The five levers in the account's sharpest comparison form (the other student vs. you):
+
+1. **Institutional priorities** — the orchestra needed an oboe, the football team needed a kicker; you were just another good student.
+2. **The spike** — nationally ranked in something vs. "well-rounded" (which means forgettable).
+3. **Better story** — overcame something specific and compelling vs. good grades and "worked hard."
+4. **Strategic activities** — built a nonprofit that solved a real problem vs. volunteered at 12 places for 10 hours each.
+5. **Essay execution** — made the AO feel something vs. grammatically perfect and completely generic.
+- Bonus: connections (grandparent on the board, feeder camp, annual donations) — the unfixable one; the account's claim is that everything else is fixable.
+- *Matches the existing Differentiators list and the Four Levers above — the same framework in comparison form. ViDrive + the three products already occupy levers 2–4; the essay-execution lever is the one still open.*
+
+## Extracurricular myths, part 2 (same crawl) [Dby15sGCb1v]
+
+- **Minimum-wage job context rule:** if the student is low-income or first-gen, an AO reads the job as real and it helps; from a private school, a service job reads as lack of ambition — better ways exist to show resilience than a job anyone off the street can get.
+- **Band/orchestra time sink:** if not playing at a national or international level, close to a waste of time — worse, it eats the hours that should go to the spike.
+- **Volunteer hours are passive:** AOs don't care about 200 vs 50 hours — it only counts with leadership and real impact behind it (started something, ran it, changed something).
 
 ### DcvqmIKicfD [school_list, activities, recommendations]
 

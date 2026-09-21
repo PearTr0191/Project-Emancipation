@@ -191,3 +191,7 @@ If any of these are in your draft, cut. The draft is only ready when an AO can r
 ## 7. One-line summary
 
 **UILG's content is the noise your voice has to be heard over.** She is a very good operator of a very good template. The template is what the AO is sick of. The voice — yours — is what they're looking for. Don't import her template. Don't even import her anti-template tricks ("I'll write the OPPOSITE of UILG!") because that's still a derivative. Write the thing only you can write, slowly, in scenes, and let the AOs hear a person they haven't heard from yet.
+
+## 8. Second template on the market: Ivy Brothers (2026-09-21)
+
+A second major admissions voice now has a full profile: `knowledge/ivy_brothers_profile.md` — an admissions FIRM (not a mentor persona) selling former-AO access, with a fear register ("cooked," "average Joes," "families that play to win"). Its tactical intel is the corpus's best (school-specific supplement maps, aid asterisks, the ED-card map — captured in `knowledge/ivybrothers-school-intel.md`); its voice is the fear-register version of the same template disease. The comparison table (UILG vs Ivy Brothers) is in §4 of that file. The AO now skims BOTH templates — the aspirational one and the fear/insider one. Write like neither.

@@ -40,4 +40,14 @@ Principles for a strong LOCI consistent with the corpus: restate commitment (if 
 
 During deadline windows, lead with timeline triage: what's due first, what has dependencies (recommender lead times, test score sending), what can be batched.
 
-Sources: C-Nqs58MkWe, C-GFEWYuYfL, DA05GCQusmD, DIBoicsMYY3, C82DnKrM_Lm, DUOsaLLgJiG, DTNkktNAXGF, DDr7K4EvESr.
+Sources: C-Nqs58MkWe, C-GFEWYuYfL, DA05GCQusmD, DIBoicsMYY3, C82DnKrM_Lm, DUOsaLLgJiG, DTNkktNAXGF, DDr7K4EvESr, DYFd5FmlpWR, DSgOAQDCS1Y, DYIb30CCZPr, DcJX_nblo3Q, DcjGGRFFnRl, DagOuYNidaX, DdXRg64CcDP.
+
+---
+
+## Ivy Brothers additions (2026-09-21 crawl)
+
+- **The ED-card map** (how each school uses ED — full detail in `knowledge/ivybrothers-school-intel.md` §ED-card map): UPenn/Duke = the real admit round (~50% of class); Northwestern/Vanderbilt/WashU = yield insurance; **Brown/Dartmouth = the only round where unhooked applicants have a strong shot (ED roughly doubles your odds)**; Columbia/Cornell = hooked-heavy, ED matters less than you think; HYP = REA only, marginal boost for unhooked applicants. [DYFd5FmlpWR]
+- **The deferral taxonomy** (what each deferral actually means — full detail in `knowledge/myths-red-flags.md`): Yield Protection (they're waiting for a LOCI), Backup Student (on the shelf until March), Courtesy Deferral (Harvard/Georgetown — "decent, but we don't want you"). A deferral at Notre Dame is a real second read, not a soft no (2,608 deferred last cycle) [DdXRg64CcDP]. Deferred Dartmouth applicants re-read at RD where only ~5–10% of them get in — the early bump does not carry over [DagOuYNidaX]. [DSgOAQDCS1Y]
+- **"The read": the entire app gets ~8 minutes; two AOs skim, tag, move on** — the essay better hit in paragraph one. Deadline-season pacing implication: the first 50 words of every essay get written and polished before anything else. [DYIb30CCZPr]
+- **Michigan postpone mechanics** (RD-fallback relevant): Michigan postpones early applicants in bulk instead of denying; a postpone = the file is alive and they want more evidence — new SAT/ACT + first-term senior grades until Feb 1 (they invite this in writing; almost nobody does it), plus the Expression of Continued Interest form in Enrollment Connect due March 1. One strong update beats five small ones. [DcJX_nblo3Q]
+- **USC's new binding ED** (Fall 2027 applicants) with the Nov 1 merit-pool rule (RD forfeits Trustee/Presidential entirely) — USC is off the final lock, but the pattern generalizes: at merit-money schools, the early round is the only way into the money. [DcjGGRFFnRl]
