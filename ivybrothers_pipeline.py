@@ -332,7 +332,7 @@ def download_slide(page, url: str, path: Path) -> bool:
                 const buf = await r.arrayBuffer();
                 const bytes = new Uint8Array(buf);
                 let binary = '';
-                const chunk = 0x8000;
+                const chunks = 0x8000;
                 for (let i = 0; i < bytes.length; i += chunk) {
                     binary += String.fromCharCode.apply(null, bytes.subarray(i, i + chunk));
                 }
@@ -406,7 +406,7 @@ def process_code(page, code: str, record: dict, state: dict) -> str:
             # on 2026-09-21 before this fix).
             continue
     else:
-        raise RuntimeError(f"navigation failed for {code}")
+        raise RuntimeError(f"Navigation failed for {code}")
 
     try:
         info = page.evaluate(CAPTION_JS) or {}
@@ -477,7 +477,7 @@ def phase_extract(page) -> int:
         except RuntimeError as exc:
             if "login wall" in str(exc):
                 state["login_wall_hit"] = True
-                print(f"[abort] login wall detected at {code} — stopping loop, surface to user", flush=True)
+                print(f"[abort] login wall detected at {code} — stopping loop and surfacing to user", flush=True)
                 break
             result = "failed"
         except Exception:

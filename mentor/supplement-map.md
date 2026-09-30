@@ -33,13 +33,28 @@ Each school gets 1–2 supplements (varies by school). The strategy is: **one Co
 - **Open research:** Stanford's specific CS/DS programs (Symbolic Systems, HCI group, Stanford AI Lab), faculty you'd want to work with, and culture details (founder culture, Silicon Valley proximity).
 
 ### Dartmouth (ED, Nov 1) — Reach — **PRIORITY 1 (early slot, confirmed 2026-09-21)**
-- **Supplements required:** 3 short essays (verified 2026-09: 1×100w "Why Dartmouth" + 2×250w from a prompt menu) + Common App personal statement. Due Nov 1 (ED).
-- **C7 emphasis:** Nearly identical to Stanford but talent/ability is Important (one tier down). Extracurriculars and character Very Important.
-- **Likely prompts (verify against 2026-27):**
-  1. "Please briefly elaborate on one of your extracurricular activities or work experiences." (150–250 words) — ViDrive.
-  2. "Why Dartmouth?" (100 words) — must reference specific Dartmouth programs (DALI, Guarini Institute, specific faculty). Generic = fail.
-- **ViDrive deployment:** The extracurricular supplement is ViDrive's stage. Frame as "doing, not being" — Dartmouth's grid demotes talent but elevates character. The builder-with-purpose narrative aligns.
-- **Open research:** Dartmouth's DALI lab, Guarini Institute for Intl. Studies, specific CS faculty working on data-for-social-good.
+- **Supplements required (SOURCE-VERIFIED 2026-09-22):** 3 essays + Common App PS, due Nov 1 (ED). Source: `admissions.dartmouth.edu/glossary-term/writing-supplement` — "Writing supplement prompts included in Dartmouth's application for admission to the Class of 2031," updated July 22, 2026.
+  1. **Required of all applicants, 100 words or fewer:** "As you seek admission to Dartmouth's Class of 2031, what aspects of the college's academic program, community, and/or campus environment attract your interest? How is Dartmouth a good fit for you?"
+  2. **Required, respond to ONE of the following in 250 words or fewer:**
+     - A. Quaker saying — "Let your life speak. Describe the environment in which you were raised and the impact it has had on the person you are today." **SELECTED**
+     - B. Oscar Wilde — "'Be yourself,' Oscar Wilde advised. 'Everyone else is taken.' Introduce yourself."
+  3. **Required, respond to ONE of the following in 250 words or fewer:**
+     - A. "What excites you?"
+     - B. Dolores Huerta (purpose) — "In what ways do you hope to make—or are you already making—an impact? Why? How?" **SELECTED**
+     - C. Matt Haig (reading) — "How have you experienced such insight from reading? What did you read and how did it alter the way you understand yourself and others?"
+     - D. Jane Goodall (dialogue) — "Tell us about a moment when you engaged in a difficult conversation or encountered someone with an opinion or perspective that was different from your own. How did you find common ground?"
+     - E. "Celebrate your nerdy side."
+     - F. Kermit the Frog (difference) — "How has difference been a part of your life, and how have you embraced it as part of your identity, outlook, or sense of purpose?"
+- **C7 emphasis:** Nearly identical to Stanford but talent/ability is Important (one tier down). Extracurriculars and character Very Important. (Source: `knowledge/cds-comparison-9schools.md`.)
+- **Recommended combination (the 5% Gap arc):** **1 + 2A + 3B.**
+  - **Essay 1 (100w):** one factor Dartmouth does that most top schools don't + prove you actually need it + at least half the words on why the factor is yours (the Ivy Brothers rule [DagOuYNidaX]). Best factor candidates for this file: **DALI Lab** (real builds for real clients — the data-utility thread continues), **the D-Plan** (a winter off-term = DS internship/competition window semester schools cannot match), discussion-based classes. Generic praise of the fit = instant fail; a list of factors = your college list with the names removed.
+  - **Essay 2A (250w):** the environment raised you = Vietnam — the origin of the 5% Gap (the market where data doesn't reach the people making decisions). Environment → impact → the person it made. This is the theme's ORIGIN story and hands the mentor a clean structure. (2B duplicates the PS's job — skip it.)
+  - **Essay 3B (250w):** Huerta's "are you already making an impact" is literally ViDrive's position (shipped, ~750 target MAU, 30M VND saved per user). The essay carries the WHY, not the numbers — the numbers live in the activities list (the resume-in-prose rule [DdAcsg0iafW]). Structure: what you built → who it changed → why it matters to you → the Dartmouth continuation (DALI / D-Plan).
+  - **Alternates:** 3E ("Celebrate your nerdy side" — the 3 a.m. self-taught Python + Agentic AI build) if the mentor wants a lighter third; 3D (Goodall dialogue) only if the PS does NOT already cover the disagreement/common-ground territory.
+- **ViDrive deployment:** spread across 3B (the proof) and 1 (the continuation); 2A carries the origin WITHOUT ViDrive — the gap existed before the project, and that is the theme's point.
+- **Open research (for the 100w essay, ~30+ min):** name 1–2 specifics — DALI Lab actual build examples, a specific CS/DS faculty member working on data-for-social-good, D-Plan mechanics. The KB's Dartmouth section (`knowledge/ivybrothers-school-intel.md`) has the program list: Thayer AB/BE path, Tuck Bridge, the D-Plan, STARS.
+- **International reality check (the honest ceiling):** the international admit rate sits well below the ~6% overall; ED is still the right bet — the only round where unhooked applicants have a strong shot (roughly doubles odds), need-blind for internationals (the family contribution can actually go to zero). [DagOuYNidaX, Dcv-h8GFlTh, DYFd5FmlpWR]
+- **PS handoff (weekend human mentor):** the 5% Gap outline with fill-in blanks is in `mentor/PS-theme-outline.md`; the recommended supplement combination above gives the mentor the full arc (origin → proof → fit) so the PS and the three supplements divide the theme without repetition.
 
 ### Northeastern (RD, Jan 15) — High Target (#1 priority)
 - **Supplements required:** Common App personal statement + Northeastern-specific writing supplement (typically 2 essays).
