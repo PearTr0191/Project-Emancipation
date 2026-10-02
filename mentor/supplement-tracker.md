@@ -7,7 +7,7 @@ Status: prompts verified for locked $30k list (Stanford REA 8, Dartmouth RD 0 �
 | # | School | Round | Supplement count | Confirmed prompts / notes |
 |---|---|---|---|---|
 | 1 | Stanford | REA Nov 1 | 8 pieces | 3 essays (100-250w) + 5 short answers (50w max). Prompts unchanged for 2026-27. See `school-list-locked.md`. |
-| 2 | Dartmouth | RD | 0 (only Common App PS) | No supplementals pulled; need to verify 2026-27. |
+| 2 | Dartmouth | **ED, Nov 1 (binding)** | 3 (1×100w + 2×250w) | Prompts source-verified 2026-09-22 (Class of 2031). Essay 1 v3 2026-10-01: DALI + VietHeritage, 74 words, partner-pressure flow rebuild per the student's verdict; reserves + screening rule in the map. Combo locked 1 + 2A + 3B; 3B close repointed to D-Plan (Essay 1 owns DALI). |
 | 3 | Northeastern | RD | 0 (optional honors essay only) | Confirmed: no required supplement for 2026-27. Only Common App PS. |
 | 4 | NYU (Tandon) | RD | 1 (250w, optional but essentially required) | "Bridge builder" essay, 250w. 3 sub-questions; pick one or more. Confirmed 2026-27 word unchanged. |
 | 5 | Michigan | EA Nov 1 | 2 required (300 + 550) | Leadership & citizenship (100-300w); Why specific college/school (100-550w). Confirmed 2026-27. Must write for LSA specifically. |
@@ -23,7 +23,7 @@ Status: prompts verified for locked $30k list (Stanford REA 8, Dartmouth RD 0 �
 
 *Note on Stanford: 3 short essays (100-250w each) + 5 short answers (50w max). All required. Confirmed unchanged for 2026-27.
 
-*Note on Dartmouth: no supplementals pulled in this cycle. Need to verify 2026-27 requirements before filing.
+*Note on Dartmouth (updated 2026-10-01): prompts source-verified 2026-09-22 from admissions.dartmouth.edu (Class of 2031). Essay 1 drafted (DALI + VietHeritage, 70w). 2A in rebuild (artifact recovered 2026-09-29). 3B not yet drafted.
 
 *Note on Drexel: the "Why Drexel?" prompt exists but exact 2026-27 wording should be verified from the official admissions site before drafting.
 
@@ -48,7 +48,7 @@ The same theme — asynchronous emotion / latency / the read receipt / translati
 - [ ] **Michigan supplements (2 pieces):** both required for EA Nov 1.
 - [ ] **NYU bridge builder:** written.
 - [ ] **Drexel supplement:** verify exact 2026-27 prompt from official site.
-- [ ] **Dartmouth supplement:** verify 2026-27 requirements (currently unconfirmed).
+- [ ] **Dartmouth Essay 1:** v3 2026-10-01 (74w, no-slop 45/50) — student ruled the v2 staccato register "doesn't flow" and reinstated the older partner-pressure draft as the model with VietHeritage swapped in; de-slopped (em dash, Instead binary, inflated stakes, "only" overreach, "network on," "ships to Technigala"). Reserves recorded in map (voice-scoring instance, gate clause, carry close). FLAG: verify "ten-week sprints" against DALI's site. Remaining: read-aloud pass in his own words; activity-name alignment ("Digital Museum" → include "VietHeritage") + team representation in the activity entry ("built and lead a small team"). 2A + 3B to draft.
 - [ ] **ASU Barrett:** 300-500w essay + separate free application. Must apply to ASU at least 4 weeks before Barrett deadline.
 - [ ] **Georgia Tech EA II:** verify deadline is Nov 2 (not Nov 1).
 - [ ] **Purdue EA (Nov 1):** 2 essays drafted.

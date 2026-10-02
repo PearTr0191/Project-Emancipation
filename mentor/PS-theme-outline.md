@@ -55,6 +55,8 @@ Winning essays are decided by **scenes, not theme labels**:
 
 ## 4. Essay skeleton — fill this in
 
+**FINAL ARCHITECTURE (2026-09-30, chair-hook v3 — supersedes the Hook→M1→Seam→M2→Close assembly; the outline's blocks below are retained as source material):** Hook = the chair ("The best answer I have ever seen was not a sentence") → M1 orientation scene with backup-for-rain pivot → Thursday journal reply → group-chat pattern + server standard → M2a CircleK → M2b fortnight + journal line → ViDrive stranger (four minutes) → channel line → eleven-minute reply act (thesis enacted, not stated — the caring/delivery sentence was cut 2026-09-30 on review: the action carries it) → close ("I set my own margin at five percent") → bookend "I answer some". CLOSE CHANGED 2026-10-01: the "ViDrive spec at 5%" framing was an unsourced product claim; five percent is now explicitly a self-imposed margin, and the close asserts nothing about the app's parameters. If the student confirms a real 5% tolerance in the code, the spec framing may return.. Rulings: read-receipt material demoted from opener to diagnosis paragraph; ViDrive stays after M2 (its message breaks the "nobody was there to receive it" pattern); spine lines "The room stayed the same" and "Nobody was there to receive it" restored after an external pass cut them; score digits removed (SAT/IELTS named, numbers live in the file).
+
 ### Movement 0 — Hook (the read receipt) — REFINED 2026-08-31
 Open on the notification, land the dual-register twist in the first lines. The inversion is already his — journal: *"My eyes, always towards those at the very top... My heart, to the people who I know will break it."* Eyes = ACK channel, clean and upward; heart = the wound, outward, to people who will break it.
 
@@ -84,11 +86,16 @@ Target reader experience: confident surface, then the exact moment the logic run
 ```
 - [ ] OPTIONAL texture beat (from culture observations): the scripted two-question exchange — *"How's the test?" / "Mr. X? Yeah, tough proctor."* — as overheard DIALOGUE inside the scene. Dramatizes the protocol gap with zero commentary. Rule: dialogue only; if a sentence explains why THEY'RE fake, cut it.
 
-### Seam — ViDrive user message — REFINED 2026-08-31
-The real user who messaged: saved 30M VND; numbers "cleared feeling-ish assumptions"; hadn't priced the gas-vs-electric gap; didn't need the car class he thought — CR-V → VF6.
+### Seam — ViDrive user message — REFINED 2026-08-31 · FIGURE RESOLVED 2026-10-01
+The real user who messaged: **saved 330M VND — VERIFIED 2026-10-01.** The basis is MSRP, not running costs: a CR-V L at 1.1B VND against a VF6 Plus at 770M, on the car he actually bought. The old 30M figure was the projected running-cost delta and is now retired across every file. Numbers "cleared feeling-ish assumptions"; hadn't priced the gas-vs-electric gap; didn't need the car class he thought — CR-V L → VF6 Plus.
 Reader function: logic visibly WORKS on someone else's emotions → makes the private failure-to-self (M2) land harder. The tolerance exists for strangers' wallets, not for my own interior.
 
-> A user once told me I saved him 30M VND. The numbers didn't erase his instinct — they gave it a floor to stand on.
+**All three open items closed 2026-10-01, student-confirmed:**
+1. **Figure: 330M**, not a rounded 300M. 1.1B − 770M = 330M exactly, so the CV, the PS, and the subtraction an interviewer does in their head all agree.
+2. **Trims: CR-V L** on the 1.1B side, **VF6 Plus** on the 770M side. Named wherever the prices appear outside the PS; the PS keeps only "the class of car he actually needed," since the trim hierarchy drops user-story detail first.
+3. **Attribution: the user's own message carries the number.** "He wrote back that I had saved him three hundred thirty million dong" quotes him accurately, so the sentence stands and no rewrite is needed.
+
+> A user once told me I saved him 330M VND. The numbers didn't erase his instinct — they gave it a floor to stand on.
 
 **Edits from the first draft:** "they gave it a floor" → pinned to *instinct* (the pronoun was ambiguous — the instinct is the point, not the car). Then cut "about which car he could afford": the CR-V/VF6 specificity belongs in the trim hierarchy, not in the thesis line. The thesis now reads in four seconds.
 
@@ -125,7 +132,7 @@ Reserved line concept: subcalculations within 5%; no tolerance available for him
 **Trim fallback (unchanged):** "Every subcalculation lands within 5% accuracy. And I can't compute myself to any tolerance at all."
 
 ### TRIM HIERARCHY (if draft exceeds 650 words — cut in this order)
-1. Seam shrinks to ONE sentence ("A user once wrote that I saved him 30M VND.")
+1. Seam shrinks to ONE sentence ("A user once wrote that I saved him 330M VND.")
 2. User-story details drop — keep only the savings figure, lose CR-V/VF6 specifics
 3. Hook ornamentation — keep the dual-register twist, cut scene-setting
 4. **NEVER cut:** M2's forward motion or the close. Those are the essay's spine.
@@ -169,7 +176,8 @@ Reserved line concept: subcalculations within 5%; no tolerance available for him
 - [x] **M2 trigger — CORRECTED 2026-08-31.** My earlier call to kill the 1540 night was wrong, and the student's correction is the right one. I rejected it as "common ground — score essays are pattern-matched." That was correct *for a score brag* and wrong for a perception-gap origin story. The CircleK night is not about the 1540; it's about the score **changing nothing about how he was perceived** — the birth of the entire 5% gap, years before the theme had a name. It is the essay's center of gravity, not a detour. **M2 is now two moments, same mechanism:** M2a CircleK (the birth) + M2b IELTS/VTV (the structural proof, documented). Both verified real.
 - [x] **Read receipt placement — DECIDED: OPENS.** Rationale: crawl winners open concrete; the frame sets the lens for both movements; creates engineering bookends with the ViDrive close. Requirement: the dual-register twist (ACK-normal in code vs wound between people) must land within the first lines, not just the notification image. **Note:** the dual register is already his — journal: *"My eyes, always towards those at the very top... My heart, to the people who I know will break it."* The essay transcribes it; it doesn't invent it.
 - [x] **Heritage check — MASSIVE yes (T4 material surfaced):** grandfather Quang Tri→Ha Tinh w/ two fingers missing; father bare-hands to Hanoi, consultant→founder→VP→gave it all up for the kids; taught financial literacy "without any capital"; student reached US applications with no consulting service. → Routed to why-major supplement + recommender packet per Guardrails 9–10. T4 braid stays shelved as a PS structure, but the lineage now FEEDS the app.
-- [x] **ViDrive human moment — CONFIRMED and stronger than hoped:** user message, 30M VND saved, gas-vs-electric blindspot caught, CR-V→VF6 downsizing, "numbers help clear instinctive, feeling-ish assumptions." → Deployed as Seam (§4). Thesis refined: logic gives emotion a floor.
+- [x] **ViDrive human moment — CONFIRMED and stronger than hoped:** user message, gas-vs-electric blindspot caught, CR-V→VF6 downsizing, "numbers help clear instinctive, feeling-ish assumptions." → Deployed as Seam (§4). Thesis refined: logic gives emotion a floor.
+- [x] **Savings figure — RE-VERIFIED and FINAL 2026-10-01: 30M → 330M VND.** The 30M was a projection off the running-cost model. The real saving is the MSRP gap on the purchase he actually made: CR-V L at 1.1B against VF6 Plus at 770M, 330M VND, the figure carried by the user's own message. That retires the "projected" qualifier everywhere and closes open item (4) from the 2026-10-01 VinUni log. The three follow-ups raised the same day — attribution, trim names, arithmetic — are all closed and recorded in §4.
 
 **New open item:**
 - [x] ~~Verify the praise-flat night exists as a real memory~~ **RESOLVED 2026-08-31.** The "praise-flat night" turned out to be two real, documented moments — CircleK (1540, perception unchanged) and the IELTS/VTV fortnight (max public recognition, zero trust/love). Both verified by the student. The verification method that worked: **re-enter the artifact, don't recall the evening.** Read the message, check the newspaper, open the commit. Memory of a trigger is easier than memory of a night. Use this for M1 too.

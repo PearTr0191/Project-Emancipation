@@ -63,13 +63,45 @@
 
 ---
 
+## Aid posture by school — the two separate questions (Stanford source-verified 2026-10-02)
+
+**"Need-blind" and "meets 100% of need" are different gates.** Need-blind means finances cannot affect the *admit decision*. Meets-full-need means that *once admitted*, the school covers your demonstrated need. At $7.5k/yr the student needs **both** — a school that meets full need but is need-aware still lets a low-income international get rejected on affordability.
+
+| School | On locked list | Need-blind for internationals | Meets 100% demonstrated need |
+|---|---|---|---|
+| **Dartmouth** | ✅ ED, Nov 1 | **Yes** (workspace-verified 2026-09) | **Yes** — the only school here with both gates |
+| **Stanford** | ✅ RD | **No — explicitly excluded.** Stanford's own policy: admission is made "without regard to the applicant's financial status, **except in the case of international students who are neither U.S. citizens nor U.S. registered permanent residents**." Its aid page says the program is need-blind "for all but some international applicants." | Yes **if admitted with aid eligibility** — but "Stanford has a limited amount of financial aid for international students," and awards come "from institutional funds based on their family financial circumstances" |
+| **NYU** | ✅ RD | **No** — need-aware for internationals | **Yes** — NYU Promise, 100% of demonstrated need, NYC campus, regardless of citizenship (workspace-verified 2026-08-31) |
+| **Northeastern** | ✅ stretch | No | **No guarantee** — co-op (~$15–25k/yr) is the only mechanism; $60–70k/yr gap remains |
+| **Illinois Tech** | ✅ settlement-only | No | No |
+| **VinUni** | ✅ pivot | N/A — merit/scholarship track, not need-based | N/A; Full Ride = 100% tuition + living stipend |
+| **NUS** | ✅ unverified | — | Unverified (fees PDF never parsed) |
+
+**Dropped 2026-09-07 at $30k — none has full-need for internationals:** Michigan, Georgia Tech, Purdue, Case Western, RPI. **Never on / off-list:** USC, Cornell, Stony Brook, ASU, Drexel, HYP, LACs (Bowdoin/Amherst are need-blind + full-need but weaker CS; Swarthmore is full-need but need-aware).
+
+**Stanford sources** (read 2026-10-02): `studentservices.stanford.edu/more-resources/student-policies/admissions/admission-financial-aid` and `financialaid.stanford.edu/undergrad/` (need-blind "for all but some international applicants") and `financialaid.stanford.edu/undergrad/how/international.html` ("limited amount of financial aid for international students"; "International students who do not request consideration for financial aid at the time they apply for admission will not be eligible to apply for aid at Stanford throughout their undergraduate years"). The Cornell AFAWG survey PDF that classifies Dartmouth as need-aware is **dated 2016 and stale** — Dartmouth has since become need-blind. Do not cite it.
+
+**Operational consequence for Stanford:** aid request must be made **on the application** (declining means no institutional aid ever). At $30k/yr family income he is a large-need applicant filing into a limited international pool, and the admission read is need-aware. **Stanford stays on the list** — need-aware is a penalty, not a disqualifier, and it is the highest-upside school on the board — but it should never be described as cost-equivalent to Dartmouth. It is not.
+
+**Budget ceiling test — $30k realistic, $40k stretch (student-confirmed 2026-10-02).** The stretch does **not** reopen the dropped schools, and the arithmetic is worth writing down so nobody relitigates it:
+
+| | At $30k ($7.5k/yr) | At $40k ($10k/yr) | Gap remains |
+|---|---|---|---|
+| Michigan / Georgia Tech / Purdue (COA ~$55–65k/yr) | need ~$47.5–57.5k/yr | need ~$45–55k/yr | **~$45k/yr — a $2.5k/yr raise moves nothing** |
+| Northeastern (COA ~$85k, co-op $15–25k/yr) | need ~$60–70k/yr | need ~$50–60k/yr | still hopeless |
+| Dartmouth / NYU / Stanford | fully covered either way | fully covered either way | **no change to school choice** |
+
+The $40k ceiling would have to be roughly **$50k/yr (~$200k total)** before any public on the old list becomes arithmetically reachable, and even then only with a large scholarship win. **Do not rebuild the list for the stretch.** The binding constraint on those schools was never your budget — it's that they publish no full-need policy for international students, so no realistic budget closes the gap.
+
+**Where the $40k actually pays: VinUni.** At $7.5k/yr against a ~$28k/yr COA (≈$21.2k post-subsidy tuition + ~$7k living), he needs essentially a **Full Ride** (100% tuition + living stipend) — the top of the merit ladder. At $10k/yr he needs roughly **64% of tuition**, which Dean's Distinction (80–90%) covers with margin. So the stretch **downgrades VinUni's requirement from "top scholarship only" to "Dean's Distinction or above."** Given VinUni is his highest-odds near-zero-cost path, that is where the flexibility is worth something. Apply as if $30k; treat $40k as upside that lowers the domestic scholarship bar, not as license to re-add US schools.
+
 ## Settlement pathway alignment
 - Northeastern is the only co-op school on the list and the primary mechanism for the #1 priority (early US work experience).
-- Purdue + Case + RPI supply technical credibility recognized by frequent H-1B sponsors.
 - Illinois Tech keeps the cost floor low enough to actually attend and complete the degree; kept for settlement-pathway feasibility, not education depth.
-- NYU + Dartmouth provide the strongest pure need-based chances among the privates.
-- Stanford remains the high-upside brand lottery ticket.
-- Michigan + Georgia Tech add strong public DS/AI pipelines with realistic post-grad employer access (Ann Arbor / Atlanta tech corridors).
+- NYU + Dartmouth provide the strongest pure need-based chances among the privates — and Dartmouth is the only one that is need-blind *and* full-need.
+- Stanford remains the high-upside brand lottery ticket, on the weakest aid posture of the three US reaches.
+- ~~Purdue + Case + RPI supply technical credibility~~ — dropped 2026-09-07 at $30k, no full-need.
+- ~~Michigan + Georgia Tech add strong public DS/AI pipelines~~ — dropped 2026-09-07 at $30k, no full-need.
 
 ---
 

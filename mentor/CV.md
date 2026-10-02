@@ -1,75 +1,17 @@
-# CV — [Name]
+# Application Master — [Name]
 **Class of 2027 | Vietnam | International Applicant**
 SAT 1540 · IELTS 9.0 · G10 9.5/10 · G11 ~9.6–9.7/10
 **Intended major:** Data Science / Applied ML
 
----
-
-## Projects (Tier 1 — the spike)
-
-### ViDrive — Car TCO Web App · 2026 · *Shipped*
-Self-taught Python and Agentic AI workflows to build a car total-cost-of-ownership web app that cuts new-car research from 4+ days to under 2 and saves buyers up to 30M VND per decision. On track for 750 monthly active users within two months of launch.
-
-**150-char version:** Built ViDrive, a car TCO web app, cutting new-car research from 4+ days to under 2 and saving buyers up to 30M VND. Targeting 750 monthly active users.
-
-### Rescue Assist System — Emergency Response AI · 2026 · *Submitted*
-AI system utilizing data for emergency response coordination. Ideated and submitted to the **Intel AI Global Impact Festival Vietnam** (elimination round evaluated).
-
-**150-char version:** AI rescue assist system for emergency response coordination. Submitted to the Intel AI Global Impact Festival Vietnam.
-
-### Digital Museum — Cultural Data Preservation · 2026 · *Finished, demo live*
-Preserving cultural data through a digital museum; deployed as a demo website.
-
-**150-char version:** Digital museum preserving cultural data, deployed as a live demo website. Makes cultural heritage accessible online.
-
-**Through-line:** All three are data-utility tools for public good — decisions (cars), emergencies (rescue), memory (museum).
-
----
-
-## Leadership & Operations (Tier 2)
-
-### Head of Human Resources — Julience Science Festival · 2026
-Reclaimed 9 of 15 weekly HR man-hours and boosted working attendance by 10 of 80 members by introducing a semi-automated performance tracking system for 40 members across three departments.
-
-**150-char version:** Reclaimed 9 of 15 weekly HR hours and raised attendance 10 of 80 via a tracking system for 40 members across three departments.
-
-### Orientation Group Leader — Foreign Language Specialized School · Aug 2025 – Sep 2026
-Directed and onboarded a cohort of 23 freshmen across a multi-day orientation program; facilitated group integration and resolved participant conflicts within 15 minutes of escalation, applying active conflict resolution under tight event constraints.
-
-**150-char version:** Onboarded 23 freshmen through multi-day orientation. Resolved conflicts within 15 minutes of escalation using active conflict resolution.
-
----
-
-## Open-Source Contributions (Tier 2)
-
-### Maintainer-Reviewed PRs — NoLlama (Intel NPU / OpenVINO LLM server) · Aug 2026 · *Merged upstream*
-Three PRs merged into [`aweussom/NoLlama`](https://github.com/aweussom/NoLlama) by the same contributor, each after multi-round maintainer review. All shipped behind regression tests or node harnesses on `main`.
-
-**PR #23 — `feat: Added Markdown syntax support; fixed sticky-scrolling`** (merged Aug 13; upstream base for #35)
-The Web UI renderer pipeline (`mdEscapeAndRender`, `mdInline`, `escapeAttr`, `safeUrl`). Four real bugs found under maintainer review: (1) XSS via unquoted attribute injection (`![x" onerror="alert(1)](y)` executed on render) — fixed by an `escapeAttr` quote-escaper + a `safeUrl` allowlist (http/https/mailto/relative — `javascript:`, `data:` render as plain text); (2) `mdInline` ran twice (whole text then per line), breaking underscores inside `href` URLs; (3) emphasis regexes crossed newlines, destroying star-bullet lists; (4) blockquote matched raw `>` before escaping turned it into `&gt;`. Plus the sticky-scroll architecture (`streamState`, `updateStreamBubble`, pinned/freed model on expanded thinking blocks) that keeps user scroll intact during streaming. All 8 failure cases + 7 regression cases verified with a node harness.
-
-**150-char version:** Shipped #23 on `aweussom/NoLlama`: built the markdown renderer (`escapeAttr` XSS guard, `safeUrl` scheme block, single-pass `mdInline`) + pinned scroll during streaming; 15 cases verified.
-
-**PR #34 — `feat: pin NPU_PLATFORM on NPU load (AUTO_DETECT guard)`**
-Pinned the `NPU_PLATFORM` constructor kwarg in the NPU load path so the Intel NPU compiler stops defaulting to `AUTO_DETECT` and returning `Unsupported platform: 'AUTO_DETECT'` on Intel Core Ultra hardware. Surface area: a `--npu-platform` flag with auto-resolve from `DEVICE_ARCHITECTURE`, the platform printed in the device banner, and an `AUTO_DETECT`-specific hint in the user-facing error explainer (matched before the generic "Compilation failed" branch, gated on the serving slot being NPU). Regression test `tests/test_npu_pin.py` covers all four orderings — including the GPU-slot gate — so a future reorder breaks a test instead of a user's afternoon.
-
-**150-char version:** Shipped #34 on `aweussom/NoLlama`: pinned `NPU_PLATFORM` so Intel NPU stops failing on `AUTO_DETECT`; added `--npu-platform`, a banner suffix, and a regression test for the error-hint ordering.
-
-**PR #35 — `feat: web UI markdown table pass + NPU-gated history-length banner`** (closes #25, #26)
-Two production fixes to the Web UI streaming renderer. **Markdown tables**: pipe-in-cell content no longer splits on `|`, alignment colons (`:--`/`-:`/`:-:`) supported, streaming assembly covered, and `splitTableRow` tracks bracket depth so footnote-style `[1]` and unclosed `[` don't swallow the next cell. **History-length banner**: warns the user when chat history approaches the NPU's prompt-token cap (NPU-only — the UI gates it on `/health` reporting an NPU device, since GPU/CPU have no such limit). CSS uses the existing theme variables. Test harness `scripts/md-render-test.mjs` at 52/52 including XSS-in-cell, code spans in cells, alignment, and footnote edge cases.
-
-**150-char version:** Shipped #35 on `aweussom/NoLlama`: added markdown tables + a NPU-only history-cap banner to the Web UI renderer, with a 52-case test harness behind it.
-
-**Through-line:** Three PRs, same codebase, same reviewer — from the renderer foundation (#23) to an error that lied to the user (#34) and a table the renderer couldn't render (#35). Each one: find the place the system misleads the user, fix it minimally, leave a regression test behind it.
-
----
-
-## Teaching & Service (Tier 3)
-
-### SAT Tutor — Schoolhouse · Feb – Mar 2026 · Volunteer
-Taught two 1-on-1 SAT classes over nearly 20 hours, raising both students from a 1260 baseline to 1450+.
-
-**150-char version:** Taught two 1-on-1 SAT classes over nearly 20 hours, raising both students from a 1260 baseline to 1450+.
+> **The CV lives in two files now** (split 2026-10-01 after the VinUni specialist review):
+> - `CV-vinuni.md` — VinUni 1-page CV on the official template (About Yourself / Ability / Experiences / Aspiration / Creativity / Rewards & Scholarships / Commitment). Draft content ready; fill [Name]/[phone]/[email] and the G12 grade, then finalize the boxes.
+> - `CV-commonapp.md` — Common App master: tiered full descriptions + 150-char entries + what goes where in the Activities section.
+> Shared rule for both: one field — making data useful and trustworthy for real decisions. Name it; do not bury it.
+>
+> **Two entries added 2026-10-01:** GlowBal (beta tester & technical advisor, Aug–Sep 2026) and "Dear Across The Blue" (co-orchestrator & technical lead, Mar 2026). Both are in `CV-commonapp.md` and `CV-vinuni.md`. Consequences to carry forward:
+> - The Activities shortlist is now 9 against an 8-slot cap. Recommended cut: Rescue Assist (rationale in `CV-commonapp.md`). Alternative cut: Orientation Group Leader. **Superseded 2026-10-02:** the Intel AI Global Impact Festival finalist round closed without advancing him, so Rescue Assist has no competition result to lean on at all — it is out of Honors/Achievements outright, not demoted into a clause. See the 2026-10-02 log entry in `context.md`.
+> - **Talent show provenance — resolved.** `Post-Op Assessment - A2xA9 SMCNN.md` is the show's own member assessment. Sourced facts: show title "Dear Across The Blue"; roster 35 students in 11A2 + 35 in 11A9 = **70**; six departments (performance, content, design, logistics, SFX, VFX); his post recorded as technical lead and coordinator for content, SFX and VFX. The "80+" estimate used in the first draft is retired. **Two figures deliberately excluded:** his `ĐGHT` 100% (Đánh giá hoàn thành — a completion rating, and 61 of 70 members scored 100%, so it is the modal outcome rather than a distinction), and the act count, which the assessment table does not record.
+> - GlowBal's evidence lives at `D:/Projects/GlowBal` (`GlowBal B1PR.md`, `GlowBal W2 Multi-Persona Review.md`, `[GlowBal PIA] Pear - W1.md`, `W2-evidence/`). The 16 frictions / 5 personas / 17 routes figures are countable from those files and are the strongest provenance in the CV.
 
 ---
 
@@ -77,31 +19,25 @@ Taught two 1-on-1 SAT classes over nearly 20 hours, raising both students from a
 
 | Competition | When | Results | On Nov 1 app? |
 |---|---|---|---|
-| Intel AI Global Impact Festival Vietnam | Aug 2026 | Aug 2026 | If advanced past elimination |
+| Intel AI Global Impact Festival Vietnam | Aug 2026 | **Eliminated at the elimination round — did not reach the finalist round** (student-confirmed 2026-10-02) | ❌ No |
 | North Vietnam Startup Competition | Sep 2026 | By Oct 2026 | ✅ Yes — if placed |
 | NextGen Innovator | Sep 2026 | By Oct 2026 | ✅ Yes — if placed |
-| ~~HiMCM~~ | Nov 2026 | **Jan 24, 2027** | ❌ Dropped — Jan 24 is after REA (Nov 1) and after most RD deadlines. No-go for this cycle. |
+| HiMCM | Nov 2026 | **Jan 24, 2027** | Invisible to the US early file (Dartmouth ED, Nov 1). Still do it: the result lands inside VinUni's Regular Round (Feb 15–May 15) and can update late US RDs — and it is the math-modeling evidence the DS profile is missing. |
 
-**Key correction:** Startup + Innovator results land by October, so they are **not** invisible to the Nov 1 REA app — they can be included if you place. HiMCM is the only genuine no-go, and specifically because Jan 24 falls after both the REA deadline and most Regular Decision deadlines.
+**Key correction (amended 2026-10-01):** Startup + Innovator results land by October, so they are **not** invisible to the Nov 1 app — they can be included if you place. HiMCM is a no-go for the US early file (Jan 24 falls after Nov 1 and most US RD deadlines) but NOT for VinUni: its Regular Round runs Feb 15–May 15, so the Jan 24 result is includable there. VinUni Regular Round is the math-evidence vehicle for the DS profile.
 
-**Implication:** the two September competitions are real REA assets, not just RD updates. Submit them, and if you place, update the application before Nov 1 with the result. The products are already built, so this is submission logistics, not build time — but protect the essay blocks anyway, since September is the essay window.
+**Implication:** the two September competitions are real assets, not just RD updates. Submit them, and if you place, update the application before Nov 1 with the result. The products are already built, so this is submission logistics, not build time — but protect the essay blocks anyway.
 
----
+**Post-submission mechanics for late results (verified 2026-10-02, see `knowledge/common-app-changes.md`):** the Common App is locked after submission and has no global add button — late additions go through **each school's own channel, per school**. Stanford: Update Application Form in the Stanford portal. Dartmouth: upload to the applicant portal (or `submit@dartmouth.edu`, 10 business days). Consequences for this cycle:
 
-## Activities List — What Goes Where (Common App)
+| School | Deadline | Decision | HiMCM (Jan 24) usable? |
+|---|---|---|---|
+| Dartmouth **ED** | Nov 1 | mid-Dec | **No — hard no.** The decision releases before the result exists. Not a judgment call. |
+| Stanford **RD** | Jan 5 (standard; Arts Portfolio variant Dec 5) | early April | **Yes** — Jan 24 sits after the deadline and well before the decision, so the Update Application Form route is live |
+| NYU / Northeastern / rest of RD slate | Jan 1 – Jan 15 | March | Yes, pending a per-school channel check (not yet verified for each) |
+| VinUni Regular Round | Feb 15 – May 15 | — | **Yes and simplest** — the application isn't submitted yet, so the result goes in normally rather than as a late addition |
 
-**Activities section (8 slots max, use ~5–6):**
-1. ViDrive — Passion Project
-2. Rescue Assist System — Independent Project for Competition Submission
-3. NoLlama OSS Contributions (#23 renderer/XSS; #34 NPU pin; #35 tables + banner) — Independent Project
-4. Digital Museum — Independent Project for Competition Submission
-5. Julience Science Festival — Leadership
-6. Orientation Group Leader — Leadership
-7. SAT Tutoring — Volunteer
-
-**Order by impact, not chronology.** ViDrive first. Cluster the three personal projects; NoLlama lands right after Digital Museum — same "ship a real fix on a real codebase" theme, reviewer-validated. Leadership and tutoring follow.
-
-**Achievements section (Top Achievements):** Only the four real ones — ViDrive, Rescue Assist (Intel), Digital Museum, Julience HR. **No TBD placeholders.** NoLlama is not an "achievement" in the same sense (it's a contribution, not a placement); it belongs in Activities, not Achievements.
+**Read that table as a priority order.** The October competition results are worth more than the January one precisely because they land *before* Nov 1 and need no upload at all. HiMCM is a maintenance task, not a lever: the modeling is the point (as the VinUni COMMITMENT box already says), and the January upload is a five-minute afterthought that lands after most first reads.
 
 ---
 
@@ -140,7 +76,7 @@ Schools ranked on three things beyond admit odds: (1) co-op / work-integrated le
 
 **Non-US (secondary):**
 - NUS
-- VinUni (pivot — deadline ~2 months later)
+- VinUni (pivot — Early Round ~Oct 15–Jan 15, Regular Round ~Feb 15–May 15 per the posted 2026-27 cycle; verify 2027-28 dates when posted; HiMCM result Jan 24 feeds the Regular Round)
 
 ### CDS weighting at a glance (2025–26 cycle)
 
@@ -218,7 +154,11 @@ What each school rates **Very Important** — the factors that actually move a d
 - [x] Confirm school list — confirmed
 - [x] Set up Common App — done (Stanford + all targets on Common App; GT redirect verified by user)
 - [ ] **Remove 4 TBD achievements; add rescue assist + digital museum** — verify this got done with the portal setup
-- [x] Rewrite all 6 experience descriptions to ≤150 chars (drafts ready in CV)
+- [x] Rewrite all 6 experience descriptions to ≤150 chars (drafts in `CV-commonapp.md`)
+- [ ] **Number-provenance sheet for ViDrive** — one line per number (330M savings, 4+ days → under 2, 750 MAU): what it measures, how measured, sample, method. Doubles as the VinUni Round-2 interview sheet. **The 330M line is DONE** (2026-10-01): it measures the MSRP gap on a purchase the user actually made — CR-V L at 1.1B VND against VF6 Plus at 770M VND, 330M VND saved — and the figure is the user's own rather than the model's, which is what lets the "projected" qualifier come off across every file. Evidence to keep on file: the message thread plus the purchase record. The other two lines are unstarted.
+- [ ] **Build the VinUni 1-page CV** — template + draft content in `CV-vinuni.md`; fill [Name]/[phone]/[email] + G12 grade; finalize the boxes; verify the 2027-28 template when VinUni posts it.
+- [ ] **VinUni Early-vs-Regular decision** — ask chị or admission@vinuni.edu.vn whether an Early applicant can add the Jan 24 HiMCM result later; Early Round opens ~Oct 15 (verify 2027-28 dates).
+- [ ] **HSG quốc gia check** — nomination status + results timing; the only remaining path to an MOET-recognized national award.
 - [ ] Identify recommenders: 1 academic + 1 personal who truly know you
 - [ ] Build recommender one-pager (academic interests, personal challenges, 3 moments to weave in)
 - [x] Verify each school's international aid policy: need-blind? 100% need met? — **NYU confirmed: meets 100% of demonstrated need for internationals (NYU Promise, 2024-25 expansion).** Full CDS C7/C9-C12/C8 comparison + aid findings in `mentor/knowledge/cds-comparison-9schools.md`. Remaining gap: **CMU** (need-aware vs need-blind + 100% need met for internationals still unverified) and **Cornell/Rice/Vanderbilt/Duke/Notre Dame** (the +1 reaches, not yet CDS-checked).
